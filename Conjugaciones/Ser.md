@@ -1,6 +1,6 @@
 Para decir quien soy, solo es necesario usar uno de los [[Pronombres]] seguido del nombre (o lo que soy).
 
-|  Castellano | Marroqui     |
+|  Castellano | Marroquí     |
 |:-----|:-----|
 | Yo soy Guillermo     |  Ana Guillermo    |
 | Tu eres Martin     |  Nta Martin    |

@@ -1,14 +1,16 @@
-Lo único importante a destacar es que en el marroquí el "tu" distingue masculino de femenino.
+Dos cosas importantes a destacar:
+1. En el marroquí el "tu" distingue masculino de femenino.
+2. La `"H"` de "Hna" es fuerte.
 
-| Castellano | Marroqui |
+| Castellano | Marroquí |
 | ---------- | --------- |
-| Yo | Ana |
-| Tu (masculino) | Nta |
-| Tu (femenino) | Nti |
-| El | Huwa |
-| Ella | Hiya |
-| Ell@s | Huma |
+| Yo | ana |
+| Tu (masculino) | nta |
+| Tu (femenino) | nti |
+| El | huwa |
+| Ella | hiya |
+| Ell@s | huma |
 | Nosotr@s | Hna |
-| Vosotr@s | Ntuma |
+| Vosotr@s | ntuma |
 
 

@@ -10,34 +10,40 @@ En árabe la gente dice "la paz sea contigo" como forma cordial de saludar.
 > Uno también puede simplemente decir **`salam`**.
 
 
-### Buenos días, tardes
-En Marroquí, los saludos se hacen al revés, o sea, uno dice "mañana buena".
+### Despedida
 
 | Marroqui     | Pronunciación | Castellano | 
 |:-----|:-----|:-----|
-| Lkhir | ljir | Bien    |
-| Seba7 | sebah |  Mañana    |
-| Seba7 | sebah |  Mañana    |
+| bslama | bslama | Adiós    |
+
+
+### Buenos días, tardes, noches
+En Marroquí, los saludos se hacen al revés, o sea, uno dice "mañana buena".
+
+| Marroquí     | Pronunciación | Castellano | 
+|:-----|:-----|:-----|
+| 3la khir | la jir | Bien    |
+| Seba7 | sbaj |  Mañana    |
+| Seba7 | sbaj |  Mañana    |
 | Msa | msa |  Tardes    |
 | Msa | msa |  Tardes    |
-| Seba7 Lkhir | sebah lejir |  Buenos días    |
-| Messa Lkhir | messa lejir |  Buenas tardes    |
+| Seba7 3la khir | sebaj la jir |  Buenos días    |
+| Messa 3la khir | messa la jir |  Buenas tardes    |
 
+Para buenas noches, hay dos formas de decirlo: usando árabe clásico, o deseándole a la persona que tenga una linda mañana.
 
-### Despedida
-
-| Marroqui     | Pronunciación |  | 
+| Marroquí     | Pronunciación | Castellano | 
 |:-----|:-----|:-----|
 | bslama | bslama | Adiós    |
-| layla saida | layla saida | Buenas noches (polite)    |
-| tsbah ala khir | Tsbaj ala jir | Buenas noches (hombre, normal) |
-| tsbahi ala khir | Tsbaji ala jir | Buenas noches (mujer, normal) |
+| layla sa3ida | layla saida | Buenas noches (tod@s, polite - classic arabic)    |
+| tsbH 3la khir | Tsbaj aljir | Buenas noches (tod@s) |
+| tsbHi 3la khir | Tsbaji aljir | Buenas noches (mujer) |
+
+
 
 
 ### Bienvenida
 
-| Marroqui     | Castellano |  | 
+| Marroquí     | Castellano |  | 
 |:-----|:-----|
 | ahlan | bienvenid@    |
-
-
