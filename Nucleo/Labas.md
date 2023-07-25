@@ -1,9 +1,8 @@
-
 | Marroquí     | Pronunciación | Castellano | 
 |:-----|:-----|:-----|
-| kif dayr? | kif dair?  | como estas (vos)?  |
-| labas? | labas?  | todo bien?  |
-| labas 3lik? | labas alik?  | todo bien en vos?  |
+| kif dayr/a? | kif dair?  | como estas (vos)?  |
+| labas? | labas?  | nada mal? (todo bien?) |
+| labas 3lik? | labas alik?  | nada mal en vos? (todo bien?)  |
 
 
 ### Respuestas

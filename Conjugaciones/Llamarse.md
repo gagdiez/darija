@@ -13,11 +13,9 @@ Infinitivo: **`smiya`**
 | Vosotros os llamais     |  ntuma smiytkum   |
 
 
-
-
 ### Referencia
 
-[Moroccan Arabic Textbook - Page 11](../Bibliografia/Moroccan%20Arabic%20Textbook.pdf#page=11")
+[Moroccan Arabic Textbook - Page 11](../Bibliografia/MoroccanArabicTextbook.pdf#page=11")
 
 
-![[Moroccan Arabic Textbook.pdf#page=11]]
+![[MoroccanArabicTextbook.pdf#page=11]]

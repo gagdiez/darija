@@ -5,7 +5,7 @@ En árabe la gente dice "la paz sea contigo" como forma cordial de saludar.
 | Marroqui     | Pronunciación | Castellano | 
 |:-----|:-----|:-----|
 | Salam aleykoum | Salam alikum | La paz sea contigo    |
-| [Wa](Nexos%20Comunicativos) aleykoum salam | Wa salam alikum |  Y la paz sea contigo    |
+| [Wa](Nexos.md) aleykoum salam | Wa salam alikum |  Y la paz sea contigo    |
 
 > Uno también puede simplemente decir **`salam`**.
 
@@ -38,8 +38,6 @@ Para buenas noches, hay dos formas de decirlo: usando árabe clásico, o deseán
 | layla sa3ida | layla saida | Buenas noches (tod@s, polite - classic arabic)    |
 | tsbH 3la khir | Tsbaj aljir | Buenas noches (tod@s) |
 | tsbHi 3la khir | Tsbaji aljir | Buenas noches (mujer) |
-
-
 
 
 ### Bienvenida
