@@ -7,7 +7,7 @@
 |:----------------------------------------------------------------------|:-------------------------------------|
 | - G: salam aleykoum                                                   | - G: La paz sea con ustedes          |
 | - S: wa aleykoum salam                                                | - S: y con ustedes                   |
-| - G: kif dayra?                                                       | - G: Como estas?                     |
+| - G: [kif dayra?](../nucleo/como-estas)                               | - G: Como estas?                     |
 | - S: labas, wa nta?                                                   | - S: Ningún problema, y tu?          |
 | - G: labas, hamdullah                                                 | - G: Ningún problema, gracias a dios |
 | - S: [shnu](../nucleo/shnu.md) [smitik](../conjugaciones/llamarse.md) | - S: Cual es tu nombre?              |

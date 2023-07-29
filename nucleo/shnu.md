@@ -5,4 +5,3 @@
 ## Ejemplos
 
 - `shnu smitk` - ¿Cómo te llamas?
-
