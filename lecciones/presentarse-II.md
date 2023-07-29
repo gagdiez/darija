@@ -1,28 +1,18 @@
-Preguntar por el apellido, de que trabajan, y si están casad@s es poco realista, pero necesario de aprender.
+# Presentarse II
 
-| Marroqui      | Pronunciacion |    Castellano |
-|:-----|:-----| :-----|
-| S: shnu hiya lkniya dyalek?  | - |  S: cual es tu apellido?   |
-| G: lkniya dyali hiya Fernandez  | -  |  G: mi apellido es Fernandez   |
-| S: fash [khddam](../conjugaciones/trabajar)?  | fash jdam  |  S: de que trabajas?   |
-| G: ana [khddam](../conjugaciones/trabajar) manager F sharika  | ana jdam  |  G: soy manager de una empresa   |
-| S: [smH](../nucleo/perdon-smh)-li nsewlk 3afak? |  smijlí ensulek afak?  |  S: excuse-me, ask you please? <br/> (te puedo hacer una pregunta)   |
-| G: ah, nsewl ni  | ah, nsuel ni  |  G: si, pregunta a mi   |
-| S: wash mzwwj?  |  wash msuj  |  S: estas casado?   |
-| G: la, ana baqi ma mzwwjsh  | msujsh  |  G: no, no estoy casado   |
-| G: wa nti? wash mzwwja?  | wash msuya  |  G: y vos? estas casada?   |
-| S: wahha, ana mzwwja b-mghribi  |  ana msuya  |  S: si, estoy casada con un marroqui  |
+Preguntar [de donde](../nucleo/donde) es la otra persona, y [en donde](../nucleo/donde) viven.
 
+## Diálogo Entre Guillermo (G) y Samira (S)
+| Marroqui                                                          | Castellano                        |
+|:------------------------------------------------------------------|:----------------------------------|
+| - G: [mnin](../nucleo/donde.md) nti? / nti mnin?                  | - G: De donde sos?                |
+| - S: ana mn [lmghrib](../nucleo/paises-idiomas.md), wa nta?       | - S: Soy de Marruecos, y vos?     |
+| - G: ana mn [l-arjortin](../nucleo/paises-idiomas.md)             | - G: Soy de argentina             |
+| - S: fin [sakn](../conjugaciones/vivir.md)?                       | - S: Donde viviendo?              |
+| - G: ana sakn [f](../nucleo/preposiciones.md) Barshelona, wa nti? | - G: Yo vivo en Barcelona, y vos? |
+| - S: Htta ana sakn f Barshelona                                   | - S: También yo vivo en Barcelona |
 
-### Importante
-- Se utiliza `hiya` porque "apellido" es femenino en darija
-- 
-
-
-### Alternativas
-
-| Alternativa 1     | Alternativa 2     | Alternativa 3     |
-|:-----|:-----|:-----|
-| Salam Aleykoum    | salam  | -     |
-| wa Aleykoum Salam | salam  | -   |
-| kif dayr?     |  labas alik?   | 
+### Notas
+- `f` quiere decir `en` (en español).
+- `mn` quiere decir `de` (en español).
+- `fin` es la unión de `f` (en) + `in` (donde).

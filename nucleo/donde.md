@@ -1,13 +1,16 @@
 
-### En Donde? 
+### En Donde?
 
-|Marroquí|Pronunciación|Castellano|
-|:--|:--|:--|
-|Fin sahn/shna?|fin sahn/sahna |En donde (vos) estas viviendo?|
+| Marroquí            | Pronunciación      | Castellano           |
+|:--------------------|:-------------------|:---------------------|
+| Fin nti/nta?        | fin nti/nta        | En donde estas?      |
+| Fin sahn/shna?      | fin sahn/sahna     | En donde viviendo?   |
+| Fin khdam/khdama?   | fin jdam/jdama     | En donde trabajando? |
+| Fin katqra/katqray? | fin katqra/katqrai | En donde estudiando? |
 
 
-### De Donde? 
+### De Donde? (from where?)
 
-|Marroquí|Castellano|
-|:--|:--|:--|
-|nta/i mnir?| (tu con genero) De donde sos?|
+| Marroquí    | Castellano        |
+|:------------|:------------------|
+| nta/i mnir? | vos de donde sos? |
