@@ -2,7 +2,7 @@ Tags: #basics #greetings
 
 Infinitivo: **`smiya`**
 
-|    Castellano  |  Marroqui ([[Pronombres]] + Conjugación) |
+|    Castellano  |  Marroqui ([Pronombres](../nucleo/preposiciones.md) + Conjugación) |
 |:-----|:-----|
 | Mi nombre     |  ana smiti   |
 | Tu nombre     |  nta/nti smitk   |
@@ -15,7 +15,4 @@ Infinitivo: **`smiya`**
 
 ### Referencia
 
-[Moroccan Arabic Textbook - Page 11](../Bibliografia/MoroccanArabicTextbook.pdf#page=11")
-
-
-![[MoroccanArabicTextbook.pdf#page=11]]
+[Moroccan Arabic Textbook - Page 11](../bibliografia/MoroccanArabicTextbook.pdf?page=11#page=11")
