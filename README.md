@@ -8,8 +8,9 @@ Apuntes que voy tomando mientras aprendo Darija. Dado que no soy ni profesor ni 
 
 
 ### Lecciones
-- [Presentarse I](lecciones/presentarse-I.md)
-- [Presentarse II](lecciones/presentarse-II.md)
+- [Pronombres Personales](./nucleo/pronombres.md#Pronombres%20Personales)
+- [Presentarse I](./lecciones/presentarse-I.md)
+- [Presentarse II](./lecciones/presentarse-II.md)
 
 ### Bibliografia
 - [Moroccan Arabic Textbook.pdf](./bibliografia/MoroccanArabicText.pdf)
