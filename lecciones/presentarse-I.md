@@ -8,10 +8,10 @@
 | G: salam aleykoum                                                       | G: la paz sea con ustedes          |
 | S: wa aleykoum salam                                                    | S: y con ustedes                   |
 | G: [kif dayra?](../nucleo/como-estas.md)                                | G: como estas?                     |
-| S: labas, wa nta?                                                       | S: ningún problema, y tu?          |
+| S: labas, wa [nta](../nucleo/pronombres.md)?                            | S: ningún problema, y tu?          |
 | G: labas, hamdullah                                                     | G: ningún problema, gracias a dios |
 | S: [shnu](../nucleo/cual-que.md) [smitik](../conjugaciones/llamarse.md) | S: cual es tu nombre?              |
-| G: ana smiti Guillermo, wa nti?                                         | G: me llamo Guillermo, y vos?      |
+| G: [ana](../nucleo/pronombres.md) smiti Guillermo, wa nti?              | G: me llamo Guillermo, y vos?      |
 | S: ana smiti Samira                                                     | S: me llamo Samira                 |
 | G: shnu [knitk](../conjugaciones/llamarse.md)?                          | G: cual es tu apellido?            |
 | S: ana kniti Fernandez                                                  | S: mi apellido es Fernandez        |
