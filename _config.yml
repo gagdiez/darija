@@ -1,5 +1,19 @@
-title: Guille Aprende Darija
-description: Apuntes mientras aprendo darija
+title: Apuntes de Darija
+description: Apuntes mientras aprendo Darija
 theme: just-the-docs
 
 url: https://gagdiez.github.io/darija
+color_scheme: darija
+
+nav_external_links:
+  - title: Morrocan Arabic Textbook
+    url: https://raw.githubusercontent.com/gagdiez/darija/main/bibliografia/MoroccanArabicTextbook.pdf
+
+callouts:
+  importante:
+    color: yellow
+    title: importante
+  nota:
+    color: yellow
+    title: nota
+

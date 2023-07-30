@@ -1,5 +1,13 @@
+---
+title: Saludos
+parent: Apuntes
+layout: default
+nav_order: 1
+---
 
-# La Paz Sea con Ustedes (Salam Aleykoum)
+# Saludos
+
+## La Paz Sea con Ustedes (Salam Aleykoum)
 En árabe la gente dice "la paz sea contigo" como forma cordial de saludar.
 
 | Marroqui                      | Pronunciación   | Castellano               |
@@ -7,17 +15,18 @@ En árabe la gente dice "la paz sea contigo" como forma cordial de saludar.
 | Salam aleykoum                | Salam alikum    | La paz sea con ustedes   |
 | [Wa](nexos.md) aleykoum salam | Wa salam alikum | Y la paz sea con ustedes |
 
-> Uno también puede simplemente decir `salam`.
+{: .nota }
+Uno también puede simplemente decir `salam`.
 
 
-### Despedida
+## Despedida
 
 | Marroqui | Pronunciación | Castellano |
 |:---------|:--------------|:-----------|
 | bslama   | bslama        | Adiós      |
 
 
-### Buenos días, tardes, noches
+## Buenos días, tardes, noches
 En Marroquí, los saludos se hacen al revés, o sea, uno dice "mañana buena".
 
 | Marroquí       | Pronunciación | Castellano    |
@@ -34,13 +43,12 @@ Para buenas noches, hay dos formas de decirlo: usando árabe clásico, o deseán
 
 | Marroquí       | Pronunciación | Castellano                                     |
 |:---------------|:--------------|:-----------------------------------------------|
-| bslama         | bslama        | Adiós                                          |
 | layla sa3ida   | layla saida   | Buenas noches (tod@s, polite - classic arabic) |
 | tsbH 3la khir  | Tsbaj aljir   | Buenas noches (tod@s)                          |
 | tsbHi 3la khir | Tsbaji aljir  | Buenas noches (mujer)                          |
 
 
-### Bienvenida
+## Bienvenida
 
 | Marroquí | Castellano |
 |:---------|:-----------|

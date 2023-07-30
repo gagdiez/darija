@@ -1,5 +1,10 @@
+---
+title: Donde
+parent: Preguntas
+layout: default
+---
 
-### En Donde?
+# En Donde?
 
 | Marroquí            | Pronunciación      | Castellano           |
 |:--------------------|:-------------------|:---------------------|
@@ -9,7 +14,7 @@
 | Fin katqra/katqray? | fin katqra/katqrai | En donde estudiando? |
 
 
-### De Donde? (from where?)
+# De Donde? (from where?)
 
 | Marroquí    | Castellano        |
 |:------------|:------------------|

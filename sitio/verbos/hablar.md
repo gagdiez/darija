@@ -1,3 +1,10 @@
+---
+title: Hablar
+parent: Verbos
+layout: default
+---
+
+
 # Hablar
 Infinitivo: `hdar`
 
@@ -27,6 +34,7 @@ Infinitivo: `hdar`
 
 
 ### Idiomas Básicos
+
 | Castellano | Marroqui   |
 |:-----------|:-----------|
 | Castellano | l-espania  |

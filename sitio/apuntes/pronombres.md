@@ -1,3 +1,10 @@
+---
+title: Pronombres
+parent: Apuntes
+layout: default
+nav_order: 2
+---
+
 # Pronombres
 
 ## Pronombres Personales

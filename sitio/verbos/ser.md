@@ -1,6 +1,12 @@
+---
+title: Ser
+parent: Verbos
+layout: default
+---
+
 # Ser
 
-Para decir quien soy, solo es necesario usar uno de los [Pronombres](../nucleo/preposiciones.md) seguido del nombre (o lo que soy).
+Para decir que/quien soy, solo es necesario usar uno de los [Pronombres](../apuntes/preposiciones.md) seguido del nombre (o lo que soy).
 
 | Castellano                        | Marroquí                |
 |:----------------------------------|:------------------------|
