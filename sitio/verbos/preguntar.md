@@ -4,4 +4,8 @@ parent: Verbos
 layout: default
 ---
 
-To be completed
+# Preguntar
+
+TODO: completar
+
+nsewlk
