@@ -26,15 +26,15 @@ nav_order: 4
 | G: ana khdamm f sharika, wa nta? fash khdamma? | G: trabajo en una empresa, y tu? en donde trabajas? |
 | J: ana ma khdamash daba                        | J: yo no trabajo ahora                              |
 | G: nta menin?                                  | G: de donde sos?                                    |
-| J: ana mn lmgbria, wa nti?                     | J: soy de marruecos, y vos?                         |
+| J: ana mn lmghrib, wa nti?                     | J: soy de marruecos, y vos?                         |
 | G: ana mn l-argentine                          | G: yo soy de la argentina                           |
 | J: fin sakn?                                   | J: donde vivis?                                     |
 | G: ana sakn f Buenos Aires                     | G: vivo en Buenos Aires                             |
 | J: Htta ana sakn f Buenos Aires                | J: yo tambien vivo en Buenos Aires                  |
 | G: smH-lia nsewlk 3afak                        | G: disculpa, te puedo hacer una pregunta?           |
-| J: yea, nsewlk li                              | J: si, preguntame                                   |
+| J: yea, nsewlni                              | J: si, preguntame                                   |
 | G: wash mswwja?                                | G: estas casada?                                    |
-| J: la, ana baqi ma msswjash, wa nti?           | J: no, aun no estoy casada                          |
-| G: ahha, ana mswwj b-mghribiya                 | G: si, estoy casado con una marroqui                |
+| J: la, ana baqi ma msswjash, wa nta?           | J: no, aun no estoy casada                          |
+| G: ahh, ana mswwj b-mghribiya                 | G: si, estoy casado con una marroqui                |
 | J: mzyan! shnu smitha?                         | J: bien! como se llama ella?                        |
 | G: hiya smitha Samira                          | G: ella se llama Samira                             |

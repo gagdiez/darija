@@ -4,6 +4,8 @@ parent: Apuntes
 layout: default
 ---
 
+# Paises / Idiomas
+
 | Pais                   | Idioma               |
 |:-----------------------|:---------------------|
 | Marruecos (lmghrib)    | Arabe (l-arabia)     |

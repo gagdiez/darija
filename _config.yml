@@ -1,6 +1,7 @@
 title: Apuntes de Darija
 description: Apuntes mientras aprendo Darija
 theme: just-the-docs
+baseurl: "/darija"
 
 url: https://gagdiez.github.io/darija
 color_scheme: darija

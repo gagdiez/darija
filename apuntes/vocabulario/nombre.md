@@ -1,6 +1,6 @@
 ---
-title: Llamarse
-parent: Verbos
+title: Nombre / Apellido
+parent: Apuntes
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 ## Nombre
 Infinitivo: **`smiya`**
 
-| Castellano            | Marroquí ([Pronombres](../apuntes/preposiciones.md) + Conjugación) |
+| Castellano            | Marroquí ([Pronombres](pronombres) + Conjugación) |
 |:----------------------|:------------------------------------------------------------------|
 | Mi nombre             | ana smiti                                                         |
 | Tu nombre             | nta/nti smitk                                                     |
@@ -22,7 +22,7 @@ Infinitivo: **`smiya`**
 ## Apellido
 Infinitivo: **`kniya`**
 
-| Castellano            | Marroquí ([Pronombres](../apuntes/preposiciones.md) + Conjugación) |
+| Castellano            | Marroquí ([Pronombres](pronombres) + Conjugación) |
 |:----------------------|:------------------------------------------------------------------|
 | Mi nombre             | ana kniti                                                         |
 | Tu nombre             | nta/nti knitk                                                     |

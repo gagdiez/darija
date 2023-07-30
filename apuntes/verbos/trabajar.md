@@ -4,6 +4,8 @@ parent: Verbos
 layout: default
 ---
 
+# Trabajar
+
 infinitivo: `khdamm/a`
 
 | Castellano       | Marroquí     |
