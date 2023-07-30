@@ -10,7 +10,7 @@ Preguntar de si saben hablar o escribir un idioma.
 
 ## Diálogo Entre Guillermo (G) y Samira (S)
 
-| Marroqui                             | Pronunciacion                        | Castellano                           |
+| Marroquí                             | Pronunciacion                        | Castellano                           |
 |:-------------------------------------|:-------------------------------------|:-------------------------------------|
 | G: wash kat3rf thdari l3arbia?       | wash katarf tjdri la-arbia?          | G: acaso sabes hablar arabe?         |
 | S: aha, ana kan3rf nhdari l3arbia    | aha, ana kanerf tjdri la-arbia       | S: si, se hablar arabe               |

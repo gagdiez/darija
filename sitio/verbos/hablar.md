@@ -8,7 +8,7 @@ layout: default
 # Hablar
 Infinitivo: `hdar`
 
-| Castellano | Marroqui       |
+| Castellano | Marroquí       |
 |:-----------|:---------------|
 | Yo hablo   | ana kanhadar   |
 | Tu (m)     | nta kanhdar    |
@@ -21,7 +21,7 @@ Infinitivo: `hdar`
 
 ### Negado
 
-| Castellano  | Marroqui            |
+| Castellano  | Marroquí            |
 |:------------|:--------------------|
 | Yo no hablo | ana ma kanhadarsh   |
 | Tu no (m)   | nta ma kanhdarsh    |
@@ -35,7 +35,7 @@ Infinitivo: `hdar`
 
 ### Idiomas Básicos
 
-| Castellano | Marroqui   |
+| Castellano | Marroquí   |
 |:-----------|:-----------|
 | Castellano | l-espania  |
 | Frances    | l-francia  |

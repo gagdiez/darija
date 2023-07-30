@@ -6,6 +6,6 @@ layout: default
 
 # De que... ?
 
-| Marroquí   | Pronunciación | Castellano         |
-|:-----------|:--------------|:-------------------|
-| fash khdamm | fash jdam             | De que trabajas? |
+| Marroquí    | Pronunciación | Castellano       |
+|:------------|:--------------|:-----------------|
+| fash khdamm | fash jdam     | De que trabajas? |

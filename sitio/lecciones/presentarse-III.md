@@ -10,7 +10,7 @@ Preguntar de que trabajan y si están casad@s.
 
 ## Diálogo Entre Guillermo (G) y Samira (S)
 
-| Marroqui                                                             | Pronunciacion         | Castellano                          |
+| Marroquí                                                             | Pronunciacion         | Castellano                          |
 |:---------------------------------------------------------------------|:----------------------|:------------------------------------|
 | S: [fash](/sitio/preguntas/de-que) [khddam](/sitio/verbos/trabajar)? | fash jdam             | S: de que trabajas?                 |
 | G: ana khddam manager F sharika                                      | ana jdam              | G: soy manager de una empresa       |
@@ -19,7 +19,7 @@ Preguntar de que trabajan y si están casad@s.
 | S: [wash](/sitio/preguntas/acaso) mzwwj?                             | wash msuj             | S: estas casado?                    |
 | G: la, ana baqi ma mzwwjsh                                           | msussh                | G: no, no estoy casado              |
 | G: wa nti? wash mzwwja?                                              | wash msuya            | G: y vos? estas casada?             |
-| S: wahha, ana mzwwja [b](/sitio/apuntes/preposiciones)-mghribi       | ana msuya             | S: si, estoy casada con un marroqui |
+| S: wahha, ana mzwwja [b](/sitio/apuntes/preposiciones)-mghribi       | ana msuya             | S: si, estoy casada con un Marroquí |
 
 
 {: .nota}

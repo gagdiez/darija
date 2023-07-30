@@ -12,7 +12,7 @@ infinitivo: `khdamm/a`
 
 ### Trabajos
 
-| Marroqui                | Pronunciación | Castellano               |
+| Marroquí                | Pronunciación | Castellano               |
 |:------------------------|:--------------|:-------------------------|
 | unstad/a dyal l3arbia   | -             | Profesor/a de arabe      |
 | muhandis/a l'informatic | -             | Ingenier@ en informatica |

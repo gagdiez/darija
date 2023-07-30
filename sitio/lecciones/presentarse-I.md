@@ -10,7 +10,7 @@ layout: default
 
 ## Diálogo Entre Guillermo (G) y Samira (S)
 
-| Marroqui                                                           | Castellano                         |
+| Marroquí                                                           | Castellano                         |
 |:-------------------------------------------------------------------|:-----------------------------------|
 | G: salam aleykoum                                                  | G: la paz sea con ustedes          |
 | S: wa aleykoum salam                                               | S: y con ustedes                   |

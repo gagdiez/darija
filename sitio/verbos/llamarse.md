@@ -9,7 +9,7 @@ layout: default
 ## Nombre
 Infinitivo: **`smiya`**
 
-| Castellano            | Marroqui ([Pronombres](../nucleo/preposiciones.md) + Conjugación) |
+| Castellano            | Marroquí ([Pronombres](../apuntes/preposiciones.md) + Conjugación) |
 |:----------------------|:------------------------------------------------------------------|
 | Mi nombre             | ana smiti                                                         |
 | Tu nombre             | nta/nti smitk                                                     |
@@ -22,7 +22,7 @@ Infinitivo: **`smiya`**
 ## Apellido
 Infinitivo: **`kniya`**
 
-| Castellano            | Marroqui ([Pronombres](../nucleo/preposiciones.md) + Conjugación) |
+| Castellano            | Marroquí ([Pronombres](../apuntes/preposiciones.md) + Conjugación) |
 |:----------------------|:------------------------------------------------------------------|
 | Mi nombre             | ana kniti                                                         |
 | Tu nombre             | nta/nti knitk                                                     |
