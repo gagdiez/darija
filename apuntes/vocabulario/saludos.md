@@ -16,6 +16,9 @@ En árabe la gente dice "la paz sea contigo" como forma cordial de saludar.
 | [Wa](nexos.md) aleykoum salam | Wa salam alikum | Y la paz sea con ustedes |
 
 {: .nota }
+En "Salam aleykoum", `aleykoum` es plural, y se utiliza aunque se salude a una sola persona.
+
+{: .nota }
 Uno también puede simplemente decir `salam`.
 
 

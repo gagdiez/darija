@@ -11,16 +11,16 @@ Preguntar de que trabajan y si están casad@s.
 
 ## Diálogo Entre Guillermo (G) y Samira (S)
 
-| Marroquí                                                             | Pronunciacion         | Castellano                          |
-|:---------------------------------------------------------------------|:----------------------|:------------------------------------|
+| Marroquí                                                     | Pronunciacion         | Castellano                          |
+|:-------------------------------------------------------------|:----------------------|:------------------------------------|
 | S: [fash](../preguntas/de-que) [khddam](../verbos/trabajar)? | fash jdam             | S: de que trabajas?                 |
-| G: ana khddam manager F sharika                                      | ana jdam              | G: soy manager de una empresa       |
-| S: smH-li [nsewlk](../verbos/preguntar) 3afak?                   | smijilí ensulek afak? | S: perdona-me, pregunta por favor?  |
-| G: ah, sewl ni                                                      | ah, suel ni          | G: si, pregunta a mi                |
-| S: [wash](../preguntas/acaso) mzwwj?                             | wash msuj             | S: estas casado?                    |
-| G: la, ana baqi ma mzwwjsh                                           | msussh                | G: no, no estoy casado              |
-| G: wa nti? wash mzwwja?                                              | wash msuya            | G: y vos? estas casada?             |
-| S: ahh, ana mzwwja [b](../vocabulario/preposiciones)-mghribi       | ana msuya             | S: si, estoy casada con un Marroquí |
+| G: ana khddam manager F sharika                              | ana jdam              | G: soy manager de una empresa       |
+| S: smH-li [nsewlk](../verbos/preguntar) 3afak?               | smijilí ensulek afak? | S: perdona-me, pregunta por favor?  |
+| G: ah, sewl ni                                               | ah, suel ni           | G: si, pregunta a mi                |
+| S: [wash](../preguntas/acaso) mzwwj?                         | wash msuj             | S: estas casado?                    |
+| G: la, ana baqi ma mzwwjsh                                   | msussh                | G: no, no estoy casado              |
+| G: wa nti? wash mzwwja?                                      | wash msuya            | G: y vos? estas casada?             |
+| S: ahh, ana mzwwja [b](../vocabulario/preposiciones)-mghribi | ana msuya             | S: si, estoy casada con un Marroquí |
 
 
 {: .nota}

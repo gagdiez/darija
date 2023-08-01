@@ -9,7 +9,7 @@ nav_order: 1
 
 [Saludar](../preguntas/como-estas), decir el [nombre](../vocabulario/nombre) y preguntar [cual es](../preguntas/cual-que) el nombre de la otra persona.
 
-## Ejemplo: Diálogo Entre Guillermo (G) y Samira (S)
+## Diálogo Entre Guillermo (G) y Samira (S)
 
 | Marroquí                                                         | Castellano                         |
 |:-----------------------------------------------------------------|:-----------------------------------|
@@ -37,12 +37,6 @@ nav_order: 1
 
 ---
 
-## Salam Aleykoum
-
-En "Salam aleykoum", `aleykoum` es plural, y se utiliza aunque se salude a una sola persona.
-
----
-
 ## Conjugando Pronombres
 El sustantivo `nombre` se conjuga en base a los [pronombres posesivos](../vocabulario/pronombres#pronombres-posesivos) usando la siguiente regla básica:
 
@@ -55,5 +49,3 @@ El sustantivo `nombre` se conjuga en base a los [pronombres posesivos](../vocabu
 | Hna      | na          |
 | huma     | kum         |
 | ntuma    | hum         |
-
-
