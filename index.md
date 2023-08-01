@@ -9,8 +9,9 @@ Este sitio web pretende ser una guía para aquellas personas que quieran aprende
 {: .importante }
 No existe una forma oficial de escribir `darija`. El libro `Moroccan Arabic Textbook` (vinculo debajo) utiliza la forma basada en el ingles, pero aquí preferimos usar la francesa que es mas común en nuestro entorno.
 
-### Lecciones
+### Orden de Aprendizaje
 - [Presentarse I](apuntes/lecciones/presentarse-I)
+- [Pronombres](apuntes/lecciones/pronombres)
 - [Presentarse II](apuntes/lecciones/presentarse-II)
 - [Presentarse III](apuntes/lecciones/presentarse-III)
 - [Repaso I](apuntes/lecciones/repaso-I)

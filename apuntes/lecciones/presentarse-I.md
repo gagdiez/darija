@@ -34,18 +34,3 @@ nav_order: 1
 | wa Aleykoum Salam | salam                                | -             |
 | kif dayr?         | labas alik?                          | -             |
 | labas             | [kulshi bihhir](../vocabulario/bien) | mzyan         |
-
----
-
-## Conjugando Pronombres
-El sustantivo `nombre` se conjuga en base a los [pronombres posesivos](../vocabulario/pronombres#pronombres-posesivos) usando la siguiente regla básica:
-
-| Marroquí | Terminación |
-|----------|-------------|
-| ana      | i / ya*     |
-| nti/a    | k           |
-| huwa     | u / h*      |
-| hiya     | ha          |
-| Hna      | na          |
-| huma     | kum         |
-| ntuma    | hum         |

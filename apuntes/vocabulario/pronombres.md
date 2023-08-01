@@ -22,6 +22,7 @@ nav_order: 2
 
 
 ## Pronombres Posesivos
+En Darija, un sufijo puede ser agregado al final de las palabras para expresar posesión.
 
 | Marroquí | Terminación |
 |----------|-------------|
@@ -32,3 +33,10 @@ nav_order: 2
 | Hna      | na          |
 | huma     | kum         |
 | ntuma    | hum         |
+
+{: .nota}
+\* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
+
+
+{: .importante}
+La mayoría de los sustantivos femeninos en árabe tienen un sonido "a" al final de la palabra, que en realidad es una "t" silenciosa. Para todas las palabras femeninas que terminan en esta "t" silenciosa, eliminamos el sonido "a" y lo sustituimos por "t" antes de agregar un pronombre posesivo.

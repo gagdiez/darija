@@ -1,0 +1,48 @@
+---
+title: Pronombres
+parent: Lecciones
+layout: default
+nav_order: 2
+---
+
+# Pronombres Personales y Posesivos
+
+En Darija, un sufijo puede ser agregado al final de las palabras para expresar posesión.
+
+| Pronombre Personal | Terminación |
+|--------------------|-------------|
+| ana                | i / ya*     |
+| nti/a              | k           |
+| huwa               | u / h*      |
+| hiya               | ha          |
+| Hna                | na          |
+| huma               | kum         |
+| ntuma              | hum         |
+
+{: .nota}
+\* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
+
+{: .importante}
+La mayoría de los sustantivos femeninos en árabe tienen un sonido "a" al final de la palabra, que en realidad es una "t" silenciosa. Para todas las palabras femeninas que terminan en esta "t" silenciosa, eliminamos el sonido "a" y lo sustituimos por "t" antes de agregar un pronombre posesivo.
+
+## Ejemplos
+
+| Pronombre | `ktab` (libro) |
+|-----------|----------------|
+| ana       | ktabi          |
+| nti/a     | ktabk          |
+| huwa      | ktabu          |
+| hiya      | ktabha         |
+| Hna       | ktabna         |
+| huma      | ktabkum        |
+| ntuma     | ktabhum        |
+
+| Pronombre | `magana` (reloj) |
+|-----------|------------------|
+| ana       | maganti          |
+| nti/a     | magantk          |
+| huwa      | magantu          |
+| hiya      | magantha         |
+| Hna       | magantna         |
+| huma      | magantkum        |
+| ntuma     | maganthum        |

@@ -12,7 +12,7 @@ nav_external_links:
 
 callouts:
   importante:
-    color: yellow
+    color: purple
     title: importante
   nota:
     color: yellow
