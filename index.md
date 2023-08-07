@@ -15,8 +15,8 @@ No existe una forma oficial de escribir `darija`. El libro `Moroccan Arabic Text
 
 ### Orden de Aprendizaje
 - [Presentarse I](apuntes/lecciones/presentarse-I)
-- [Pronombres](apuntes/lecciones/pronombres)
 - [Presentarse II](apuntes/lecciones/presentarse-II)
+- [Posesión](apuntes/lecciones/posesivos-I)
 - [Presentarse III](apuntes/lecciones/presentarse-III)
 - [Repaso I](apuntes/lecciones/repaso-I)
 - [Presentarse IV](apuntes/lecciones/presentarse-IV)
