@@ -11,9 +11,9 @@ Infinitivo: `hdar`
 | Castellano | Marroquí       |
 |:-----------|:---------------|
 | Yo hablo   | ana kanhadar   |
-| Tu (m)     | nta kanhdar    |
-| Tu (f)     | nti kathdar    |
-| El         | huwa kayhdari  |
+| Tu (m)     | nta kathdar    |
+| Tu (f)     | nti kathdari   |
+| El         | huwa kayhdar   |
 | Ella       | hiya kathdar   |
 | Nosotr@s   | Hna  kanhdaru  |
 | Ustedes    | ntuma kathdaru |

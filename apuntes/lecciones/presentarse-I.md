@@ -19,8 +19,8 @@ nav_order: 1
 | S: labas, wa [nta](../vocabulario/pronombres)?                   | S: ningún problema, y tu?          |
 | G: labas, hamdullah                                              | G: ningún problema, gracias a dios |
 | S: [shnu](../preguntas/cual-que) [smitik](../vocabulario/nombre) | S: cual es tu nombre?              |
-| G: [ana](../vocabulario/pronombres) smiti Guillermo, wa nti?     | G: me llamo Guillermo, y vos?      |
-| S: ana smiti Samira                                              | S: me llamo Samira                 |
+| G: [ana](../vocabulario/pronombres) smiti Guillermo, wa nti?     | G: mi nombre es Guillermo, y vos?  |
+| S: ana smiti Samira                                              | S: mi nombre es Samira             |
 | G: shnu [knitk](../vocabulario/nombre#apellido)?                 | G: cual es tu apellido?            |
 | S: ana kniti Fernandez                                           | S: mi apellido es Fernandez        |
 | G: mtsherfin                                                     | G: encantado                       |
