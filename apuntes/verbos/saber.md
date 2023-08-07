@@ -22,11 +22,11 @@ Infinitivo: `3rf`
 
 | Castellano | Marroquí           |
 |:-----------|:-------------------|
-| Yo hablo   | ana   ma kan3rfsh  |
-| Tu (m)     | nta   ma kat3rfsh  |
-| Tu (f)     | nti   ma kat3rfish |
-| El         | huwa  ma kay3rfsh  |
-| Ella       | hiya  ma kat3rfsh  |
-| Nosotr@s   | Hna   ma kan3rfush |
+| Yo hablo   | ana ma kan3rfsh  |
+| Tu (m)     | nta ma kat3rfsh  |
+| Tu (f)     | nti ma kat3rfish |
+| El         | huwa ma kay3rfsh  |
+| Ella       | hiya ma kat3rfsh  |
+| Nosotr@s   | Hna  ma kan3rfush |
 | Ustedes    | ntuma ma kat3rfush |
-| Ell@s      | huma  ma kay3rfush |
+| Ell@s      | huma ma kay3rfush |

@@ -22,7 +22,7 @@ nav_order: 2
 
 
 ## Pronombres Posesivos
-En Darija, un sufijo puede ser agregado al final de las palabras para expresar posesión.
+En Darija podemos agregar un sufijo al final de las palabras para expresar posesión.
 
 | Marroquí | Terminación |
 |----------|-------------|
