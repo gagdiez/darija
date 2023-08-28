@@ -23,7 +23,7 @@ A veces uno puede encontrar `waHd` antes de un sustantivo, en ese caso está fun
 
 ---
 
-## Dual
+## Dos y Dual
 
 En general, para dos objetos usamos el numero 2 y la forma plural del objeto. Sin embargo, algunos sustantivos tienen una **forma dual** derivada del árabe clásico. 
 
@@ -39,7 +39,7 @@ En general, para dos objetos usamos el numero 2 y la forma plural del objeto. Si
 
 ## Del 3 al 10
 
-Para los números entre 3 y 19 se puede contar de dos maneras:
+Para contar cantidades entre 3 y 19 se pueden usar dos maneras:
 - `<número> + d + <plural con articulo>`
 - `<número forma corta> + <plural sin articulo>`
 
@@ -53,7 +53,7 @@ Para los números entre 3 y 19 se puede contar de dos maneras:
 
 ## Del 20 al 99
 
-Para los numeros del 20 al 99 usamos la forma: `<número> + <singular sin articulo>`
+Para contar cantidades del 20 al 99 usamos la forma: `<número> + <singular sin articulo>`
 
 | Castellano | Marroquí            |
 |:-----------|:--------------------|
