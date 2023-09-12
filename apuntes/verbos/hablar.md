@@ -10,7 +10,7 @@ Infinitivo: `hdar`
 
 | Castellano | Marroquí       |
 |:-----------|:---------------|
-| Yo hablo   | ana kanhadar   |
+| Yo hablo   | ana kanhdar    |
 | Tu (m)     | nta kathdar    |
 | Tu (f)     | nti kathdari   |
 | El         | huwa kayhdar   |
@@ -23,9 +23,9 @@ Infinitivo: `hdar`
 
 | Castellano  | Marroquí            |
 |:------------|:--------------------|
-| Yo no hablo | ana ma kanhadarsh   |
-| Tu no (m)   | nta ma kanhdarsh    |
-| Tu no (f)   | nti ma kathdarsh    |
+| Yo no hablo | ana ma kanhdarsh    |
+| Tu no (m)   | nta ma kathdarsh    |
+| Tu no (f)   | nti ma kathdarish   |
 | El no       | huwa ma kayhdarish  |
 | Ella no     | hiya ma kathdarsh   |
 | Nosotr@s no | Hna ma  kanhdarush  |
