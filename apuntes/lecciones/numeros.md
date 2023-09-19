@@ -13,20 +13,20 @@ Es important notar que decir los números y usarlos para [contar cosas](./cantid
 
 Aprendiendo los números del 1 al 12 ya se tiene un 90% del conocimiento necesario para decir cualquier número.
 
-| Número | Marroquí | Pronunciación | Versión Corta |
-|:-------|:---------|:--------------|---------------|
-| 1      | wakhed   | wajed         | -             |
-| 2      | juj      | shush         | -             |
-| 3      | tleta    | tleta         | `tlt`         |
-| 4      | 3rba     | arba          | `3rb`         |
-| 5      | Hmsa     | jamsa         | `Hms`         |
-| 6      | stta     | esta          | `stt`         |
-| 7      | sb3a     | esba          | `sb3`         |
-| 8      | tmnya    | temenia       | `tmn`         |
-| 9      | ts3ud    | tsaud         | `ts3`         |
-| 10     | ashra    | ashra         | -             |
-| 11     | Hdash    | jdash         | -             |
-| 12     | tnash    | tnash         | -             |
+| Número | Marroquí | Pronunciación    | Versión Corta |
+|:-------|:---------|:-----------------|---------------|
+| 1      | waHed    | wajed            | -             |
+| 2      | juj      | juj (j francesa) | -             |
+| 3      | tleta    | tleta            | `tlt`         |
+| 4      | rb3a     | rb3a             | `3rb`         |
+| 5      | khmsa    | jamsa            | `Hms`         |
+| 6      | stta     | esta             | `stt`         |
+| 7      | sb3a     | esba             | `sb3`         |
+| 8      | tmnya    | temenia          | `tmn`         |
+| 9      | ts3ud    | tsaud            | `ts3`         |
+| 10     | 3ashra   | 3ashra           | -             |
+| 11     | Hdash    | jdash            | -             |
+| 12     | tnash    | tnash            | -             |
 
 {: .nota }
 `tnash` viene del "dos" del árabe clásico `tnayn`  

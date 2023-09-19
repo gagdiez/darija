@@ -7,7 +7,28 @@ nav_order: 5
 
 # Repaso
 
+Las preguntas que vimos hasta ahora son:
+
+| Marroquí    | Castellano    |
+|:------------|:--------------|
+| kif dayra?  | cómo estas?   |
+| wa nta/nti? | y tu (m/f)?   |
+| shnu... ?   | cuál ... ?    |
+| mnin... ?   | de dónde ...? |
+| fin... ?    | dónde ...?    |
+| fash... ?   | de qué ...?   |
+| wash... ?   | acaso ...?    |
+
+{: .nota }
+`shnu` también puede ser "que ... ?"
+
+<br />
+
+---
+
 ## Dialogo entre Guillermo y Julia
+
+Repaso de un dialogo con todo lo aprendido hasta ahora
 
 | Marroquí                                       | Castellano                                          |
 |:-----------------------------------------------|:----------------------------------------------------|
@@ -33,8 +54,8 @@ nav_order: 5
 | J: Htta ana sakn f Buenos Aires                | J: yo tambien vivo en Buenos Aires                  |
 | G: smH-lia nsewlk 3afak                        | G: disculpa, te puedo hacer una pregunta?           |
 | J: yea, nsewlni                                | J: si, preguntame                                   |
-| G: wash mswwja?                                | G: estas casada?                                    |
+| G: wash mzwwja?                                | G: estas casada?                                    |
 | J: la, ana baqi ma msswjash, wa nta?           | J: no, aun no estoy casada                          |
-| G: ahh, ana mswwj b-mghribiya                  | G: si, estoy casado con una marroqui                |
+| G: ahh, ana mzwwj b-mghribiya                  | G: si, estoy casado con una marroqui                |
 | J: mzyan! shnu smitha?                         | J: bien! como se llama ella?                        |
 | G: hiya smitha Samira                          | G: ella se llama Samira                             |

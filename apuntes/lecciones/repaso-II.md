@@ -7,6 +7,24 @@ nav_order: 9
 
 # Repaso
 
+Las preguntas que vimos hasta ahora son:
+
+| Marroquí     | Castellano     |
+|:-------------|:---------------|
+| kif dayra?   | cómo estas?    |
+| wa nta/nti?  | y tu (m/f)?    |
+| ash... ?     | que ...?       |
+| shnu... ?    | cuál ...? que? |
+| mnin... ?    | de dónde ...?  |
+| fin... ?     | dónde ...?     |
+| fash... ?    | de qué ...?    |
+| wash... ?    | acaso ...?     |
+| dyal mn... ? | de quién ...?  |
+| shehal... ?  | cuanto ...?    |
+
+
+---
+
 ## Gaston Se Presenta
 Salam aleykoum. Ana smiti Gaston, mn l-arjontin w daba sakn f Buenos Aires. Khddamti muhandis/a l’informatic. 3ndi tleta w tltin 3am, w ana mswwj b-mghribiya w ana kanqra darija. Ana kanhdar l-espania, l-anglisia, l-fransawia, w shuia darija.
 
