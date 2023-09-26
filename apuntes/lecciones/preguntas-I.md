@@ -20,6 +20,13 @@ Preguntas generales útiles de conocer.
 | ash hada/i?       | ash hada/i       | que es esto/a? (algo cercano) |
 | ash hadak/ik/uk?  | ash hadak/ik/uk  | que es eso? (algo lejano)     |
 
+### Respuestas
+
+| Marroquí   | Castellano           |
+|:-----------|:---------------------|
+| had sstylo | esto es una lapicera |
+| had l-ktab | esto es un libro     |
+
 ---
 
 ## De quien es esto / eso?

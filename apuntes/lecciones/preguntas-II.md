@@ -11,7 +11,7 @@ Preguntas generales útiles de conocer.
 
 ---
 
-## ¿Dónde estás?
+## ¿Dónde estás? / ¿Dónde está ...?
 
 | Marroquí      | Castellano         |
 |:--------------|:-------------------|
@@ -31,7 +31,6 @@ Preguntas generales útiles de conocer.
 | Samira hna         | Samira está aquí       |
 
 ---
-
 
 ## ¿Que estás haciendo?
 
@@ -97,6 +96,3 @@ Preguntas generales útiles de conocer.
 | Marroquí             | Pronunciacion | Castellano  |
 |:---------------------|:--------------|:------------|
 | la, l Hlib ma kaynsh | -             | no, no esta |
-
----
-
