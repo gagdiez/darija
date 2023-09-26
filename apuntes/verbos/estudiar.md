@@ -10,27 +10,27 @@ Infinitivo: `qra`
 
 | Castellano | Marroquí      |
 |:-----------|:--------------|
-| Yo         | ana kanqra    |
-| Tu (m)     | nta katqra    |
-| Tu (f)     | nti katqray   |
-| El         | huwa kayqra   |
-| Ella       | hiya katqra   |
-| Nosotr@s   | Hna kanqrau   |
-| Ustedes    | ntuma katqrau |
-| Ell@s      | huma kayqrau  |
+| Yo         | ana kan`qra`    |
+| Tu (m)     | nta kat`qra`    |
+| Tu (f)     | nti kat`qra`y   |
+| El         | huwa kay`qra`   |
+| Ella       | hiya kat`qra`   |
+| Nosotr@s   | Hna kan`qra`u   |
+| Ustedes    | ntuma kat`qra`u |
+| Ell@s      | huma kay`qra`u  |
 
 ### Negado
 
 | Castellano  | Marroquí           |
 |:------------|:-------------------|
-| Yo no       | ana ma kanqrash    |
-| Tu no (m)   | nta ma katqrash    |
-| Tu no (f)   | nti ma katqraysh   |
-| El no       | huwa ma kayqrash   |
-| Ella no     | hiya ma katqrash   |
-| Nosotr@s no | Hna ma kanqraush   |
-| Ustedes no  | ntuma ma katqraush |
-| Ell no@s    | huma ma kayqraush  |
+| Yo no       | ana ma kan`qra`sh    |
+| Tu no (m)   | nta ma kat`qra`sh    |
+| Tu no (f)   | nti ma kat`qra`ysh   |
+| El no       | huwa ma kay`qra`sh   |
+| Ella no     | hiya ma kat`qra`sh   |
+| Nosotr@s no | Hna ma kan`qra`ush   |
+| Ustedes no  | ntuma ma kat`qra`ush |
+| Ell no@s    | huma ma kay`qra`ush  |
 
 
 ### Idiomas Básicos

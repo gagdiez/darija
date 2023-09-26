@@ -10,27 +10,27 @@ Infinitivo: `hdar`
 
 | Castellano | Marroquí       |
 |:-----------|:---------------|
-| Yo hablo   | ana kanhdar    |
-| Tu (m)     | nta kathdar    |
-| Tu (f)     | nti kathdari   |
-| El         | huwa kayhdar   |
-| Ella       | hiya kathdar   |
-| Nosotr@s   | Hna  kanhdaru  |
-| Ustedes    | ntuma kathdaru |
-| Ell@s      | huma kayhdaru  |
+| Yo hablo   | ana kan`hdar`    |
+| Tu (m)     | nta kat`hdar`    |
+| Tu (f)     | nti kat`hdar`i   |
+| El         | huwa kay`hdar`   |
+| Ella       | hiya kat`hdar`   |
+| Nosotr@s   | Hna  kan`hdar`u  |
+| Ustedes    | ntuma kat`hdar`u |
+| Ell@s      | huma kay`hdar`u  |
 
 ### Negado
 
 | Castellano  | Marroquí            |
 |:------------|:--------------------|
-| Yo no hablo | ana ma kanhdarsh    |
-| Tu no (m)   | nta ma kathdarsh    |
-| Tu no (f)   | nti ma kathdarish   |
-| El no       | huwa ma kayhdarish  |
-| Ella no     | hiya ma kathdarsh   |
-| Nosotr@s no | Hna ma  kanhdarush  |
-| Ustedes no  | ntuma ma kathdarush |
-| Ell no@s    | huma ma kayhdarush  |
+| Yo no hablo | ana ma kan`hdar`sh    |
+| Tu no (m)   | nta ma kat`hdar`sh    |
+| Tu no (f)   | nti ma kat`hdar`ish   |
+| El no       | huwa ma kay`hdar`ish  |
+| Ella no     | hiya ma kat`hdar`sh   |
+| Nosotr@s no | Hna ma  kan`hdar`ush  |
+| Ustedes no  | ntuma ma kat`hdar`ush |
+| Ell no@s    | huma ma kay`hdar`ush  |
 
 
 ### Idiomas Básicos
