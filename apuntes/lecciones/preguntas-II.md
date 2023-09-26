@@ -11,6 +11,28 @@ Preguntas generales útiles de conocer.
 
 ---
 
+## ¿Dónde estás?
+
+| Marroquí      | Castellano         |
+|:--------------|:-------------------|
+| fink?         | dónde estás?       |
+| Samira finha? | Samira dónde está? |
+
+
+### Respuestas
+
+| Marroquí           | Castellano             |
+|:-------------------|:-----------------------|
+| Ana hna            | estoy aquí             |
+| Ana f Buenos Aires | estoy en Buenos Aires  |
+| Samira f darha     | Samira está en su casa |
+| Samira f ddar      | Samira está en la casa |
+| Samira kayna hna   | Samira está aquí       |
+| Samira hna         | Samira está aquí       |
+
+---
+
+
 ## ¿Que estás haciendo?
 
 | Marroquí      | Pronunciacion | Castellano          |
@@ -23,7 +45,6 @@ Preguntas generales útiles de conocer.
 | Marroquí   | Pronunciacion | Castellano |
 |:-----------|:--------------|:-----------|
 | ana kanqra | ana kranqra   | yo estudio |
-
 
 ---
 
