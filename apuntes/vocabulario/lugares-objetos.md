@@ -17,7 +17,7 @@ Lugares y objectos comunes.
 | 🏟️ Parque       | jerda       | 📱 Telefono  | tilifon    |
 | 🏢 Oficina      | maktab      | 🗝️ Llave     | sarut      |
 | 🕌 Mezquita     | jame3       | 💰 Dinero    | flus       |
-| 🏥 Hospital     | sbettar     |              |            |
+| 🏥 Hospital     | sbettar     | 🚲 Bicicleta | biskit     |
 | 🏦 Banco        | banka       |              |            |
 | 🏬 Supermercado | supermarche |              |            |
 | 🏨 Hotel        | otel        |              |            |

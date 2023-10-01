@@ -20,30 +20,32 @@ Preguntas generales útiles de conocer.
 | ash hada/i?       | ash hada/i       | que es esto/a? (algo cercano) |
 | ash hadak/ik/uk?  | ash hadak/ik/uk  | que es eso? (algo lejano)     |
 
-### Respuestas
+<details markdown="1">
+<summary> Respuestas </summary>
 
 | Marroquí   | Castellano           |
 |:-----------|:---------------------|
 | had sstylo | esto es una lapicera |
 | had l-ktab | esto es un libro     |
 
+</details>
+
 ---
 
 ## De quien es esto / eso?
 
-| Marroquí                        | Pronunciacion                  | Castellano                                  |
-|:--------------------------------|:-------------------------------|:--------------------------------------------|
-| dyal mn hada/hadi?              | dyal mn hada/hadi              | de quien es esto? (algo cercano)            |
-| dyal mn hadak/hadik/haduk?      | dyal mn hadak/hadik/haduk      | de quien es eso? (algo lejano)              |
-| dyal mn had `<objeto>`?         | dyal mn had `<objeto>`         | de quien es este `<objeto>`? (algo cercano) |
-| dyal mn dak/dik/duk `<objeto>`? | dyal mn dak/dik/duk `<objeto>` | de quien es ese `<objeto>`? (algo lejano)   |
+| Marroquí                        | Castellano                   |
+|:--------------------------------|:-----------------------------|
+| dyal mn hada/hadi?              | de quien es esto?            |
+| dyal mn hadak/hadik/haduk?      |  de quien es eso?             |
+| dyal mn had `<objeto>`?         |  de quien es este `<objeto>`? |
+| dyal mn dak/dik/duk `<objeto>`? |  de quien es ese `<objeto>`?  |
 
 {: .nota }
 `had/dak/dik/duk` son para cuando vas a nombrar el objeto, `hada/hadi/hadu/k` son para cuando no.
 
-<br/>
-
-#### Ejemplos
+<details markdown="1">
+<summary> Ejemplos </summary>
 
 | Marroquí                 | Castellano                  |
 |:-------------------------|:----------------------------|
@@ -52,6 +54,8 @@ Preguntas generales útiles de conocer.
 | dyal mn dik t-tomobil    | de quien es ese automovil?  |
 | hadik tomobil dyal Said  | ese automovil es de Said    |
 
+</details>
+
 ---
 
 ## Es esto de ...?
@@ -59,9 +63,17 @@ Preguntas generales útiles de conocer.
 | Marroquí                     | Castellano                     |
 |:-----------------------------|:-------------------------------|
 | wash had l-ktab dyal Hicham? | acaso es este libro de Hicham? |
-| lla, mashi dyalu             | no, no lo es                   |
 | wash had d-dar dyal Malika?  | acaso es esta casa de Malika?  |
+
+<details markdown="1">
+<summary> Respuestas </summary>
+
+| Marroquí                     | Castellano                     |
+|:-----------------------------|:-------------------------------|
+| lla, mashi dyalu             | no, no lo es                   |
 | yeh, dyalha                  | si, lo es                      |
+
+</details>
 
 ---
 
@@ -73,8 +85,11 @@ Preguntas generales útiles de conocer.
 | shehal f 3mrk?       | shehal f 3mrk       | cuantos años tenes? |
 
 
-### Respuestas
+<details markdown="1">
+<summary> Respuestas </summary>
 
 | Marroquí                    | Pronunciacion | Castellano    |
 |:----------------------------|:--------------|:--------------|
 | ana 3ndi tnayn w tlatin 3am | -             | tengo 32 años |
+
+</details>

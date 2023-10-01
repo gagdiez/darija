@@ -19,7 +19,8 @@ Preguntas generales útiles de conocer.
 | Samira finha? | Samira dónde está? |
 
 
-### Respuestas
+<details markdown="1">
+<summary> Respuestas </summary>
 
 | Marroquí           | Castellano             |
 |:-------------------|:-----------------------|
@@ -30,6 +31,8 @@ Preguntas generales útiles de conocer.
 | Samira kayna hna   | Samira está aquí       |
 | Samira hna         | Samira está aquí       |
 
+</details>
+
 ---
 
 ## ¿Que estás haciendo?
@@ -39,23 +42,27 @@ Preguntas generales útiles de conocer.
 | shnu katdiri? | shnu katdiri  | que estas haciendo? |
 
 
-### Respuestas
+<details markdown="1">
+<summary> Respuestas </summary>
 
 | Marroquí   | Pronunciacion | Castellano |
 |:-----------|:--------------|:-----------|
 | ana kanqra | ana kranqra   | yo estudio |
 
+</details>
+
 ---
 
 ## ¿A donde Estás Yendo?
 
-| Marroquí              | Pronunciacion         | Castellano                                               |
-|:----------------------|:----------------------|:---------------------------------------------------------|
-| fin ghadi?            | fin Radi (R francesa) | Donde yendo? (a dónde estás yendo?)                      |
-| fin ghadi f l wikand? | fin Radi f l wikand   | Donde yendo en el fin de semana? (a dónde vas el finde?) |
+| Marroquí              | Pronunciación         | Castellano                       |
+|:----------------------|:----------------------|:---------------------------------|
+| fin ghadi?            | fin Radi (R francesa) | Donde yendo?                     |
+| fin ghadi f l wikand? | fin Radi f l wikand   | Donde yendo en el fin de semana? |
 
 
-### Respuestas
+<details markdown="1">
+<summary> Respuestas </summary>
 
 | Marroquí                | Pronunciacion          | Castellano               |
 |:------------------------|:-----------------------|:-------------------------|
@@ -63,6 +70,8 @@ Preguntas generales útiles de conocer.
 | ana ghadi l dari        | ana Radi l dari        | yendo mi casa            |
 | ana ghadi l medina      | ana Radi l medina      | yendo a la ciudad        |
 | ana ghadi ndir fotocopi | ana Radi ndir fotocopi | tengo a hacer fotocopias |
+
+</details>
 
 ---
 
@@ -73,12 +82,15 @@ Preguntas generales útiles de conocer.
 | Fin knti?                  | fin kanti                 | Donde estabas?                                    |
 | Fin knti simana lli fatet? | fin kanti simana li fatet | Donde estabas la semana que paso (semana pasada)? |
 
-### Respuestas
+<details markdown="1">
+<summary> Respuestas </summary>
 
 | Marroquí         | Pronunciacion    | Castellano       |
 |:-----------------|:-----------------|:-----------------|
 | ana knt f Madrid | ana knt f madrid | estaba en madrid |
 | ana knt kanhdar  | ana knt f madrid | estaba en madrid |
+
+</details>
 
 ---
 
@@ -91,8 +103,12 @@ Preguntas generales útiles de conocer.
 | wash kayn l khbz? | -             | Acaso hay pan?    |
 | wash kayn l ma?   | -             | Acaso hay agua?   |
 
-### Respuestas
+<details markdown="1">
+<summary> Respuestas </summary>
+
 
 | Marroquí             | Pronunciacion | Castellano  |
 |:---------------------|:--------------|:------------|
 | la, l Hlib ma kaynsh | -             | no, no esta |
+
+</details>
