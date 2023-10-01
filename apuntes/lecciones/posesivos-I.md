@@ -14,15 +14,15 @@ Hay dos formas de denotar posesión en Darija. La primera es utilizando [prenomb
 
 En Darija podemos agregar un sufijo al final de las palabras para expresar posesión.
 
-| Marroquí | Terminación |
-|----------|-------------|
-| ana      | i / ya*     |
-| nti/a    | k           |
-| huwa     | u / h*      |
-| hiya     | ha          |
-| Hna      | na          |
-| huma     | kum         |
-| ntuma    | hum         |
+| Prenombre | Terminación |
+|-----------|-------------|
+| ana       | i / ya*     |
+| nti/a     | k           |
+| huwa      | u / h*      |
+| hiya      | ha          |
+| Hna       | na          |
+| huma      | kum         |
+| ntuma     | hum         |
 
 {: .nota}
 \* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
@@ -41,6 +41,7 @@ La segunda forma de expresar posesión es utilizando `dyal`.
 | vuestra  | dyalkum     |
 | de ell@s | dyalhum     |
 
+---
 
 ## Ejemplos
 

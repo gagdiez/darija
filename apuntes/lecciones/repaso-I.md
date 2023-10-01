@@ -19,9 +19,6 @@ Las preguntas que vimos hasta ahora son:
 | fash... ?   | de qué ...?   |
 | wash... ?   | acaso ...?    |
 
-{: .nota }
-`shnu` también puede ser "que ... ?"
-
 <br />
 
 ---

@@ -23,7 +23,7 @@ Aprendiendo los números del 1 al 12 ya se tiene un 90% del conocimiento necesar
 | 6      | stta     | esta             | `stt`         |
 | 7      | sb3a     | esba             | `sb3`         |
 | 8      | tmnya    | temenia          | `tmn`         |
-| 9      | ts3ud    | tsaud            | `ts3`         |
+| 9      | ts3ud    | tsud             | `ts3`         |
 | 10     | 3ashra   | 3ashra           | -             |
 | 11     | Hdash    | jdash            | -             |
 | 12     | tnash    | tnash            | -             |

@@ -6,8 +6,8 @@ layout: default
 
 # Paises / Idiomas
 
-| Pais                   | Idioma               |
-|:-----------------------|:---------------------|
-| Marruecos (lmghrib)    | Arabe (l-arabia)     |
-| Argentina (l-arjontin) | Español (l-espania)  |
-| EEUU (l-merikan)       | English (l-anglisia) |
+| País                      | Idioma               |
+|:--------------------------|:---------------------|
+| 🇲🇦 Marruecos (lmghrib)    | Arabe (l-arabia)     |
+| 🇦🇷 Argentina (l-arjontin) | Español (l-espania)  |
+| 🇺🇸 EEUU (l-merikan)       | English (l-anglisia) |
