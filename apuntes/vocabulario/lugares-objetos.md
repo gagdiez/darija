@@ -18,6 +18,6 @@ Lugares y objectos comunes.
 | 🏢 Oficina      | maktab      | 🗝️ Llave     | sarut      |
 | 🕌 Mezquita     | jame3       | 💰 Dinero    | flus       |
 | 🏥 Hospital     | sbettar     | 🚲 Bicicleta | biskit     |
-| 🏦 Banco        | banka       |              |            |
-| 🏬 Supermercado | supermarche |              |            |
+| 🏦 Banco        | banka       | 🐈 Gato      | qet/msh    |
+| 🏬 Supermercado | supermarche | 🐕 Perro     | klb        |
 | 🏨 Hotel        | otel        |              |            |
