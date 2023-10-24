@@ -13,6 +13,6 @@ layout: default
 | Tu eres Samira                    | nti Samira              |
 | El es Ben                         | huwa Ben                |
 | Ella es Sofia                     | hiya Sofia              |
-| Nosotr@s somos Samira y Guillermo | Hna Samira eu Guillermo |
-| Ell@s son Sofia y Ben             | huma Jorge eu Ben       |
+| Nosotr@s somos Samira y Guillermo | Hna Samira wa Guillermo |
+| Ell@s son Sofia y Ben             | huma Jorge wa Ben       |
 

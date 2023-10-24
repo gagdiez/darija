@@ -24,7 +24,6 @@ Preguntar de que trabajan y si están casad@s.
 
 
 {: .nota}
-> - `smH/smHi-li` es la unión de `f` (en) + `ash` (que).
 > - `fash` es la unión de `f` (en) + `ash` (que).
 > - Para negar un verbo se utiliza `ma` antes del verbo y `sh` al final.
 

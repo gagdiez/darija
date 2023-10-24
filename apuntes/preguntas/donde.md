@@ -18,4 +18,4 @@ layout: default
 
 | Marroquí    | Castellano        |
 |:------------|:------------------|
-| nta/i mnin? | vos de donde sos? |
+| nta/i mnin? | tu de donde eres? |

@@ -15,8 +15,8 @@ Las preguntas que vimos hasta ahora son:
 | wa nta/nti? | y tu (m/f)?   |
 | shnu... ?   | cuál ... ?    |
 | mnin... ?   | de dónde ...? |
-| fin... ?    | dónde ...?    |
-| fash... ?   | de qué ...?   |
+| fin... ?    | en dónde ...?    |
+| fash... ?   | en qué ...?   |
 | wash... ?   | acaso ...?    |
 
 <br />
@@ -36,15 +36,15 @@ Repaso de un dialogo con todo lo aprendido hasta ahora
 | G: mtsherfn                                    | G: Encantado                                        |
 | J: Htta ana mtsherfa                           | J: Encantada                                        |
 | G: kif dayra?                                  | G: como estas?                                      |
-| J: kulshi bikhir, wa nta? labas 3lik?          | J: todo bien, y vos? ningun problema?               |
+| J: kulshi bikhir, wa nta? labas 3lik?          | J: todo bien, y tu? ningun problema?               |
 | G: labas hamdulilah                            | G: ningun problema gracias a dios                   |
 | J: wash khadamm?                               | J: acaso trabajas?                                  |
 | G: ahha, ana khadam                            | G: si, yo trabajo                                   |
 | J: fash khadamm?                               | J: en donde trabajas?                               |
 | G: ana khdamm f sharika, wa nta? fash khdamma? | G: trabajo en una empresa, y tu? en donde trabajas? |
 | J: ana ma khdamash daba                        | J: yo no trabajo ahora                              |
-| G: nta menin?                                  | G: de donde sos?                                    |
-| J: ana mn lmghrib, wa nti?                     | J: soy de marruecos, y vos?                         |
+| G: nta menin?                                  | G: de donde eres?                                    |
+| J: ana mn lmghrib, wa nti?                     | J: soy de marruecos, y tu?                         |
 | G: ana mn l-argentine                          | G: yo soy de la argentina                           |
 | J: fin sakn?                                   | J: donde vivis?                                     |
 | G: ana sakn f Buenos Aires                     | G: vivo en Buenos Aires                             |
