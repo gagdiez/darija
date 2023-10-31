@@ -11,8 +11,8 @@ Hay distintas formas de preguntar como estas en marroquí. La más común es `la
 | Marroquí    | Pronunciación | Castellano                    |
 |:------------|:--------------|:------------------------------|
 | labas?      | labas?        | nada mal? (todo bien?)        |
-| labas 3lik? | labas alik?   | nada mal en vos? (todo bien?) |
-| kif dayr/a? | kif dair?     | como estas (vos)?             |
+| labas 3lik? | labas alik?   | nada mal en tu? (todo bien?) |
+| kif dayr/a? | kif dair?     | como estas (tu)?             |
 
 
 ### Respuestas
