@@ -7,7 +7,7 @@ nav_order: 7.1
 
 # Preguntas Generales
 
-Preguntas generales útiles de conocer.
+Preguntas generales útiles de conocer. Recomendamos acompañar esta lección con el apunto de [lugares y objetos](../vocabulario/lugares-objetos).
 
 ---
 

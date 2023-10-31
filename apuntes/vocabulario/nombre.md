@@ -4,7 +4,7 @@ parent: Apuntes
 layout: default
 ---
 
-# LLamarse
+# Nombre / Apellido
 
 ## Nombre
 Infinitivo: **`smiya`**

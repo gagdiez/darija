@@ -1,25 +1,22 @@
 ---
-title: Conjugar Verbos
+title: Dias de la Semana
 parent: Lecciones
 layout: default
-nav_order: 3.1
+nav_order: 13
 ---
 
-# Conjugar Verbos
-
-Para conjugar verbos con la persona que la persona que los acciona podemos utilizar la siguiente regla:
-
+# Dias de la Semana
 
 | Persona | Prefijo - Sufijo      |
 |:--------|:----------------------|
-| ana     | `ka``n` \<verbo\>     |
-| nta     | `ka``t` \<verbo\>     |
-| nti     | `ka``t` \<verbo\> `i` |
-| huwa    | `ka``y` \<verbo\>     |
-| hiya    | `ka``t` \<verbo\>     |
-| Hna     | `ka``n` \<verbo\> `u` |
-| huma    | `ka``t` \<verbo\> `u` |
-| ntuma   | `ka``y` \<verbo\> `u` |
+| lHd     | `ka``n` \<verbo regular\>     |
+| ltnin     | `ka``t` \<verbo regular\>     |
+| Tlet     | `ka``t` \<verbo regular\> `i` |
+| huwa    | `ka``y` \<verbo regular\>     |
+| hiya    | `ka``t` \<verbo regular\>     |
+| Hna     | `ka``n` \<verbo regular\> `u` |
+| huma    | `ka``t` \<verbo regular\> `u` |
+| ntuma   | `ka``y` \<verbo regular\> `u` |
 
 ---
 
