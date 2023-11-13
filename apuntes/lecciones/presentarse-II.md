@@ -26,3 +26,9 @@ Preguntar [de donde](../preguntas/donde) es la otra persona, y [en donde](../pre
 > - `in` quiere decir `donde`.
 > - `fin` es la unión de `f` (en) + `in` (donde).
 > - `mnin` es la union de `mn` (en) + `in` (donde).
+
+---
+
+## A notar
+
+1. Guillermo dice `sakn` por ser masculino, mientras que Samira dice `sakna` por ser femenino. 

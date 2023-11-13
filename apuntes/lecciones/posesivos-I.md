@@ -2,7 +2,7 @@
 title: Posesión
 parent: Lecciones
 layout: default
-nav_order: 3
+nav_order: 5.1
 ---
 
 # Posesivos
@@ -26,6 +26,8 @@ En Darija podemos agregar un sufijo al final de las palabras para expresar poses
 
 {: .nota}
 \* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
+
+<br/>
 
 ## Dyal
 

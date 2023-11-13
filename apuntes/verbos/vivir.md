@@ -18,7 +18,7 @@ Infinitivo: `skun`
 | Ustedes    | ntuma kat`skun`u |
 | Ell@s      | huma kay`skun`u  |
 
-### Negado
+## Negado
 
 | Castellano  | Marroquí           |
 |:------------|:-------------------|

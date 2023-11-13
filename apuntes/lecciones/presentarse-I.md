@@ -40,8 +40,8 @@ nav_order: 1
 
 ---
 
-En el dialogo anterior dos personas se presentan y dicen: `ana smiti` y `shnu smitek`. **No estan diciendo** "me llamo" y "como te llamas?" sino "mi nombre es" y "cual es tu nombre?".
+## A notar
 
-Para denotar posesión sobre un objeto se cambia/agrega un sufijo, puede encontrar mas información en la sección [vocabulario](../vocabulario/pronombres#pronombres-posesivos).
+1. `ana smiti` y `shnu smitek?` quieren decir "mi nombre es" y "cual es tu nombre?". Denotan [posesión](../vocabulario/pronombres#pronombres-posesivos) de un objeto (en este caso, el `nombre`).
 
-También es importante destacar que es mas natural simplemente decir `smiti` en vez de `ana smiti`, pero en esta primera lección queríamos también agregar los [pronombres personales](../vocabulario/pronombres#pronombres-personales).
+2. Es mas natural decir `smiti` en lugar de `ana smiti`, pero en esta primera lección queríamos denotar los [pronombres personales](../vocabulario/pronombres#pronombres-personales).

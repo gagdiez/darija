@@ -4,11 +4,11 @@ parent: Verbos
 layout: default
 ---
 
-# Estudiar
+# Escribir
 Infinitivo: `kteb`
 
-| Castellano | Marroquí      |
-|:-----------|:--------------|
+| Castellano | Marroquí         |
+|:-----------|:-----------------|
 | Yo         | ana kan`kteb`    |
 | Tu (m)     | nta kat`kteb`    |
 | Tu (f)     | nti kat`kteb`y   |
@@ -18,10 +18,10 @@ Infinitivo: `kteb`
 | Ustedes    | ntuma kat`kteb`u |
 | Ell@s      | huma kay`kteb`u  |
 
-### Negado
+## Negado
 
-| Castellano  | Marroquí           |
-|:------------|:-------------------|
+| Castellano  | Marroquí              |
+|:------------|:----------------------|
 | Yo no       | ana ma kan`kteb`sh    |
 | Tu no (m)   | nta ma kat`kteb`sh    |
 | Tu no (f)   | nti ma kat`kteb`ysh   |

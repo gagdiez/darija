@@ -11,23 +11,23 @@ Infinitivo: **`smiya`**
 
 | Castellano            | Marroquí ([Pronombres](pronombres) + Conjugación) |
 |:----------------------|:------------------------------------------------------------------|
-| Mi nombre             | ana smiti                                                         |
-| Tu nombre             | nta/nti smitk                                                     |
-| El nombre de él       | huwa smitu                                                        |
-| El nombre de ella     | hiya smitha                                                       |
-| El nombre de ell@s es | huma smithum                                                      |
-| Nosotr@s nos llamamos | Hna smithna                                                       |
-| Vosotros os llamais   | ntuma smiytkum                                                    |
+| Mi nombre             | ana smit`i`                                                         |
+| Tu nombre             | nta/nti smit`k`                                                     |
+| El nombre de él       | huwa smit`u`                                                        |
+| El nombre de ella     | hiya smit`ha`                                                       |
+| Nosotr@s nos llamamos | Hna smit`na`                                                       |
+| Vosotros os llamais   | ntuma smiyt`kum`                                                    |
+| El nombre de ell@s es | huma smit`hum`                                                      |
 
 ## Apellido
 Infinitivo: **`kniya`**
 
 | Castellano            | Marroquí ([Pronombres](pronombres) + Conjugación) |
 |:----------------------|:------------------------------------------------------------------|
-| Mi nombre             | ana kniti                                                         |
-| Tu nombre             | nta/nti knitk                                                     |
-| El nombre de él       | huwa knitu                                                        |
-| El nombre de ella     | hiya knitha                                                       |
-| El nombre de ell@s es | huma knithum                                                      |
-| Nosotr@s nos llamamos | Hna knitna                                                        |
-| Vosotros os llamais   | ntuma knitkum                                                     |
+| Mi nombre             | ana knit`i`                                                         |
+| Tu nombre             | nta/nti knit`k`                                                     |
+| El nombre de él       | huwa knit`u`                                                        |
+| El nombre de ella     | hiya knit`ha`                                                       |
+| Nosotr@s nos llamamos | Hna knit`na`                                                        |
+| El nombre de ell@s es | huma knit`kum`                                                      |
+| Vosotros os llamais   | ntuma knit`hum`                                                     |

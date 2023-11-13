@@ -18,8 +18,8 @@ Preguntar de que trabajan y si están casad@s.
 | S: smH-li [nsewlk](../verbos/preguntar) 3afak?               | smijilí ensulek afak? | S: perdona-me, pregunta por favor?  |
 | G: ah, sewl ni                                               | ah, suel ni           | G: si, pregunta a mi                |
 | S: [wash](../preguntas/acaso) mzwwj?                         | wash msuj             | S: acaso casado?                    |
-| G: la, ana baqi ma mzwwjsh                                   | msussh                | G: no, no estoy casado              |
-| G: wa nti? wash mzwwja?                                      | wash msuya            | G: y tu? estas casada?             |
+| G: la, ana baqi ma mzwwjsh                                   | msussh                | G: no, no estoy casado aun          |
+| G: wa nti? wash mzwwja?                                      | wash msuya            | G: y tu? estas casada?              |
 | S: ahh, ana mzwwja [b](../vocabulario/preposiciones)-mghribi | ana msuya             | S: si, estoy casada con un Marroquí |
 
 

@@ -4,7 +4,7 @@ layout: home
 nav_order: 0
 ---
 
-Este sitio web reúne los apuntes que fui tomando en mis clases de Árabe Marroquí, también conocido como `Darija`.
+Este sitio web reúne los apuntes que voy tomando en mis clases de Árabe Marroquí, también conocido como `Darija`.
 
 El sitio web cuenta con un menu (a la izquierda de esta pantalla) que permite navegar entre las distintas [lecciones](./apuntes/lecciones/), conjugaciones de [verbos](./apuntes/verbos/), apuntes de [vocabulario](./apuntes/vocabulario/) y de [preguntas](./apuntes/preguntas/).
 
