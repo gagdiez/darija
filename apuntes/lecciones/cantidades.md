@@ -7,7 +7,7 @@ nav_order: 7
 
 # Cantidades
 
-Es important notar que [decir los números](./numeros.md) y usarlos para contar cosas es distinto. En esta lección vamos a ver como usar los [números que aprendimos en la lección anterior](./numeros.md) para denotar cantidades.
+Es important notar que [decir los números](./numeros) y usarlos para contar cosas es distinto. En esta lección vamos a ver como usar los [números que aprendimos en la lección anterior](./numeros) para denotar cantidades.
 
 ## Individual
 

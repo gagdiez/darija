@@ -7,7 +7,7 @@ nav_order: 6
 
 # Números
 
-Es important notar que decir los números y usarlos para [contar cosas](./cantidades.md) es distinto. En esta lección vamos a ver los números del uno al millón, y en la siguiente veremos como usarlos para enumerar objetos. 
+Es important notar que decir los números y usarlos para [contar cosas](./cantidades) es distinto. En esta lección vamos a ver los números del uno al millón, y en la siguiente veremos como usarlos para enumerar objetos. 
 
 ## Del 1 al 12
 

@@ -33,14 +33,14 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 
 ## Hora de la comida
 
-| Marroquí                                 | Pronunciación | Castellano                            |
-|:-----------------------------------------|:--------------|:--------------------------------------|
-| fia ju3                                  |               | tengo hambre                          |
-| shb3t                                    | jb3´t         | estoy lleno                           |
-| ana [kanakul](../verbos/comer.md) kulshi |               | como de todo*                         |
-| lmakla bnina bsaf                        |               | la comida esta rica mucho (deliciosa) |
-| allah ykhlf                              | ala yjlf      | que dios te lo reponga                |
-| bghit Samira t-t3lm t-tiyb               | T-t3lm T-tib  | quiero que Samira aprenda a cocinar   |
+| Marroquí                              | Pronunciación | Castellano                            |
+|:--------------------------------------|:--------------|:--------------------------------------|
+| fia ju3                               |               | tengo hambre                          |
+| shb3t                                 | jb3´t         | estoy lleno                           |
+| ana [kanakul](../verbos/comer) kulshi |               | como de todo*                         |
+| lmakla bnina bsaf                     |               | la comida esta rica mucho (deliciosa) |
+| allah ykhlf                           | ala yjlf      | que dios te lo reponga                |
+| bghit Samira t-t3lm t-tiyb            | T-t3lm T-tib  | quiero que Samira aprenda a cocinar   |
 
 ---
 

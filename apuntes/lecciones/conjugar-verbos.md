@@ -25,13 +25,13 @@ Para conjugar verbos con la persona que la persona que los acciona podemos utili
 
 ## Ejemplos
 
-| Marroquí                                      | Castellano          |
-|:----------------------------------------------|:--------------------|
-| ana `ka``n`[kteb](../verbos/escribir)         | Yo escribo          |
-| nta `ka``t`[sma3](../verbos/escuchar.md)      | Tu escuchas (M)     |
-| nti `ka``t`[qta3](../verbos/cortar.md)`i`     | Tu cortas (F)       |
-| huwa `ka``y`[drb](../verbos/chutar.md)        | El chuta (pega)     |
-| hiya `ka``t`[hdar](../verbos/hablar)          | Ella habla          |
-| Hna  `ka``n` [qra](../verbos/estudiar) `u`    | Nosotr@s estudiamos |
-| huma `ka``t`[khdam](../verbos/trabajar.md)`u` | Ustedes trabajan    |
-| ntuma `ka``y`[3rf](../verbos/saber.md)`u`     | Ell@s saben         |
+| Marroquí                                   | Castellano          |
+|:-------------------------------------------|:--------------------|
+| ana `ka``n`[kteb](../verbos/escribir)      | Yo escribo          |
+| nta `ka``t`[sma3](../verbos/escuchar)      | Tu escuchas (M)     |
+| nti `ka``t`[qta3](../verbos/cortar)`i`     | Tu cortas (F)       |
+| huwa `ka``y`[drb](../verbos/chutar)        | El chuta (pega)     |
+| hiya `ka``t`[hdar](../verbos/hablar)       | Ella habla          |
+| Hna  `ka``n` [qra](../verbos/estudiar) `u` | Nosotr@s estudiamos |
+| huma `ka``t`[khdam](../verbos/trabajar)`u` | Ustedes trabajan    |
+| ntuma `ka``y`[3rf](../verbos/saber)`u`     | Ell@s saben         |

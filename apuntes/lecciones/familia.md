@@ -7,4 +7,4 @@ nav_order: 13
 
 # La Familia
 
-Para entender las relaciones, ver los [apuntes de familia](../vocabulario/familia.md).
+Para entender las relaciones, ver los [apuntes de familia](../vocabulario/familia).
