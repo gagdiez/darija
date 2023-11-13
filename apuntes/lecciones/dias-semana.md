@@ -2,7 +2,7 @@
 title: Dias de la Semana
 parent: Lecciones
 layout: default
-nav_order: 13
+nav_order: 12
 ---
 
 # Dias de la Semana
