@@ -14,13 +14,16 @@ Como nombrar a los miembros de la familia.
 |:-------------|:----------|:--------------|
 | 👨🏽 Padre   | baba / ab | baba / ab     |
 | 👩🏽 Madre   | mama / om | mama / om     |
-| 👭🏽 Hermana | oxt       | ojt           |
-| 👬🏽 Hermano | ax        | aj            |
+| 👭🏽 Hermana | ukht      | ujt           |
+| 👬🏽 Hermano | khu       | khu           |
 | 👧🏽 Hija    | bnt       | bnt           |
 | 👦🏽 Hijo    | wld       | wald          |
 
 {: .nota}
 Recordar que `bnt` y `wld` son niña y niño respectivamente. 
+
+{: .nota}
+El plural de `bnt` y `wld` es `bnat` y `wlad`. 
 
 <details markdown="1">
 
@@ -30,23 +33,30 @@ Recordar que `bnt` y `wld` son niña y niño respectivamente.
 |:---------------|:-----------------|
 | mi mamá        | mama dyali / omi |
 | mi papá        | baba dyali / abi |
-| mi hermana     | oxti             |
-| mi hermano     | aji              |
+| mi hermana     | ukhti            |
+| mi hermano     | khuya            |
 | mi niña (hija) | bnti             |
 | mi niño (wld)  | wldi             |
 
 </details>
 
 
-## Relaciones
+## Familia Legal
 
-| Pariente    | Marroquí | Pronunciación |
-|:------------|:---------|:--------------|
-| 👰🏽 Esposa | mra      | mra           |
-| 🤵🏽 Esposo | rajl     | rashl         |
+| Pariente       | Marroquí | Pronunciación |
+|:---------------|:---------|:--------------|
+| 👰🏽 Esposa    | mra      | mra           |
+| 🤵🏽 Esposo    | rajl     | rashl         |
+| Cuñado/a       | nsib/t   |               |
+| Suegro (jefe)  | shix     |               |
+| Suegra (vieja) | 3guzt    |               |
+| Nuera          | 3rusa    |               |
 
 {: .nota}
 Recordar que `mra` y `rajl` son mujer y hombre respectivamente. 
+
+{: .nota}
+En vez de decirle `jefe` al suegro, o `vieja` a la suegra, uno puede simplemente referirse a ellos diciendo `3mmi` o `khalti`.
 
 <details markdown="1">
 
@@ -65,10 +75,24 @@ Recordar que `mra` y `rajl` son mujer y hombre respectivamente.
 |:-------------------|:---------|
 | 👵🏽 Abuela        | jdda     |
 | 👴🏼 Abuelo        | jdd      |
+| 👶🏽 Nieto/a       | hafid/t  |
 | 👨🏽 Tío (paterno) | 3mm      |
 | 👩🏽 Tía (paterna) | 3mma     |
 | 👨🏽 Tío (materno) | khal     |
 | 👨🏽 Tía (materna) | khala    |
+
+### Sobrin@s
+
+Hay 4 formas distintas de hablar sobre tus sobrin@s, dependiendo de si es hij@ de tu herman@.
+
+La formula general es: `hij@ + herman@`.
+
+| Pariente          | Marroquí |
+|:------------------|:---------|
+| Sobrina (hermana) | bnt ukht |
+| Sobrino (hermana) | wld ukht |
+| Sobrina (hermano) | bnt khu  |
+| Sobrino (hermano) | wld khu  |
 
 ### Prim@s
 Hay 8 formas distintas de hablar sobre tus prim@s, dependiendo de si es hij@ de tu ti@ y si tu ti@ es paterno o materno. 
