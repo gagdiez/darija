@@ -7,21 +7,20 @@ nav_order: 4
 
 # Presentarse III
 
-Preguntar de que trabajan y si están casad@s.
+Preguntar de que [trabajan](../verbos/trabajar) y si están casad@s.
 
 ## Diálogo Entre Guillermo (G) y Samira (S)
 
 | Marroquí                                                     | Pronunciacion         | Castellano                          |
 |:-------------------------------------------------------------|:----------------------|:------------------------------------|
-| S: [fash](../preguntas/de-que) [khddam](../verbos/trabajar)? | fash jdam             | S: de que trabajas?                 |
-| G: ana khddam manager F sharika                              | ana jdam              | G: soy manager de una empresa       |
 | S: smH-li [nsewlk](../verbos/preguntar) 3afak?               | smijilí ensulek afak? | S: perdona-me, pregunta por favor?  |
 | G: ah, sewl ni                                               | ah, suel ni           | G: si, pregunta a mi                |
+| S: [fash](../preguntas/de-que) [khddam](../verbos/trabajar)? | fash jdam             | S: de que trabajas?                 |
+| G: ana khddam manager F sharika                              | ana jdam              | G: soy manager de una empresa       |
 | S: [wash](../preguntas/acaso) mzwwj?                         | wash msuj             | S: acaso casado?                    |
 | G: la, ana baqi ma mzwwjsh                                   | msussh                | G: no, no estoy casado aun          |
 | G: wa nti? wash mzwwja?                                      | wash msuya            | G: y tu? estas casada?              |
 | S: ahh, ana mzwwja [b](../vocabulario/preposiciones)-mghribi | ana msuya             | S: si, estoy casada con un Marroquí |
-
 
 {: .nota}
 > - `fash` es la unión de `f` (en) + `ash` (que).
@@ -29,7 +28,7 @@ Preguntar de que trabajan y si están casad@s.
 
 
 ### Discúlpeme  
-En el ejemplo anterior, estamos preguntando a la persona si le podemos hacer una pregunta. Como hacerlo cambia dependiendo del genero del interlocutor.
+En el ejemplo anterior, Samira preguntan si puede hacer una pregunta. Como preguntar cambia dependiendo del genero del interlocutor.
 
 | Marroquí | Pronunciación | Castellano                         |
 |:---------|:--------------|:-----------------------------------|

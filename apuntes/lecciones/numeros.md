@@ -20,16 +20,21 @@ Aprendiendo los números del 1 al 12 ya se tiene un 90% del conocimiento necesar
 | 3      | tleta    | tleta            | `tlt`         |
 | 4      | rb3a     | rb3a             | `3rb`         |
 | 5      | khmsa    | jamsa            | `Hms`         |
-| 6      | stta     | esta             | `stt`         |
-| 7      | sb3a     | esba             | `sb3`         |
-| 8      | tmnya    | temenia          | `tmn`         |
-| 9      | ts3ud    | tsud             | `ts3`         |
+| 6      | stta     | está             | `stt`         |
+| 7      | sb3a     | esbá             | `sb3`         |
+| 8      | tmnya    | tmenia           | `tmn`         |
+| 9      | ts3ud    | tsüd             | `ts3`         |
 | 10     | 3ashra   | 3ashra           | -             |
 | 11     | Hdash    | jdash            | -             |
 | 12     | tnash    | tnash            | -             |
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121192548&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
+
 {: .nota }
-`tnash` viene del "dos" del árabe clásico `tnayn`  
+`tnash` viene del "dos" del árabe clásico `tnayn`
+
+{: .nota }
+Algunos marroquíes pronuncian `juj` como `suj` (j francesa)
 
 ---
 
@@ -39,13 +44,18 @@ Para los números mayores a 12 se utiliza una versión corta de los números int
 
 | Número | Marroquí | Pronunciación |
 |:-------|:---------|:--------------|
-| 13     | tltash   | tletash       |
+| 13     | tltash   | tltash        |
 | 14     | rb3tash  | rbatash       |
 | 15     | Hmstash  | jamstash      |
 | 16     | Sttash   | stash         |
 | 17     | Sb3tash  | sb3tash       |
 | 18     | Tmntash  | tmntash       |
-| 19     | Ts3tash  | ts3tash       |
+| 19     | Ts3tash  | satash        |
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121192548&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
+
+{: .nota }
+El 19 se pronuncia "satash"
 
 ---
 
@@ -64,14 +74,13 @@ Para los números mayores a 12 se utiliza una versión corta de los números int
 | 28     | tmnya wa ashrin |
 | 29     | ts3ud wa ashrin |
 | 30     | tltin           |
-| 32     | tnyan wa tltin  |
+| 32     | tnayn wa tltin  |
 | 40     | rb3in           |
 | 50     | Hmsin           |
 | 60     | Sttin           |
 | 70     | Sb3in           |
 | 80     | Tmnin           |
 | 90     | Ts3in           |
-| 99     | Ts3ud wa Ts3in  |
 
 ---
 
@@ -94,4 +103,4 @@ Para los números mayores a 12 se utiliza una versión corta de los números int
 | Millón | mlyun    |
 
 {: .nota }
-`999999` sería ts3 miya wa ts3ud wa ts3in alf wa ts3 miya wa ts3ud wa st3in 
+`999999` sería `ts3 miya wa ts3ud wa ts3in alf wa ts3 miya wa ts3ud wa st3in` 

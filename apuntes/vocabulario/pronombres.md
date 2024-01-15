@@ -17,9 +17,8 @@ nav_order: 2
 | El             | huwa     |
 | Ella           | hiya     |
 | Nosotr@s       | Hna      |
-| Ell@s          | huma     |
 | Vosotr@s       | ntuma    |
-
+| Ell@s          | huma     |
 
 ## Pronombres Posesivos
 En Darija podemos agregar un sufijo al final de las palabras para expresar posesión.
@@ -31,8 +30,8 @@ En Darija podemos agregar un sufijo al final de las palabras para expresar poses
 | huwa     | u / h*      |
 | hiya     | ha          |
 | Hna      | na          |
-| huma     | kum         |
 | ntuma    | hum         |
+| huma     | kum         |
 
 {: .nota}
 \* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).

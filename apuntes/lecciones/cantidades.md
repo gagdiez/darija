@@ -7,11 +7,13 @@ nav_order: 7
 
 # Cantidades
 
-Es important notar que [decir los números](./numeros) y usarlos para contar cosas es distinto. En esta lección vamos a ver como usar los [números que aprendimos en la lección anterior](./numeros) para denotar cantidades.
+En esta lección vamos a ver como usar los [números](./numeros) que vimos en la lección anterior para denotar cantidades.
+
+---
 
 ## Individual
 
-Cuando hay un solo objeto el numero uno funciona como un adjetivo, por lo que adquiere genero.
+Cuando hay un solo objeto el numero `uno` funciona como un adjetivo, por lo que adquiere genero.
 
 | Castellano | Marroquí  |
 |:-----------|:----------|

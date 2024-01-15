@@ -18,7 +18,7 @@ nav_order: 1
 | G: [kif dayra?](../preguntas/como-estas)                         | G: como estas?                     |
 | S: labas, wa [nta](../vocabulario/pronombres)?                   | S: ningún problema, y tu?          |
 | G: labas, hamdullah                                              | G: ningún problema, gracias a dios |
-| S: [shnu](../preguntas/cual-que) [smitik](../vocabulario/nombre) | S: cual es tu nombre?              |
+| S: [shnu](../preguntas/cual-que) [smitk](../vocabulario/nombre) | S: cual es tu nombre?              |
 | G: [ana](../vocabulario/pronombres) smiti Guillermo, wa nti?     | G: mi nombre es Guillermo, y tu?  |
 | S: ana smiti Samira                                              | S: mi nombre es Samira             |
 | G: shnu [knitk](../vocabulario/nombre#apellido)?                 | G: cual es tu apellido?            |

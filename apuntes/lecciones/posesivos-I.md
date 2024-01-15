@@ -21,8 +21,8 @@ En Darija podemos agregar un sufijo al final de las palabras para expresar poses
 | huwa      | u / h*      |
 | hiya      | ha          |
 | Hna       | na          |
-| huma      | kum         |
 | ntuma     | hum         |
+| huma      | kum         |
 
 {: .nota}
 \* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
@@ -33,15 +33,16 @@ En Darija podemos agregar un sufijo al final de las palabras para expresar poses
 
 La segunda forma de expresar posesión es utilizando `dyal`.
 
-| Marroquí | Terminación |
-|----------|-------------|
-| mio      | dyali       |
-| tuyo     | dyalk       |
-| de él    | dyalu       |
-| de ella  | dyalha      |
-| nuestra  | dyalna      |
-| vuestra  | dyalkum     |
-| de ell@s | dyalhum     |
+| Marroquí     | Terminación    |
+|--------------|----------------|
+| mio          | dyali          |
+| tuyo         | dyalk          |
+| de él        | dyalu          |
+| de ella      | dyalha         |
+| nuestra      | dyalna         |
+| vuestra      | dyalkum        |
+| de ell@s     | dyalhum        |
+| de <persona> | dyal <persona> |
 
 ---
 
@@ -49,15 +50,16 @@ La segunda forma de expresar posesión es utilizando `dyal`.
 
 ### Libro (ktab)
 
-| Castellano     | Marroquí Pronombre | Marroquí dyal    |
-|----------------|--------------------|------------------|
-| libro mio      | ktab`i`            | l-ktab dyal`i`   |
-| libro tuyo     | ktab`k`            | l-ktab dyal`k`   |
-| libro de él    | ktab`u`            | l-ktab dyal`u`   |
-| libro de ella  | ktab`ha`           | l-ktab dyal`ha`  |
-| libro nuestro  | ktab`na`           | l-ktab dyal`na`  |
-| libro vuestro  | ktab`kum`          | l-ktab dyal`kum` |
-| libro de ell@s | ktab`hum`          | l-ktab dyal`hum` |
+| Castellano       | Marroquí Pronombre | Marroquí dyal       |
+|------------------|--------------------|---------------------|
+| libro mio        | ktab`i`            | l-ktab dyal`i`      |
+| libro tuyo       | ktab`k`            | l-ktab dyal`k`      |
+| libro de él      | ktab`u`            | l-ktab dyal`u`      |
+| libro de ella    | ktab`ha`           | l-ktab dyal`ha`     |
+| libro nuestro    | ktab`na`           | l-ktab dyal`na`     |
+| libro vuestro    | ktab`kum`          | l-ktab dyal`kum`    |
+| libro de ell@s   | ktab`hum`          | l-ktab dyal`hum`    |
+| libro de Esteban | -                  | l-ktab dyal Esteban |
 
 ### Ciudad (medina)
 
@@ -76,12 +78,13 @@ La palabra `medina` en realidad termina con una `t` silenciosa en darija, que ap
 
 ### Hermano (khu)
 
-| Castellano       | Marroquí Pronombre | Marroquí dyal   |
-|------------------|--------------------|-----------------|
-| hermano mio      | khu`ya`            | l-khu dyal`i`   |
-| hermano tuyo     | khu`k`             | l-khu dyal`k`   |
-| hermano de él    | khu`h`             | l-khu dyal`u`   |
-| hermano de ella  | khu`ha`            | l-khu dyal`ha`  |
-| hermano nuestra  | khu`na`            | l-khu dyal`na`  |
-| hermano vuestra  | khu`kum`           | l-khu dyal`kum` |
-| hermano de ell@s | khu`hum`           | l-khu dyal`hum` |
+| Castellano        | Marroquí Pronombre | Marroquí dyal     |
+|-------------------|--------------------|-------------------|
+| hermano mio       | khu`ya`            | l-khu dyal`i`     |
+| hermano tuyo      | khu`k`             | l-khu dyal`k`     |
+| hermano de él     | khu`h`             | l-khu dyal`u`     |
+| hermano de ella   | khu`ha`            | l-khu dyal`ha`    |
+| hermano nuestra   | khu`na`            | l-khu dyal`na`    |
+| hermano vuestra   | khu`kum`           | l-khu dyal`kum`   |
+| hermano de ell@s  | khu`hum`           | l-khu dyal`hum`   |
+| hermano de Samira | -                  | l-khu dyal Samira |
