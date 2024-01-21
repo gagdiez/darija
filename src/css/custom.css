@@ -32,3 +32,5 @@
 article {
   padding: 1em;
 }
+
+@import './bootstrap.scss'

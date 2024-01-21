@@ -5,6 +5,8 @@ layout: default
 sidebar_position: 13
 ---
 
+import { Component } from '@site/src/components/near-component';
+
 # Repaso III
 
 Recomendamos primero ver el [apunte de familia](../vocabulario/familia).
