@@ -7,6 +7,7 @@ layout: default
 # Familia (3ilat)
 Como nombrar a los miembros de la familia.
 
+---
 
 ## Núcleo directo
 

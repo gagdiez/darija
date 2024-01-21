@@ -7,7 +7,7 @@ import { withRouter } from 'react-router-dom';
 import { useInitWallet } from './Gateway/wallet-selector';
 
 function Root({ children}) {
-    useInitWallet({ createAccessKeyFor: 'v1.social08.testnet' , networkId: 'testnet' });
+    useInitWallet({ createAccessKeyFor: 'near.social' , networkId: 'mainnet' });
     return <>{children}</>;
 }
 
