@@ -1,9 +1,8 @@
-// https://docusaurus.io/docs/swizzling#wrapper-your-site-with-root
-import '@near-wallet-selector/modal-ui/styles.css';
 
 import React from 'react';
 import { withRouter } from 'react-router-dom';
 
+import '@near-wallet-selector/modal-ui/styles.css';
 import { useInitWallet } from './Gateway/wallet-selector';
 
 function Root({ children}) {
