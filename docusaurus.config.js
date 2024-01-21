@@ -46,7 +46,7 @@ const config = {
           routeBasePath: '/',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: './src/css/custom.scss',
         },
       }),
     ],
