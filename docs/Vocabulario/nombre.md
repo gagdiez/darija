@@ -4,8 +4,6 @@ parent: Apuntes
 layout: default
 ---
 
-# Nombre / Apellido
-
 ## Nombre
 Infinitivo: **`smiya`**
 
@@ -18,6 +16,8 @@ Infinitivo: **`smiya`**
 | Nosotr@s nos llamamos | Hna smit`na`                                                       |
 | Vosotros os llamais   | ntuma smiyt`kum`                                                    |
 | El nombre de ell@s es | huma smit`hum`                                                      |
+
+---
 
 ## Apellido
 Infinitivo: **`kniya`**
