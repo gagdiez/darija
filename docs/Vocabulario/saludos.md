@@ -10,10 +10,10 @@ sidebar_position: 1
 ## La Paz Sea con Ustedes (Salam Aleykoum)
 En árabe la gente dice "la paz sea contigo" como forma cordial de saludar.
 
-| Marroquí                      | Pronunciación   | Castellano               |
-|:------------------------------|:----------------|:-------------------------|
-| Salam aleykoum                | Salam alikum    | La paz sea con ustedes   |
-| [Wa](nexos) aleykoum salam | Wa salam alikum | Y la paz sea con ustedes |
+| Marroquí          | Pronunciación   | Castellano               |
+|:------------------|:----------------|:-------------------------|
+| Salam aleykoum    | Salam alikum    | La paz sea con ustedes   |
+| Wa aleykoum salam | Wa salam alikum | Y la paz sea con ustedes |
 
 :::tip
 En "Salam aleykoum", `aleykoum` es plural, y se utiliza aunque se salude a una sola persona.
