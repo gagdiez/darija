@@ -5,7 +5,6 @@ import { setupWalletSelector } from '@near-wallet-selector/core';
 import { setupModal } from '@near-wallet-selector/modal-ui';
 import { setupMyNearWallet } from '@near-wallet-selector/my-near-wallet';
 import { setupHereWallet } from '@near-wallet-selector/here-wallet';
-
 import { useEffect, useState } from 'react';
 
 export const useWallet = createStore(set => ({
