@@ -35,7 +35,7 @@ article {
 
 @media (max-width: 996px) {
   article {
-      margin: 0.5rem 1.5rem 0.5rem 1rem;
+    margin: 0.5rem 1.5rem 0.5rem 1rem;
   }
 }
 
@@ -46,6 +46,11 @@ article {
 
 .menu {
   padding: 1rem !important;
+}
+
+strong,
+b {
+  font-weight: 600;
 }
 
 table {

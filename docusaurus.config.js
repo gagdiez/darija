@@ -8,11 +8,10 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Darija - Apuntes',
   favicon: 'img/favicon.ico',
 
-  url: 'https://darija.ar',
+  url: 'https://www.darija.ar',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
