@@ -30,7 +30,31 @@
 }
 
 article {
-  padding: 1em;
+  margin: 1.8rem 1.4rem 1.8rem 3rem;
+}
+
+@media (max-width: 996px) {
+  article {
+      margin: 0.5rem 1.5rem 0.5rem 1rem;
+  }
+}
+
+.navbar {
+  height: auto !important;
+  padding: 1rem 2rem;
+}
+
+.menu {
+  padding: 1rem !important;
+}
+
+table {
+  display: inline-table;
+  min-width: 100%;
+}
+
+.theme-doc-toc-mobile {
+  display: none;
 }
 
 @import './bootstrap.scss'

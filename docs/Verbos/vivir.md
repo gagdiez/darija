@@ -30,3 +30,11 @@ Infinitivo: `skun`
 | Nosotr@s no | Hna ma kan`skun`ush   |
 | Ustedes no  | ntuma ma kat`skun`ush |
 | Ell no@s    | huma ma kay`skun`ush  |
+
+---
+
+`skun` tambien se puede utilizar como:
+- Ana sakn/a
+- Huwa sakn
+- Hiya Sakna
+- Hna saknin

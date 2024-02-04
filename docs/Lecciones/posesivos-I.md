@@ -13,40 +13,25 @@ Hay dos formas de denotar posesión en Darija. La primera es utilizando [prenomb
 
 ---
 
-## Prenombres Posesivos
+## Prenombres Posesivos & Dyal
 
-En Darija podemos agregar un sufijo al final de las palabras para expresar posesión.
+En Darija tenemos dos formas de denotar posesión:
+ 1. Podemos agregar un sufijo al final de las palabras.
+ 2. Podemos user o conjugar la palabra `dyal`.
 
-| Prenombre | Terminación |
-|-----------|-------------|
-| ana       | i / ya*     |
-| nti/a     | k           |
-| huwa      | u / h*      |
-| hiya      | ha          |
-| Hna       | na          |
-| ntuma     | kum         |
-| huma      | hum         |
+| Prenombre | Sufijo  | Dyal    |
+|-----------|---------|---------|
+| ana       | i / ya* | dyali   |
+| nti/a     | k       | dyalk   |
+| huwa      | u / h*  | dyalu   |
+| hiya      | ha      | dyalha  |
+| Hna       | na      | dyalna  |
+| ntuma     | kum     | dyalkum |
+| huma      | hum     | dyalhum |
 
 :::tip
 \* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
 :::
-
----
-
-## Dyal
-
-La segunda forma de expresar posesión es utilizando `dyal`.
-
-| Marroquí     | Terminación    |
-|--------------|----------------|
-| mio          | dyali          |
-| tuyo         | dyalk          |
-| de él        | dyalu          |
-| de ella      | dyalha         |
-| nuestra      | dyalna         |
-| vuestra      | dyalkum        |
-| de ell@s     | dyalhum        |
-| de -persona- | dyal -persona- |
 
 ---
 
@@ -96,6 +81,51 @@ La palabra `medina` en realidad termina con una `t` silenciosa en darija, que ap
 
 ---
 
+## De quien es esto / eso?
+
+| Marroquí                        | Castellano                   |
+|:--------------------------------|:-----------------------------|
+| dyal mn hada/hadi?              | de quien es esto?            |
+| dyal mn hadak/hadik/haduk?      | de quien es eso?             |
+| dyal mn had `<objeto>`?         | de quien es este `<objeto>`? |
+| dyal mn dak/dik/duk `<objeto>`? | de quien es ese `<objeto>`?  |
+
+:::tip
+`had/dak/dik/duk` son para cuando vas a nombrar el objeto, `hada/hadi/hadu/k` son para cuando no.
+:::
+
+<details markdown="1">
+<summary> Ejemplos </summary>
+
+| Marroquí                 | Castellano                  |
+|:-------------------------|:----------------------------|
+| dyal mn had l-bisklit    | de quien es esta bicicleta? |
+| had l-biskit dyal Hassan | esta bicicleta es de Hassan |
+| dyal mn dik t-tomobil    | de quien es ese automovil?  |
+| hadik tomobil dyal Said  | ese automovil es de Said    |
+
+</details>
+
+---
+
+## Es esto de ...?
+
+| Marroquí                     | Castellano                     |
+|:-----------------------------|:-------------------------------|
+| wash had l-ktab dyal Hicham? | acaso es este libro de Hicham? |
+| wash had d-dar dyal Malika?  | acaso es esta casa de Malika?  |
+
+<details markdown="1">
+<summary> Respuestas </summary>
+
+| Marroquí         | Castellano   |
+|:-----------------|:-------------|
+| lla, mashi dyalu | no, no lo es |
+| yeh, dyalha      | si, lo es    |
+
+</details>
+
+---
 ## Jugar
 
 <Game uuid={109228585} evaluator={"gagdiez.near/widget/Darija.Lessons.Select"} />

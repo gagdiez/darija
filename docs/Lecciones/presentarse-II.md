@@ -20,6 +20,10 @@ Preguntar [de donde](../preguntas/donde) es la otra persona, y [en donde](../pre
 | - G: ana sakn [f](../vocabulario/preposiciones) Barshelona, wa nti? fin sakna?                | - G: Yo vivo en Barcelona, y tu? donde vives? |
 | - S: Htta ana sakna f Barshelona                                                              | - S: También yo vivo en Barcelona             |
 
+#### A notar
+
+1. Guillermo dice `sakn` por ser masculino, mientras que Samira dice `sakna` por ser femenino. 
+
 :::tip
 - `f` quiere decir `en`.
 - `mn` quiere decir `de`.
@@ -27,9 +31,3 @@ Preguntar [de donde](../preguntas/donde) es la otra persona, y [en donde](../pre
 - `fin` es la unión de `f` (en) + `in` (donde).
 - `mnin` es la union de `mn` (en) + `in` (donde).
 :::
-
----
-
-## A notar
-
-1. Guillermo dice `sakn` por ser masculino, mientras que Samira dice `sakna` por ser femenino. 

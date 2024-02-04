@@ -24,3 +24,24 @@ export function Game({ uuid, evaluator }) {
     }
   </BrowserOnly>
 }
+
+export function Component({ src, props }) {
+  return <BrowserOnly fallback={<div> Loading... </div>}>
+    {() => {
+      const { Widget, useInitNear } = require('near-social-vm');
+      const { initNear } = useInitNear();
+      const { selector } = useWallet();
+
+      useEffect(() => {
+        initNear && selector && initNear({ networkId: 'mainnet', selector });
+      }, [initNear, selector]);
+
+      return <>
+        <div class="bootstrap-scope">
+          <Widget src={src} props={props} />
+        </div>
+      </>
+    }
+    }
+  </BrowserOnly>
+}
