@@ -55,7 +55,7 @@ Preguntas generales útiles de conocer. Recomendamos acompañar esta lección co
 
 ---
 
-## ¿A donde Estás Yendo?
+## ¿A donde estás yendo?
 
 | Marroquí              | Pronunciación         | Castellano                       |
 |:----------------------|:----------------------|:---------------------------------|
@@ -77,7 +77,7 @@ Preguntas generales útiles de conocer. Recomendamos acompañar esta lección co
 
 ---
 
-## ¿A donde Estabas?
+## ¿A donde estabas?
 
 | Marroquí                   | Pronunciacion             | Castellano                                        |
 |:---------------------------|:--------------------------|:--------------------------------------------------|

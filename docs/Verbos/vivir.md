@@ -33,8 +33,12 @@ Infinitivo: `skun`
 
 ---
 
-`skun` tambien se puede utilizar como:
+El verbo `skun` también se puede utilizar en su forma simple, sin el `ka` de la costumbre:
 - Ana sakn/a
+- Nta sakn
+- Nti sakna
 - Huwa sakn
-- Hiya Sakna
+- Hiyya Sakna
 - Hna saknin
+- Ntuma saknin
+- Huma saknin

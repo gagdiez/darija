@@ -27,7 +27,7 @@ A veces uno puede encontrar `waHd` antes de un sustantivo, en ese caso está fun
 
 ---
 
-## Dos y Dual
+## Dos y dual
 
 En general, para dos objetos usamos el numero 2 y la forma plural del objeto. Sin embargo, algunos sustantivos tienen una **forma dual** derivada del árabe clásico. 
 

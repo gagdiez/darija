@@ -9,7 +9,7 @@ sidebar_position: 0
 
 [Saludar](../preguntas/como-estas), decir el [nombre](../vocabulario/nombre) y preguntar [cual es](../preguntas/cual-que) el nombre de la otra persona.
 
-## Diálogo Entre Guillermo (G) y Samira (S)
+## Diálogo entre Guillermo (G) y Samira (S)
 
 | Marroquí                                                        | Castellano                         |
 |:----------------------------------------------------------------|:-----------------------------------|

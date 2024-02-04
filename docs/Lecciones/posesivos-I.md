@@ -13,9 +13,9 @@ Hay dos formas de denotar posesión en Darija. La primera es utilizando [prenomb
 
 ---
 
-## Prenombres Posesivos & Dyal
+## Prenombres posesivos y dyal
 
-En Darija tenemos dos formas de denotar posesión:
+En darija tenemos dos formas de denotar posesión:
  1. Podemos agregar un sufijo al final de las palabras.
  2. Podemos user o conjugar la palabra `dyal`.
 

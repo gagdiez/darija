@@ -9,7 +9,7 @@ Infinitivo: `3rf`
 
 | Castellano | Marroquí        |
 |:-----------|:----------------|
-| Yo hablo   | ana kan`3rf`    |
+| Yo         | ana kan`3rf`    |
 | Tu (m)     | nta kat`3rf`    |
 | Tu (f)     | nti kat`3rf`i   |
 | El         | huwa kay`3rf`   |
@@ -22,7 +22,7 @@ Infinitivo: `3rf`
 
 | Castellano | Marroquí             |
 |:-----------|:---------------------|
-| Yo hablo   | ana ma kan`3rf`sh    |
+| Yo         | ana ma kan`3rf`sh    |
 | Tu (m)     | nta ma kat`3rf`sh    |
 | Tu (f)     | nti ma kat`3rf`ish   |
 | El         | huwa ma kay`3rf`sh   |

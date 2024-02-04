@@ -89,7 +89,7 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 
 ---
 
-## Cantidades y Lugares
+## Cantidades y lugares
 
 - qrib: cerca -- ba3id: lejos
 - shwiya: poco -- bsaf: mucho 

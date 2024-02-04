@@ -28,8 +28,6 @@ Aprendiendo los números del 1 al 12 ya se tiene un 90% del conocimiento necesar
 | 11     | Hdash    | jdash            | -             |
 | 12     | tnash    | tnash            | -             |
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121192548&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
-
 :::tip
 `tnash` viene del "dos" del árabe clásico `tnayn`
 :::
@@ -40,7 +38,7 @@ Algunos marroquíes pronuncian `juj` como `suj` (j francesa)
 
 ---
 
-## Del 13 al 19
+## Del 13 al 20
 
 Para los números mayores a 12 se utiliza una versión corta de los números introducida en la tabla anterior.
 
@@ -53,12 +51,18 @@ Para los números mayores a 12 se utiliza una versión corta de los números int
 | 17     | Sb3tash  | sb3tash       |
 | 18     | Tmntash  | tmntash       |
 | 19     | Ts3tash  | satash        |
+| 20     | ashrin   | ashrin        |
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121192548&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
 
 :::tip
 El 19 se pronuncia "satash"
 :::
+
+---
+
+## Audio - números del 1 al 20
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/121192548&amp;color=ff6600&amp;auto_play=false&amp;show_artwork=true"></iframe>
 
 ---
 
@@ -87,7 +91,7 @@ El 19 se pronuncia "satash"
 
 ---
 
-## Cien, Mil, Etc... 
+## Cien, mil, millón... 
 
 | Número | Marroquí |
 |:-------|:---------|

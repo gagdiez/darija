@@ -22,14 +22,16 @@ Las preguntas que vimos hasta ahora son:
 | dyal mn... ? | de quién ...?  |
 | shehal... ?  | cuanto ...?    |
 
+---
+
+## Gaston se presenta
+Salam aleykoum. Ana smiti Gaston, mn l-arjontin w daba sakn f Buenos Aires. L-khdmma dialy muhandis l’informatic. 3ndi tleta w tltin 3am, w ana mswwj b-mghribiya. 
+
+Ana kanqra darija, w ana kanhdar l-espania, annglisia, l-fransawia w shuia darija.
 
 ---
 
-## Gaston Se Presenta
-Salam aleykoum. Ana smiti Gaston, mn l-arjontin w daba sakn f Buenos Aires. L-khdma dialy muhandis/a l’informatic. 3ndi tleta w tltin 3am, w ana mswwj b-mghribiya w ana kanqra darija. Ana kanhdar l-espania, annglisia, l-fransawia, w shuia darija.
-
-
-## Que tiene Gaston
+## Repaso de posesivos
 
 | Darija                      | Castellano        |
 |-----------------------------|-------------------|
