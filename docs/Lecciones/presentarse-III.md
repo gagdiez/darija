@@ -9,7 +9,10 @@ sidebar_position: 4
 
 Preguntar de que [trabajan](../verbos/trabajar) y si están casad@s.
 
-## Diálogo entre Guillermo (G) y Samira (S)
+---
+
+## Diálogo
+Guillermo (G) y Samira (S) mantienen una conversación.
 
 | Marroquí                                                       | Pronunciacion         | Castellano                          |
 |:---------------------------------------------------------------|:----------------------|:------------------------------------|

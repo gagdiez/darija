@@ -9,7 +9,11 @@ sidebar_position: 2
 
 Preguntar [de donde](../preguntas/donde) es la otra persona, y [en donde](../preguntas/donde) viven.
 
-## Diálogo entre Guillermo (G) y Samira (S)
+---
+
+## Diálogo
+
+Guillermo (G) y Samira (S) mantienen una conversación.
 
 | Marroquí                                                                                      | Castellano                                    |
 |:----------------------------------------------------------------------------------------------|:----------------------------------------------|

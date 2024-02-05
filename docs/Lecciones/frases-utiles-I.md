@@ -98,6 +98,10 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 | hna (aquí)     | hna (allá)    |
 | brd (frio)     | skhun (calor) |
 | s3ib (difícil) | sahl (fácil)  |
+| kbir (grande)  | sghir (pequeño)|
+| jdid (nuevo)   | qdima (viejo) |
+| saraha (verdad)| kdub (mentira)|
+
 
 ---
 

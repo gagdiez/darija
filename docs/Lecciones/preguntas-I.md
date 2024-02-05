@@ -62,3 +62,23 @@ Preguntas generales útiles de conocer. Recomendamos acompañar esta lección co
 |:--------------|:--------------------|
 | bshehal hada? | cuanto cuesta esto? |
 
+---
+
+## Cual es ...?
+
+En darija no existe el verbo "ser" como en español. Por lo tanto, para preguntar "cual es" se utiliza `shnu` (que) seguido de `huwa`, `hiyya` o `huma` (el, ella, ell@s).
+
+|                                        |                                       |
+|:---------------------------------------|:--------------------------------------|
+| shnu hiyya nmra ttilifun dyalk?        | cual es numero de telefono tuyo?      |
+| nmera ttilifun dyali hiyya 06 12 34 56 | numero de telefono mio es 06 12 34 56 |
+
+|                                                               |                             |
+|:--------------------------------------------------------------|:----------------------------|
+| shnu hiya [ljinsiya](../Vocabulario/paises-idiomas.md) dyalk? | cual es tu nacionalidad?    |
+| ljinsiya dyali hiyya espaniya                                 | mi nacionalidad es española |
+
+|                                                           |                          |
+|:----------------------------------------------------------|:-------------------------|
+| shnu hiyya [kniya](../Vocabulario/nombre#apellido) dialk? | cual es tu apellido?     |
+| [kniti](../Vocabulario/nombre#apellido) Fernandez         | mi appelido es Fernandez |
