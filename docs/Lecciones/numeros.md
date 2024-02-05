@@ -5,7 +5,7 @@ layout: default
 sidebar_position: 6
 ---
 
-# Números
+# Números (nmra)
 
 Es important notar que decir los números y usarlos para [contar cosas](./cantidades) es distinto. En esta lección vamos a ver los números del uno al millón, y en la siguiente veremos como usarlos para enumerar objetos. 
 

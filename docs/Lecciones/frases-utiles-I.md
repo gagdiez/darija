@@ -91,12 +91,13 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 
 ## Opuestos
 
-|              |               |
-|:-------------|:--------------|
-| qrib (cerca) | ba3id (lejos) |
-| bsaf (mucho) | shwiya (poco) |
-| hna (aquí)   | hna (allá)    |
-| brd (frio)   | skhun (calor) |
+|                |               |
+|:---------------|:--------------|
+| qrib (cerca)   | ba3id (lejos) |
+| bsaf (mucho)   | shwiya (poco) |
+| hna (aquí)     | hna (allá)    |
+| brd (frio)     | skhun (calor) |
+| s3ib (difícil) | sahl (fácil)  |
 
 ---
 
