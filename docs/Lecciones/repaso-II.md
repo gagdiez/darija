@@ -1,5 +1,5 @@
 ---
-title: Repaso II
+title: ⭐ Repaso II
 parent: Lecciones
 layout: default
 sidebar_position: 9

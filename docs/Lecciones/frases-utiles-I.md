@@ -1,5 +1,5 @@
 ---
-title: Frases Útiles - I
+title: 📖 Frases Útiles - I
 parent: Lecciones
 layout: default
 sidebar_position: 11.1
@@ -89,8 +89,11 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 
 ---
 
-## Cantidades y lugares
+## Opuestos
 
-- qrib: cerca -- ba3id: lejos
-- shwiya: poco -- bsaf: mucho 
-- hna: aquí -- hna: allá
+|              |               |
+|:-------------|:--------------|
+| qrib (cerca) | ba3id (lejos) |
+| bsaf (mucho) | shwiya (poco) |
+| hna (aquí)   | hna (allá)    |
+| brd (frio)   | skhun (calor)  |

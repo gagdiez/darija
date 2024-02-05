@@ -1,5 +1,5 @@
 ---
-title: Cantidades
+title: 🔢 Cantidades
 parent: Lecciones
 layout: default
 sidebar_position: 7
@@ -8,7 +8,7 @@ id: cantidades
 
 # Cantidades
 
-En esta lección vamos a ver como usar los [números](./numeros-I.md) que vimos en la lección anterior para denotar cantidades.
+En esta lección vamos a ver como usar los [números](./numeros.md) que vimos en la lección anterior para denotar cantidades.
 
 ---
 

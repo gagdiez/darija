@@ -1,5 +1,5 @@
 ---
-title: Presentarse III
+title: 📖 Presentarse III
 parent: Lecciones
 layout: default
 sidebar_position: 4
@@ -20,7 +20,7 @@ Preguntar de que [trabajan](../verbos/trabajar) y si están casad@s.
 | S: [wash](../preguntas/acaso) mzwwj?                         | wash msuj             | S: acaso casado?                    |
 | G: la, ana baqi ma mzwwjsh                                   | msussh                | G: no, no estoy casado aun          |
 | G: wa nti? wash mzwwja?                                      | wash msuya            | G: y tu? estas casada?              |
-| S: ahh, ana mzwwja [b](../vocabulario/preposiciones)-mghribi | ana msuya             | S: si, estoy casada con un Marroquí |
+| S: ahh, ana mzwwja [m3a](../vocabulario/preposiciones)-mghribi | ana msuya             | S: si, estoy casada con un Marroquí |
 
 :::tip
 - `fash` es la unión de `f` (en) + `ash` (que).

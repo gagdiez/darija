@@ -4,8 +4,12 @@ parent: Verbos
 layout: default
 ---
 
-# Preguntar
+# Yo quiero preguntar
 
-TODO: completar
 
-nsewlk
+# Yo estoy preguntando
+
+
+| Castellano | Marroquí        |
+|:-----------|:----------------|
+| Yo         | ana `nsewlk`  |

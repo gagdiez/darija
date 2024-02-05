@@ -1,5 +1,5 @@
 ---
-title: Repaso III
+title: Familia
 parent: Lecciones
 layout: default
 sidebar_position: 13
@@ -7,9 +7,28 @@ sidebar_position: 13
 
 import { Component } from '@site/src/components/near-component';
 
-# Repaso III
+# Familia
 
-Recomendamos primero ver el [apunte de familia](../vocabulario/familia).
+Recomendamos acompañar esa lección con el [apunte de familia](../vocabulario/familia).
+
+---
+
+## Preguntas generales
+
+| Marroquí                | Pronunciación | Castellano            |
+|:------------------------|:--------------|:----------------------|
+| shehal dyal lwlad 3ndk? | -             | Cuantos hijos tienes? |
+| wash 3ndk lwlad?        | -             | Acaso tienes hijos?   |
+
+<details>
+<summary>Respuestas</summary>
+
+| Marroquí             | Pronunciación | Castellano               |
+|:---------------------|:--------------|:-------------------------|
+| 3ndi wlad w wahd bnt | -             | Tengo un hijo y una hija |
+| la, ana m3ndish      | -             | no, no tengo             |
+
+</details>
 
 ---
 

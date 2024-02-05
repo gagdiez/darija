@@ -1,5 +1,5 @@
 ---
-title: Números
+title: 🔢 Números
 parent: Lecciones
 layout: default
 sidebar_position: 6

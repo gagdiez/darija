@@ -1,5 +1,5 @@
 ---
-title: Preguntas Generales - I
+title: 📖 Preguntas Generales - I
 parent: Lecciones
 layout: default
 sidebar_position: 7.1

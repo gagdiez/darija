@@ -1,5 +1,5 @@
 ---
-title: Presentarse I
+title: 📖 Presentarse I
 parent: Lecciones
 layout: default
 sidebar_position: 0
@@ -29,19 +29,7 @@ sidebar_position: 0
 #### A notar
 1. `ana smiti` y `shnu smitek?` quieren decir "mi nombre es" y "cual es tu nombre?". Denotan [posesión](../vocabulario/pronombres#pronombres-posesivos) de un objeto (en este caso, el `nombre`).
 2. Es mas natural decir `smiti` en lugar de `ana smiti`, pero en esta primera lección queríamos denotar los [pronombres personales](../vocabulario/pronombres#pronombres-personales).
-
-
-<details markdown="1">
-<summary> Alternativas </summary>
-
-| Alternativa 1     | Alternativa 2 | Alternativa 3 |
-|:------------------|:--------------|:--------------|
-| Salam Aleykoum    | salam         | -             |
-| wa Aleykoum Salam | salam         | -             |
-| kif dayr?         | labas alik?   | -             |
-| labas             | kulshi bihhir | mzyan         |
-
-</details>
+3. `alik` significa `tú`, mientras que `aleykoum` es `vosotros/ustedes`.
 
 ---
 
@@ -54,7 +42,16 @@ sidebar_position: 0
 | Salam           | salam         | Hola                            |
 | Sbah lkhir      | sbaj aljir    | Mañana del bien (buenos dias)   |
 | Msa lkhir       | msa aljir     | Tarde del bien (buenas tardes)  |
-| Tsbah 3la khir  | tsbaj ala jir | Despiertes bien (buenas noches) |
+| TsbH 3la khir   | tsbaj ala jir | Despiertes bien (buenas noches) |
 | Layla Saida     |               | Noche Feliz (buenas noches)     |
 | Bslama          |               | Adios                           |
 | Thalla f rassek |               | Cuidate (adios!)                |
+
+---
+
+## ¿Cómo estás?
+
+| Alternativa 1 | Alternativa 2 | Alternativa 3 |
+|:--------------|:--------------|:--------------|
+| kif dayr/a    | labas 3lik?   | -             |
+| labas         | kulshi bihhir | kulshi mzyan  |

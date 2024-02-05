@@ -1,8 +1,8 @@
 ---
-title: Repaso I
+title: ⭐ Repaso I
 parent: Lecciones
 layout: default
-sidebar_position: 5
+sidebar_position: 5.1
 ---
 
 # Repaso

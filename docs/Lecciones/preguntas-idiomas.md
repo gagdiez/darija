@@ -1,13 +1,24 @@
 ---
-title: Preguntas Sobre Idiomas
+title: 🌐 Idiomas
 parent: Lecciones
 layout: default
 sidebar_position: 8
 ---
 
-# Preguntas Sobre Idiomas
+# Idiomas
 
-Veamos algunas preguntas útiles para saber sobre [idiomas](../Vocabulario/paises-idiomas).
+Recomendamos acompañar el estudio de este tema con el apunte de [países e idiomas](../Vocabulario/paises-idiomas).
+
+---
+
+## [Preguntar](../Verbos/preguntar.md) por [idiomas](../Vocabulario/paises-idiomas)
+
+| Marroquí                                                               | Pronunciación               | Castellano                                                |
+|:-----------------------------------------------------------------------|:----------------------------|:----------------------------------------------------------|
+| G: shehal dyal llughat kathedri                                        | shehal dyal lugrat katjedri | G: Cuantos idiomas hablas?                                |
+| S: ana katheder 3rba llughat: l-fransia, l-arbia, a-anglisia w espania | -                           | S: Hablo cuatro idiomas: frances, arabe, ingles y español |
+| S: wa nta? shehal dyal llughat kathedr?                                | - katjeder -                | S: y tu (m)? Cuántos idiomas hablas?                      |
+| G: ana katheder juj llughat: l-anglisia w espania                      | -                           | G: Yo hablo 2 idiomas: inglés y español                   |
 
 ---
 
@@ -33,7 +44,7 @@ Veamos algunas preguntas útiles para saber sobre [idiomas](../Vocabulario/paise
 
 ---
 
-## [**Conocer**](../Verbos/saber) otro [idioma](../Vocabulario/paises-idiomas)
+## [Saber](../Verbos/saber) otro [idioma](../Vocabulario/paises-idiomas)
 
 | Marroquí                                               | Pronunciacion                        | Castellano                           |
 |:-------------------------------------------------------|:-------------------------------------|:-------------------------------------|

@@ -1,5 +1,5 @@
 ---
-title: Posesión
+title: 📖 Posesión
 parent: Lecciones
 layout: default
 sidebar_position: 5.1

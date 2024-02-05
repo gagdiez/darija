@@ -1,5 +1,5 @@
 ---
-title: Tiempo Presente
+title: 📖 Tiempo Presente
 parent: Lecciones
 layout: default
 sidebar_position: 5.2
@@ -9,8 +9,8 @@ sidebar_position: 5.2
 
 El tiempo presente en Darija expresa tanto acciones habituales (que generalmente se realizan), como acciones progresivas (que se están realizando al momento de hablar o que están en curso).
 
-| Persona | Prefijo - Sufijo      |
-|:--------|:----------------------|
+| Persona | Prefijo - Sufijo       |
+|:--------|:-----------------------|
 | ana     | `ka` `n` \<verbo\>     |
 | nta     | `ka` `t` \<verbo\>     |
 | nti     | `ka` `t` \<verbo\> `i` |
@@ -24,20 +24,17 @@ El tiempo presente en Darija expresa tanto acciones habituales (que generalmente
 
 ## Ejemplos
 
-| Marroquí                                   | Castellano                               |
-|:-------------------------------------------|:-----------------------------------------|
-| ana `ka` `n`[kteb](../verbos/escribir)      | Yo escribo / estoy escribiendo           |
-| nta `ka` `t`[sma3](../verbos/escuchar)      | Tu escuchas / estas escuchando (M)       |
-| nti `ka` `t`[qta3](../verbos/cortar)`i`     | Tu cortas / estas cortando (F)           |
-| huwa `ka` `y`[drb](../verbos/chutar)        | El chuta / está chutando                 |
-| hiya `ka` `t`[hdar](../verbos/hablar)       | Ella habla / está hablando               |
-| Hna  `ka` `n` [qra](../verbos/estudiar) `u` | Nosotr@s estudiamos / estamos estudiamos |
+| Marroquí                                     | Castellano                               |
+|:---------------------------------------------|:-----------------------------------------|
+| ana `ka` `n`[kteb](../verbos/escribir)       | Yo escribo / estoy escribiendo           |
+| nta `ka` `t`[sma3](../verbos/escuchar)       | Tu escuchas / estas escuchando (M)       |
+| nti `ka` `t`[qta3](../verbos/cortar)`i`      | Tu cortas / estas cortando (F)           |
+| huwa `ka` `y`[drb](../verbos/chutar)         | El chuta / está chutando                 |
+| hiya `ka` `t`[hdar](../verbos/hablar)        | Ella habla / está hablando               |
+| Hna  `ka` `n` [qra](../verbos/estudiar) `u`  | Nosotr@s estudiamos / estamos estudiamos |
 | huma `ka` `t`[khdamm](../verbos/trabajar)`u` | Ustedes trabajan / están trabajando      |
-| ntuma `ka` `y`[3rf](../verbos/saber)`u`     | Ell@s saben                              |
+| ntuma `ka` `y`[3rf](../verbos/saber)`u`      | Ell@s saben                              |
 
 :::tip
-Algo importante a notar es que `khdamm` es el único verbo (de los que vimos hasta ahora) con el
-cual se puede utilizar o no el prefijo `ka`. Esto es, se puede decir tanto "Ana `khdamm`" como "Ana `ka``n``khdamm`".
-
-Esto **no** es válido para los demás verbos, por ejemplo, uno no puede decir "Ana `sma3`", uno debe decir "Ana `ka``n``sma3`".
+Notemos que uno puede decir "Ana `khdamm`" o "Ana `ka` `n` `khdamm`". Hay algunos pocos verbos en los cuales el prefijo es opcional, ya los veremos.
 :::
