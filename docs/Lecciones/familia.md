@@ -15,20 +15,20 @@ Recomendamos acompañar esa lección con el [apunte de familia](../vocabulario/f
 
 ## Preguntas generales
 
-| Marroquí                | Pronunciación | Castellano            |
-|:------------------------|:--------------|:----------------------|
-| shehal dyal lwlad 3ndk? | -             | Cuantos hijos tienes? |
-| wash 3ndk lwlad?        | -             | Acaso tienes hijos?   |
+| Marroquí                | Castellano               |
+|:------------------------|:-------------------------|
+| shehal dyal lwlad 3ndk? | Cuantos hijos tienes?    |
+| 3ndi wlad w wahd bnt    | Tengo un hijo y una hija |
 
-<details>
-<summary>Respuestas</summary>
+|                  |                     |
+|:-----------------|:--------------------|
+| wash 3ndk lwlad? | Acaso tienes hijos? |
+| la, ana m3ndish  | no, no tengo        |
 
-| Marroquí             | Pronunciación | Castellano               |
-|:---------------------|:--------------|:-------------------------|
-| 3ndi wlad w wahd bnt | -             | Tengo un hijo y una hija |
-| la, ana m3ndish      | -             | no, no tengo             |
-
-</details>
+|                     |                           |
+|:--------------------|:--------------------------|
+| shnu smitha mratk?  | Cómo se llama tu esposa?  |
+| mrati smitha Samira | mi esposa se llama Samira |
 
 ---
 

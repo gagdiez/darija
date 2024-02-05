@@ -62,4 +62,8 @@ table {
   display: none;
 }
 
+thead:empty, tr:empty, td:empty, th:empty {
+  display: none;
+}
+
 @import './bootstrap.scss'

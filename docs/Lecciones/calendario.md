@@ -26,15 +26,15 @@ Aprendamos los días, meses, y vocabulario útil sobre el tiempo.
 
 ### Dias de la semana
 
-| Marroquí | Castellano | Genero |
-|:---------|:-----------|:-------|
-| lHd      | domingo    | m      |
-| ltnin    | lunes      | m      |
-| Tlet     | martes     | f      |
-| lrb3     | miercoles  | m      |
-| lmnin    | jueves     | m      |
-| ljamis   | viernes    | m      |
-| sebt     | sabado     | m      |
+| Marroquí | Castellano |
+|:---------|:-----------|
+| lHd      | domingo    |
+| ltnin    | lunes      |
+| Tlet     | martes     |
+| lrb3     | miercoles  |
+| lmnin    | jueves     |
+| ljamis   | viernes    |
+| sebt     | sabado     |
 
 ---
 

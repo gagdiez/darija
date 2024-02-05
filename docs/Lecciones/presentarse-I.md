@@ -43,9 +43,9 @@ sidebar_position: 0
 | Sbah lkhir      | sbaj aljir    | Mañana del bien (buenos dias)   |
 | Msa lkhir       | msa aljir     | Tarde del bien (buenas tardes)  |
 | TsbH 3la khir   | tsbaj ala jir | Despiertes bien (buenas noches) |
-| Layla Saida     |               | Noche Feliz (buenas noches)     |
-| Bslama          |               | Adios                           |
-| Thalla f rassek |               | Cuidate (adios!)                |
+| Layla Saida     | -             | Noche Feliz (buenas noches)     |
+| Bslama          | -             | Adios                           |
+| Thalla f rassek | -             | Cuidate (adios!)                |
 
 ---
 

@@ -53,3 +53,12 @@ Preguntas generales útiles de conocer. Recomendamos acompañar esta lección co
 | had l-ktab | esto es un libro     |
 
 </details>
+
+---
+
+## Cuanto cuesta ...?
+
+| Marroquí      | Castellano          |
+|:--------------|:--------------------|
+| bshehal hada? | cuanto cuesta esto? |
+
