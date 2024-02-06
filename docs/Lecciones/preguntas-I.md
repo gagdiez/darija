@@ -1,6 +1,6 @@
 ---
 title: 📖 Preguntas Generales - I
-parent: Lecciones
+parent: lecciones
 layout: default
 sidebar_position: 7.1
 ---
@@ -75,10 +75,10 @@ En darija no existe el verbo "ser" como en español. Por lo tanto, para pregunta
 
 |                                                               |                             |
 |:--------------------------------------------------------------|:----------------------------|
-| shnu hiya [ljinsiya](../Vocabulario/paises-idiomas.md) dyalk? | cual es tu nacionalidad?    |
+| shnu hiya [ljinsiya](../vocabulario/paises-idiomas) dyalk? | cual es tu nacionalidad?    |
 | ljinsiya dyali hiyya espaniya                                 | mi nacionalidad es española |
 
 |                                                           |                          |
 |:----------------------------------------------------------|:-------------------------|
-| shnu hiyya [kniya](../Vocabulario/nombre#apellido) dialk? | cual es tu apellido?     |
-| [kniti](../Vocabulario/nombre#apellido) Fernandez         | mi appelido es Fernandez |
+| shnu hiyya [kniya](../vocabulario/nombre#apellido) dialk? | cual es tu apellido?     |
+| [kniti](../vocabulario/nombre#apellido) Fernandez         | mi appelido es Fernandez |

@@ -1,6 +1,6 @@
 ---
 title: 📖 Presentarse I
-parent: Lecciones
+parent: lecciones
 layout: default
 sidebar_position: 0
 ---

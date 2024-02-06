@@ -1,28 +1,28 @@
 ---
 title: 🌐 Idiomas
-parent: Lecciones
+parent: lecciones
 layout: default
 sidebar_position: 8
 ---
 
 # Idiomas
 
-Recomendamos acompañar el estudio de este tema con el apunte de [países e idiomas](../Vocabulario/paises-idiomas).
+Recomendamos acompañar el estudio de este tema con el apunte de [países e idiomas](../vocabulario/paises-idiomas).
 
 ---
 
-## [Preguntar](../Verbos/preguntar.md) por [idiomas](../Vocabulario/paises-idiomas)
+## [Preguntar](../verbos/preguntar) por [idiomas](../vocabulario/paises-idiomas)
 
 | Marroquí                                                               | Pronunciación     | Castellano                                             |
 |:-----------------------------------------------------------------------|:------------------|:-------------------------------------------------------|
 | G: shehal dyal llughat kathedri                                        | - lugrat katjedri | Cuantos idiomas hablas?                                |
-| S: ana katheder 3rba llughat: l-fransia, l-arbia, a-anglisia w espania | -                 | Hablo cuatro idiomas: frances, arabe, ingles y español |
+| S: ana katheder rb3a llughat: l-fransia, l-arbia, a-anglisia w espania | -                 | Hablo cuatro idiomas: frances, arabe, ingles y español |
 | S: wa nta? shehal dyal llughat kathedr?                                | - katjeder -      | y tu (m)? Cuántos idiomas hablas?                      |
 | G: ana katheder juj llughat: l-anglisia w espania                      | -                 | Yo hablo 2 idiomas: inglés y español                   |
 
 ---
 
-## [Hablar](../Verbos/hablar.md) otro [idioma](../Vocabulario/paises-idiomas)
+## [Hablar](../verbos/hablar) otro [idioma](../vocabulario/paises-idiomas)
 
 | Marroquí                                          | Pronunciación                 | Castellano            |
 |:--------------------------------------------------|:------------------------------|:----------------------|
@@ -33,27 +33,27 @@ Recomendamos acompañar el estudio de este tema con el apunte de [países e idio
 
 ---
 
-## [Escribir](../Verbos/escribir.md) otro [idioma](../Vocabulario/paises-idiomas)
+## [Escribir](../verbos/escribir) otro [idioma](../vocabulario/paises-idiomas)
 
 | Marroquí                                              | Pronunciación                    | Castellano                  |
 |:------------------------------------------------------|:---------------------------------|:----------------------------|
-| G: wash [**katktbi**](../Verbos/escribir.md) l3arbia? | wash kateketabi la-arbia?        | acaso escribes árabe?       |
+| G: wash [**katktbi**](../verbos/escribir) l3arbia? | wash kateketabi la-arbia?        | acaso escribes árabe?       |
 | S: ahh, ana kanktb l3arbia                            | aha, ana kateketab la-arbia      | si, yo escribo árabe        |
 | S: wa nta, wash katktb l3arbia?                       |                                  | y tu? Acaso escribes árabe? |
 | G: la, ana ma kanktb sh l3arbia                       | la, ana ma kaneketeb sh la-arbia | no, no escribo árabe        |
 
 ---
 
-## [Estudiar](../Verbos/estudiar.md) otro [idioma](../Vocabulario/paises-idiomas)
+## [Estudiar](../verbos/estudiar) otro [idioma](../vocabulario/paises-idiomas)
 
 | Marroquí                                             | Pronunciación                            | Castellano            |
 |:-----------------------------------------------------|:-----------------------------------------|:----------------------|
-| S: wash [**katqra**](../Verbos/estudiar.md) l3arbia? | katQra (Q desde el fondo de la garganta) | acaso estudias árabe? |
+| S: wash [**katqra**](../verbos/estudiar) l3arbia? | katQra (Q desde el fondo de la garganta) | acaso estudias árabe? |
 | G: aha, ana kanqra l3arbia                           | -                                        | si, to estudio árabe  |
 
 ---
 
-## [Saber](../Verbos/saber) otro [idioma](../Vocabulario/paises-idiomas)
+## [Saber](../verbos/saber) otro [idioma](../vocabulario/paises-idiomas)
 
 | Marroquí                                               | Pronunciacion                        | Castellano                        |
 |:-------------------------------------------------------|:-------------------------------------|:----------------------------------|

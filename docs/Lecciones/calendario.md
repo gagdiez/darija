@@ -1,6 +1,6 @@
 ---
 title: 🗓️ Tiempo (Calendario)
-parent: Lecciones
+parent: lecciones
 layout: default
 sidebar_position: 12
 ---

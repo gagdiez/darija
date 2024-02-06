@@ -9,14 +9,14 @@ Infinitivo: `drb`
 
 | Castellano | Marroquí        |
 |:-----------|:----------------|
-| Yo         | ana kan`drb`    |
-| Tu (m)     | nta kat`drb`    |
-| Tu (f)     | nti kat`drb`i   |
-| El         | huwa kay`drb`   |
-| Ella       | hiya kat`drb`   |
-| Nosotr@s   | Hna kan`drb`u   |
-| Ustedes    | ntuma kat`drb`u |
-| Ell@s      | huma kay`drb`u  |
+| Yo         | ana   ka`n` `drb`    |
+| Tu (m)     | nta   ka`t` `drb`    |
+| Tu (f)     | nti   ka`t` `drb`i   |
+| El         | huwa  ka`y` `drb`   |
+| Ella       | hiya  ka`t` `drb`   |
+| Nosotr@s   | Hna   ka`n` `drb`u   |
+| Ustedes    | ntuma ka`t` `drb`u |
+| Ell@s      | huma  ka`y` `drb`u  |
 
 ### Negado
 

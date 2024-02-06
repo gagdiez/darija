@@ -1,13 +1,33 @@
 ---
-title: 📖 Preguntas Generales - II
-parent: Lecciones
+title: 📍 Lugar 
+parent: lecciones
 layout: default
 sidebar_position: 11
 ---
 
-# Preguntas Generales
 
-Preguntas generales útiles de conocer. Recomendamos acompañar esta lección con el apunto de [lugares y objetos](../vocabulario/lugares-objetos).
+# Localización
+
+Localizar objetos y personas en el espacio.
+
+---
+
+## Preposiciones de lugar
+
+| Marroquí   | Castellano   | Marroquí    | Castellano     |
+|:-----------|:-------------|:------------|:---------------|
+| f          | en           | bin         | entre          |
+| fuq / 3la  | sobre        | mura        | detrás         |
+| tht        | debajo       | 7da         | al lado        |
+| qddam      | delante      | qbl         | antes          |
+| maqabl m3a | enfrente     | b3d         | después        |
+| 3la l-imin | a la derecha | 3la l-ishar | a la izquierda |
+
+### Otras formas de denotar lugar
+
+| Marroquí | Castellano | Marroquí | Castellano |
+|:---------|:-----------|:---------|:-----------|
+| Hna      | aquí       | tmma/k   | allí       |
 
 ---
 
@@ -19,6 +39,8 @@ Preguntas generales útiles de conocer. Recomendamos acompañar esta lección co
 | Samira finha?       | Samira dónde está?       |
 | fin l Hlib?         | dónde está la leche?     |
 | wash arfti fin ana? | acaso sabes dónde estoy? |
+| fin bit l-ma        | donde esta el baño?      |
+| fin ghadi n-n3s     | donde voy a dormir?      |
 
 
 <details markdown="1">
@@ -32,24 +54,6 @@ Preguntas generales útiles de conocer. Recomendamos acompañar esta lección co
 | Samira f ddar      | Samira está en la casa |
 | Samira kayna hna   | Samira está aquí       |
 | Samira hna         | Samira está aquí       |
-
-</details>
-
----
-
-## ¿Que estás haciendo?
-
-| Marroquí      | Pronunciacion | Castellano          |
-|:--------------|:--------------|:--------------------|
-| shnu katdiri? | shnu katdiri  | que estas haciendo? |
-
-
-<details markdown="1">
-<summary> Respuestas </summary>
-
-| Marroquí   | Pronunciacion | Castellano |
-|:-----------|:--------------|:-----------|
-| ana kanqra | ana kranqra   | yo estudio |
 
 </details>
 
@@ -72,25 +76,6 @@ Preguntas generales útiles de conocer. Recomendamos acompañar esta lección co
 | ana ghadi l dari        | ana Radi l dari        | yendo mi casa            |
 | ana ghadi l medina      | ana Radi l medina      | yendo a la ciudad        |
 | ana ghadi ndir fotocopi | ana Radi ndir fotocopi | tengo a hacer fotocopias |
-
-</details>
-
----
-
-## ¿A donde estabas?
-
-| Marroquí                   | Pronunciacion             | Castellano                                        |
-|:---------------------------|:--------------------------|:--------------------------------------------------|
-| Fin knti?                  | fin kanti                 | Donde estabas?                                    |
-| Fin knti simana lli fatet? | fin kanti simana li fatet | Donde estabas la semana que paso (semana pasada)? |
-
-<details markdown="1">
-<summary> Respuestas </summary>
-
-| Marroquí         | Pronunciacion    | Castellano       |
-|:-----------------|:-----------------|:-----------------|
-| ana knt f Madrid | ana knt f madrid | estaba en madrid |
-| ana knt kanhdar  | ana knt f madrid | estaba en madrid |
 
 </details>
 

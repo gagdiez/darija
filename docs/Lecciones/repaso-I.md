@@ -1,6 +1,6 @@
 ---
 title: ⭐ Repaso I
-parent: Lecciones
+parent: lecciones
 layout: default
 sidebar_position: 5.1
 ---
@@ -9,26 +9,23 @@ sidebar_position: 5.1
 
 Las preguntas que vimos hasta ahora son:
 
-| Marroquí    | Castellano    |
-|:------------|:--------------|
-| kif dayr/a? | cómo estas?   |
-| wa nta/nti? | y tu (m/f)?   |
-| shnu ... ?  | cuál ... ?    |
-| mnin ... ?  | de dónde ...? |
-| fin ... ?   | en dónde ...? |
-| fash ... ?  | en qué ...?   |
-| wash ... ?  | acaso ...?    |
+| Marroquí    | Castellano    | Marroquí   | Castellano    |
+|:------------|:--------------|:-----------|:--------------|
+| kif dayr/a? | cómo estas?   | fin ... ?  | en dónde ...? |
+| wa nta/nti? | y tu (m/f)?   | fash ... ? | en qué ...?   |
+| shnu ... ?  | cuál ... ?    | wash ... ? | acaso ...?    |
+| mnin ... ?  | de dónde ...? | -          | -             |
 
 <br />
 
 ---
 
-## Dialogo entre Guillermo y Julia
+## Dialogo
 
-Repaso de un dialogo con todo lo aprendido hasta ahora
+Dialogo entre Guillermo y Julia con todo lo aprendido hasta ahora
 
-| Marroquí                                       | Castellano                                        |
-|:-----------------------------------------------|:--------------------------------------------------|
+| Marroquí                                       | Castellano                                     |
+|:-----------------------------------------------|:-----------------------------------------------|
 | G: salam aleykoum                              | la paz sea con ustedes                         |
 | J: wa aleykoum salam                           | y con ustedes                                  |
 | G: ana Guillermo, shnu smitk?                  | Soy guillermo, Cual es tu numbre?              |

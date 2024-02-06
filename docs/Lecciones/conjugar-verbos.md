@@ -1,6 +1,6 @@
 ---
 title: 📖 Tiempo Presente
-parent: Lecciones
+parent: lecciones
 layout: default
 sidebar_position: 5.2
 ---

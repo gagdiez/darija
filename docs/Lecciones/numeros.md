@@ -1,6 +1,6 @@
 ---
 title: 🔢 Números
-parent: Lecciones
+parent: lecciones
 layout: default
 sidebar_position: 6
 ---
@@ -76,7 +76,7 @@ El 19 se pronuncia "satash"
 | 21     | waHd wa ashrin  |
 | 22     | tnayn wa ashrin |
 | 23     | tleta wa ashrin |
-| 24     | 3rba wa ashrin  |
+| 24     | rb3a wa ashrin  |
 | 25     | Hmsa wa ashrin  |
 | 26     | stta wa ashrin  |
 | 27     | sb3a wa ashrin  |

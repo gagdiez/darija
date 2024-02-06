@@ -1,6 +1,6 @@
 ---
-title: Familia
-parent: Lecciones
+title: 👪 Familia
+parent: lecciones
 layout: default
 sidebar_position: 13
 ---

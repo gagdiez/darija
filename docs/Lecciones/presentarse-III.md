@@ -1,13 +1,13 @@
 ---
 title: 📖 Presentarse III
-parent: Lecciones
+parent: lecciones
 layout: default
 sidebar_position: 4
 ---
 
 # Presentarse III
 
-Preguntar de que [trabajan](../verbos/trabajar) y si están casad@s.
+Preguntar de que [trabajan](../verbos/trabajar) y si están [casad@s](../vocabulario/matrimonio).
 
 ---
 

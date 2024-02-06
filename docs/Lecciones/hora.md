@@ -1,6 +1,6 @@
 ---
-title: Tiempo (Hora)
-parent: Lecciones
+title: ⏰ Tiempo (Hora)
+parent: lecciones
 layout: default
 sidebar_position: 20
 ---

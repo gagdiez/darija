@@ -1,8 +1,8 @@
 ---
-title: ⭐ Repaso II
+title: ⭐ Repaso III
 parent: lecciones
 layout: default
-sidebar_position: 9
+sidebar_position: 15
 ---
 
 # Repaso
@@ -20,42 +20,26 @@ Las preguntas que vimos hasta ahora son:
 
 ---
 
-## Guillermo se presenta
-Salam aleykoum. Smiti Guillermo, ana mn l-arjontin w daba sakn f Buenos Aires. L-khdmma dialy muhandis l’informatic. 3ndi tleta w tltin 3am, w ana mswwj b-mghribiya.
+## Dialogo
 
-Ana kanqra darija, w ana kanhdar l-espania, annglisia w l-fransawia. Ana kanerf nqra shwiya darija.
+Guillermo (G) está en el tren con Julia (J) hablando. A mitad de charla se une una persona (P).
 
-Ana 3ndi rb3a ordinadorat wa tmnya d ttilifun.
+| Marroquí                                                   | Castellano                                                    |
+|:-----------------------------------------------------------|:--------------------------------------------------------------|
+| J: fin ghdin?                                              | A donde vamos?                                                |
+| G: Hna ghdin Casablanca, mrati Samira hiyya tmmak          | Hola                                                          |
+| J: mzzyan, ana bhrit nmshi l jame3 Hassan II               | bien, quiero conocer la mezquita Hassan II                    |
+| G: inyallah, wa maqabl m3a kayn restaurant zewin           | ojala, y enfrente hay un restaurante bueno                    |
+| P: smihu-lia, wash l-tran ghadi l matar?                   | perdon, acaso el tren va al aeropuerto?                       |
+| J: aha! b3d Casablanca kayn l matar                        | si, despues de Casablanca esta el aeropuerto                  |
+| P: shukran!                                                | gracias!                                                      |
+| 📞: **ring ring**                                          | **ring ring**                                                 |
+| G: Salam?                                                  | -                                                             |
+| S: salam habibi, fink?                                     | Hola querido, donde estas?                                    |
+| G: Ana f l-tran m3a Julia, hiyya 7daya, hna ghrdin tmmak   | Estamos en el tren con Julia, ella esta a mi lado, vamos allí |
+| S: mzzyan, shehal d-dirham swa l-tran?                     | bien, cuando cuesta el tren?                                  |
+| G: l-tran swa rb3a d-dirham, and 3ndi bzaf dirham f beztam | El tren cuesta 4 dirham, tengo muchos dirham en el monedero   |
 
-<details>
-<summary>Traducción</summary>
-La paz sea contigo (hola). Mi nombre es Guillermo, soy de Argentina y ahora vivo en Buenos Aires. Mi trabajo es ingeniero informático. Tengo 33 años y estoy casado con una marroquí.
-
-Estudio darija y hablo español, inglés y francés. Se escribir un poco de darija.
-
-Tengo 4 computadoras y 8 teléfonos.
-
-</details>
-
----
-
-## Samira se presenta
-Salam aleykoum. Smiti Samira, ana mn l-mghrib w htta ana sakna f Buenos Aires. Ana hdamma ustad f anglisia. 3ndi ts3ud w ashrin 3am, w ana ma mswwj sh.
-
-Ana kanhdar darija w l-anglisia, wa ana kanerf Guillermo.
-
-Ana 3ndi wahd ordinadorat wa wahd ttilifun.
-
-<details>
-<summary>Traducción</summary>
-
-La paz sea contigo (hola). Mi nombre es Samira, soy de Marruecos y también vivo en Buenos Aires. Trabajo como profesora de inglés. Tengo 29 años y no estoy casada.
-
-Hablo darija e inglés, y conozco a Guillermo.
-
-Tengo una computadora y un teléfono.
-
-</details>
 
 ---
 
