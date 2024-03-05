@@ -7,7 +7,18 @@ sidebar_position: 11.1
 
 # Frases Útiles - I
 
-Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto de [lugares y objetos](../vocabulario/lugares-objetos).
+Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto de [lugares y objetos](../vocabulario/lugares-objetos), y los apuntes de verbos.
+
+---
+
+## Estar / Haber
+
+| Marroquí                      | Castellano                     |
+|:------------------------------|:-------------------------------|
+| wash kayna Belen?             | acaso esta Belen?              |
+| wash kayna Belen m3ana?       | acaso esta Belen con nosotros? |
+| wash kayn lhlib / lkhbz / lma | acaso hay leche / pan / agua ? |
+| ma kaynsh                     | no hay                         |
 
 ---
 
@@ -30,5 +41,14 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 | ddini l \<lugar> 3fak  | lleveme a \<lugar> por favor  |
 | wash l-kuntur hddam    | acaso el contador trabaja? () |
 | hddm l-kuntur 3fak     | ponga el contador por favor   |
+| wqf/i hna 3fak         | pare aqui por favor           |
 
 ---
+
+## Otros
+
+| Marroquí                           | Castellano                      |
+|:-----------------------------------|:--------------------------------|
+| kifash kangulu `pagina` b-darija ? | como decimos `pagina` en darija |
+| (i) kangulu sfHa                   | se pronuncia sfHa               |
+| (ii) kangulu lia sfHa              | se pronuncia sfHa               |

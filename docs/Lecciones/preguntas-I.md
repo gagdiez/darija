@@ -73,12 +73,22 @@ En darija no existe el verbo "ser" como en español. Por lo tanto, para pregunta
 | shnu hiyya nmra ttilifun dyalk?        | cual es numero de telefono tuyo?      |
 | nmera ttilifun dyali hiyya 06 12 34 56 | numero de telefono mio es 06 12 34 56 |
 
-|                                                               |                             |
-|:--------------------------------------------------------------|:----------------------------|
+|                                                            |                             |
+|:-----------------------------------------------------------|:----------------------------|
 | shnu hiya [ljinsiya](../vocabulario/paises-idiomas) dyalk? | cual es tu nacionalidad?    |
-| ljinsiya dyali hiyya espaniya                                 | mi nacionalidad es española |
+| ljinsiya dyali hiyya espaniya                              | mi nacionalidad es española |
 
 |                                                           |                          |
 |:----------------------------------------------------------|:-------------------------|
 | shnu hiyya [kniya](../vocabulario/nombre#apellido) dialk? | cual es tu apellido?     |
 | [kniti](../vocabulario/nombre#apellido) Fernandez         | mi appelido es Fernandez |
+
+
+---
+
+## Otros
+
+| Marroquí              | Castellano             |
+|:----------------------|:-----------------------|
+| 3ndkum shu su-al?     | tienen preguntas?      |
+| 3ndi bzzaf d l-as-ila | tengo muchas preguntas |
