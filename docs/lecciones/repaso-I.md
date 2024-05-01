@@ -9,12 +9,12 @@ sidebar_position: 5.1
 
 Las preguntas que vimos hasta ahora son:
 
-| Marroquí    | Castellano    | Marroquí   | Castellano    |
-|:------------|:--------------|:-----------|:--------------|
-| kif dayr/a? | cómo estas?   | fin ... ?  | en dónde ...? |
-| wa nta/nti? | y tu (m/f)?   | fash ... ? | en qué ...?   |
-| shnu ... ?  | cuál ... ?    | wash ... ? | acaso ...?    |
-| mnin ... ?  | de dónde ...? | -          | -             |
+| Marroquí    | Castellano    | Marroquí   | Castellano  |
+|:------------|:--------------|:-----------|:------------|
+| kif dayr/a? | cómo estas?   | fin ... ?  | dónde ...?  |
+| wa nta/nti? | y tu (m/f)?   | fash ... ? | en qué ...? |
+| shnu ... ?  | cuál ... ?    | wash ... ? | acaso ...?  |
+| mnin ... ?  | de dónde ...? | -          | -           |
 
 <br />
 
@@ -26,8 +26,8 @@ Dialogo entre Guillermo y Julia con todo lo aprendido hasta ahora
 
 | Marroquí                                       | Castellano                                     |
 |:-----------------------------------------------|:-----------------------------------------------|
-| G: salam aleykoum                              | la paz sea con ustedes                         |
-| J: wa aleykoum salam                           | y con ustedes                                  |
+| G: ssalamu 3alikum                             | la paz sea con ustedes                         |
+| J: wa 3alikum ssalam                           | y con ustedes                                  |
 | G: ana Guillermo, shnu smitk?                  | Soy guillermo, Cual es tu numbre?              |
 | J: ana smiti Julia                             | yo me llamo Julia                              |
 | G: mtsherfn                                    | Encantado                                      |

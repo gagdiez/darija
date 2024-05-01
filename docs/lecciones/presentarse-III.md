@@ -14,12 +14,12 @@ Preguntar de que [trabajan](../verbos/trabajar) y si están [casad@s](../vocabul
 ## Diálogo
 Guillermo (G) y Samira (S) mantienen una conversación.
 
-| Marroquí                                                       | Pronunciacion         | Castellano                          |
-|:---------------------------------------------------------------|:----------------------|:------------------------------------|
+| Marroquí                                                       | Pronunciacion         | Castellano                       |
+|:---------------------------------------------------------------|:----------------------|:---------------------------------|
 | S: smH-li [nsewlk](../verbos/preguntar) 3afak?                 | smijilí ensulek afak? | perdona-me, pregunta por favor?  |
 | G: ah, sewl ni                                                 | ah, suel ni           | si, pregunta a mi                |
 | S: [fash](../preguntas/de-que) [khddam](../verbos/trabajar)?   | fash jdam             | de que trabajas?                 |
-| G: ana khddam manager F sharika                                | ana jdam              | yo trabajo manager de empresa    |
+| G: ana khddam manager F sharika                                | ana jdam              | yo trabajando manager de empresa |
 | S: [wash](../preguntas/acaso) mzwwj?                           | wash msuj             | acaso casado?                    |
 | G: la, ana baqi ma mzwwjsh                                     | msussh                | no, no estoy casado aun          |
 | G: wa nti? wash mzwwja?                                        | wash msuya            | y tu? estas casada?              |
@@ -29,6 +29,11 @@ Guillermo (G) y Samira (S) mantienen una conversación.
 - `fash` es la unión de `f` (en) + `ash` (que).
 - Para negar un verbo se utiliza `ma` antes del verbo y `sh` al final.
 :::
+
+:::info
+En el texto, `khddam` es un participio activo, que se considera en el arabe un nombre de sujeto (o sea, no es un verbo).
+:::
+
 
 ### Discúlpeme  
 En el ejemplo anterior, Samira preguntan si puede hacer una pregunta. Como preguntar cambia dependiendo del genero del interlocutor.

@@ -8,11 +8,11 @@ layout: default
 
 Hay distintas formas de preguntar como estas en marroquí. La más común es `labas?` que significa literalmente "nada mal?".
 
-| Marroquí    | Pronunciación | Castellano                    |
-|:------------|:--------------|:------------------------------|
-| labas?      | labas?        | nada mal? (todo bien?)        |
+| Marroquí    | Pronunciación | Castellano                   |
+|:------------|:--------------|:-----------------------------|
+| labas?      | labas?        | nada mal? (todo bien?)       |
 | labas 3lik? | labas alik?   | nada mal en tu? (todo bien?) |
-| kif dayr/a? | kif dair?     | como estas (tu)?             |
+| kif dayr/a? | kif dair/a?   | como estas (tu m/f)?         |
 
 
 ### Respuestas

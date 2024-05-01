@@ -33,10 +33,10 @@ En general, para dos objetos usamos el numero 2 y la forma plural del objeto. Si
 
 | Castellano | Marroquí  |
 |:-----------|:----------|
-| Dos libros | juj ktaba |
+| Dos libros | juj ktuba |
 | Dos chicas | juj bnat  |
 | Dos días   | yumayn    |
-| Dos meses  | shrayn    |
+| Dos meses  | shehrayn  |
 | Dos años   | 3amayn    |
 
 ---

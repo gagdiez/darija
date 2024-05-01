@@ -7,16 +7,16 @@ sidebar_position: 1
 
 # Saludos
 
-## La Paz Sea con Ustedes (Salam Aleykoum)
+## La Paz Sea con Ustedes (ssalamu 3alikum)
 En árabe la gente dice "la paz sea contigo" como forma cordial de saludar.
 
 | Marroquí          | Pronunciación   | Castellano               |
 |:------------------|:----------------|:-------------------------|
-| Salam aleykoum    | Salam alikum    | La paz sea con ustedes   |
-| Wa aleykoum salam | Wa salam alikum | Y la paz sea con ustedes |
+| ssalamu 3alikum   | Salam alekum    | La paz sea con ustedes   |
+| Wa 3alikum ssalam | Wa alekum salam | Y la paz sea con ustedes |
 
 :::tip
-En "Salam aleykoum", `aleykoum` es plural, y se utiliza aunque se salude a una sola persona.
+En "ssalamu 3alikum", `3alikum` es plural, y se utiliza aunque se salude a una sola persona.
 :::
 
 :::tip
@@ -33,23 +33,19 @@ Uno también puede simplemente decir `salam`.
 ## Buenos días, tardes, noches
 En Marroquí, los saludos se hacen al revés, o sea, uno dice "mañana buena".
 
-| Marroquí       | Pronunciación | Castellano    |
-|:---------------|:--------------|:--------------|
-| 3la khir       | la jir        | Bien          |
-| Seba7          | sbaj          | Mañana        |
-| Seba7          | sbaj          | Mañana        |
-| Msa            | msa           | Tardes        |
-| Msa            | msa           | Tardes        |
-| Seba7 3la khir | sebaj la jir  | Buenos días   |
-| Messa 3la khir | messa la jir  | Buenas tardes |
+| Marroquí     | Pronunciación | Castellano                     |
+|:-------------|:--------------|:-------------------------------|
+| Seba7 l-khir | sebaj l-jir   | mañana del bien (buenos días)  |
+| Messa l-khir | messa l-jir   | tarde del bien (buenas tardes) |
 
 Para buenas noches, hay dos formas de decirlo: usando árabe clásico, o deseándole a la persona que tenga una linda mañana.
 
 | Marroquí       | Pronunciación | Castellano                                     |
 |:---------------|:--------------|:-----------------------------------------------|
 | layla sa3ida   | layla saida   | Buenas noches (tod@s, polite - classic arabic) |
-| tsbH 3la khir  | Tsbaj aljir   | Buenas noches (tod@s)                          |
+| tsbH 3la khir  | Tsbaj aljir   | Buenas noches (hombre)                         |
 | tsbHi 3la khir | Tsbaji aljir  | Buenas noches (mujer)                          |
+| tsbHu 3la khir | Tsbaju aljir  | Buenas noches (tod@s)                          |
 
 
 ## Bienvenida
@@ -57,3 +53,4 @@ Para buenas noches, hay dos formas de decirlo: usando árabe clásico, o deseán
 | Marroquí | Castellano |
 |:---------|:-----------|
 | ahlan    | bienvenid@ |
+| marhaba  | bienvenid@ |

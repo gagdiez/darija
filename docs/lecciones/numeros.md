@@ -19,7 +19,7 @@ Aprendiendo los números del 1 al 12 ya se tiene un 90% del conocimiento necesar
 |:-------|:---------|:-----------------|---------------|
 | 1      | waHed    | wajed            | -             |
 | 2      | juj      | juj (j francesa) | -             |
-| 3      | tleta    | tleta            | `tlt`         |
+| 3      | tlata    | tlata            | `tlt`         |
 | 4      | rb3a     | rb3a             | `3rb`         |
 | 5      | khmsa    | jamsa            | `Hms`         |
 | 6      | stta     | está             | `stt`         |
@@ -53,7 +53,7 @@ Para los números mayores a 12 se utiliza una versión corta de los números int
 | 17     | Sb3tash  | sb3tash       |
 | 18     | Tmntash  | tmntash       |
 | 19     | Ts3tash  | satash        |
-| 20     | ashrin   | ashrin        |
+| 20     | 3ashrin  | ashrin        |
 
 
 :::tip

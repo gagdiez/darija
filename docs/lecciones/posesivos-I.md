@@ -33,9 +33,9 @@ En darija tenemos dos formas de denotar posesión:
 \* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
 :::
 
----
+<details>
 
-## Ejemplos
+<summary> Ejemplos </summary>
 
 #### Libro (ktab)
 
@@ -52,18 +52,18 @@ En darija tenemos dos formas de denotar posesión:
 
 #### Ciudad (medina)
 
-| Castellano      | Con Pronombre | Con dyal           |
-|-----------------|---------------|--------------------|
-| ciudad mia      | medint`i`     | l-medina dyal`i`   |
-| ciudad tuya     | medint`k`     | l-medina dyal`k`   |
-| ciudad de él    | medint`u`     | l-medina dyal`u`   |
-| ciudad de ella  | medint`ha`    | l-medina dyal`ha`  |
-| ciudad nuestra  | medint`na`    | l-medina dyal`na`  |
-| ciudad vuestra  | medint`kum`   | l-medina dyal`kum` |
-| ciudad de ell@s | medint`hum`   | l-medina dyal`hum` |
+| Castellano      | Con Pronombre  | Con dyal           |
+|-----------------|----------------|--------------------|
+| ciudad mia      | medin`t` `i`   | l-medina dyal`i`   |
+| ciudad tuya     | medin`t` `k`   | l-medina dyal`k`   |
+| ciudad de él    | medin`t` `u`   | l-medina dyal`u`   |
+| ciudad de ella  | medin`t` `ha`  | l-medina dyal`ha`  |
+| ciudad nuestra  | medin`t` `na`  | l-medina dyal`na`  |
+| ciudad vuestra  | medin`t` `kum` | l-medina dyal`kum` |
+| ciudad de ell@s | medin`t` `hum` | l-medina dyal`hum` |
 
 :::tip
-La palabra `medina` en realidad termina con una `t` silenciosa en darija, que aparece al agregar el pronombre posesivo.
+Todas las palabras femeninas que terminan con una `a` tienen una `t` silenciosa, que aparece al agregar el pronombre posesivo.
 :::
 
 #### Hermano (khu)
@@ -79,6 +79,8 @@ La palabra `medina` en realidad termina con una `t` silenciosa en darija, que ap
 | hermano de ell@s  | khu`hum`      | l-khu dyal`hum`   |
 | hermano de Samira | -             | l-khu dyal Samira |
 
+</details>
+
 ---
 
 ## De quien es esto / eso?
@@ -90,9 +92,6 @@ La palabra `medina` en realidad termina con una `t` silenciosa en darija, que ap
 | dyal mn had `<objeto>`?         | de quien es este `<objeto>`? |
 | dyal mn dak/dik/duk `<objeto>`? | de quien es ese `<objeto>`?  |
 
-:::tip
-`had/dak/dik/duk` son para cuando vas a nombrar el objeto, `hada/hadi/hadu/k` son para cuando no.
-:::
 
 <details markdown="1">
 <summary> Ejemplos </summary>
@@ -118,10 +117,10 @@ La palabra `medina` en realidad termina con una `t` silenciosa en darija, que ap
 <details markdown="1">
 <summary> Respuestas </summary>
 
-| Marroquí         | Castellano   |
-|:-----------------|:-------------|
-| lla, mashi dyalu | no, no lo es |
-| yeh, dyalha      | si, lo es    |
+| Marroquí         | Castellano     |
+|:-----------------|:---------------|
+| lla, mashi dyalu | no, no es suyo |
+| yeh, dyalha      | si, es suya (de ella)      |
 
 </details>
 

@@ -30,10 +30,10 @@ Aprendamos los días, meses, y vocabulario útil sobre el tiempo.
 |:---------|:-----------|
 | lHd      | domingo    |
 | ltnin    | lunes      |
-| Tlet     | martes     |
+| Tlat     | martes     |
 | lrb3     | miercoles  |
-| lmnin    | jueves     |
-| ljamis   | viernes    |
+| lkhmis   | jueves     |
+| jam3a    | viernes    |
 | sebt     | sabado     |
 
 ---
@@ -44,16 +44,16 @@ Hay dos formas de nombrar los meses del año, una formal y otra informal.
 
 | Formal    | Informal     | Castellano |
 |:----------|--------------|:-----------|
-| yanayer   | Shehar wahed | enero      |
+| yanayer   | Shehar wahd  | enero      |
 | febrayer  | Shehar juj   | febrero    |
-| mars      | Shehar tleta | marzo      |
+| mars      | Shehar tlata | marzo      |
 | abril     | Shehar rb3a  | abril      |
 | may       | Shehar khmsa | mayo       |
 | yunyo     | Shehar stta  | junio      |
 | yulyuz    | Shehar sba3  | julio      |
 | ghusht    | Shehar tmnya | agosto     |
 | shutanbir | Shehar t3sud | septiembre |
-| uktuber   | Shehar ashra | octubre    |
+| uktuber   | Shehar 3shra | octubre    |
 | nuwambr   | Shehar Hdash | noviembre  |
 | dujmbr    | Shehar tnash | diciembre  |
 

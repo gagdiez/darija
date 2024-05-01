@@ -19,8 +19,8 @@ Como nombrar a los miembros de la familia.
 | 👬🏽 Hermano | khu               | khut            |
 | 👧🏽 Hija    | bnt               | bnat            |
 | 👦🏽 Hijo    | wld               | wlad            |
-| 👰🏽 Esposa  | mra               | nsa             |
-| 🤵🏽 Esposo  | rajl              | rshal           |
+| 👰🏽 Esposa  | mra               | nsa / 3yalat    |
+| 🤵🏽 Esposo  | rajl              | rjal            |
 | 👵🏽 Abuela  | jdda              | jddat           |
 | 👴🏼 Abuelo  | jdd               | jddud           |
 | 👶🏽 Nieto   | hafid             | hfayd           |
@@ -99,12 +99,12 @@ La formula general es: `hij@ + ti@ (p/maternal) mio`.
 
 ## Familia política
 
-| Pariente       | Marroquí | Pronunciación |
-|:---------------|:---------|:--------------|
-| Cuñado/a       | nsib/t   |               |
-| Suegro (jefe)  | shij     |               |
-| Suegra (vieja) | 3guzt    |               |
-| Nuera          | 3rusa    |               |
+| Pariente       | Marroquí |
+|:---------------|:---------|
+| Cuñado/a       | nsib/t   |
+| Suegro (jefe)  | shij     |
+| Suegra (vieja) | 3guzt    |
+| Nuera          | 3rusa    |
 
 :::tip
 En vez de decirle `jefe` al suegro, o `vieja` a la suegra, uno puede simplemente referirse a ellos diciendo `3mmi` o `khalti`.

@@ -22,10 +22,12 @@ El tiempo presente en Darija expresa tanto acciones habituales (que generalmente
 | ntuma (vosotr@s) | `ka` `t` \<verbo\> `u` |
 | huma  (ell@s)    | `ka` `y` \<verbo\> `u` |
 
-- Todo lo que es conmigo (ana, hna) es `n` (ana kanqra, hna kanqrau)
-- Todo lo que es usted / ustedes es `t` (nta katqra, nti katqrai, ntuma katqrau) 
-- El y Ellos es `y` (huwa kayqra, huma kayqrau)
-- Ella es `t` (hiya katqra)
+*esto es valido para verbos regulares*
+
+- Todo lo que es conmigo (ana, hna) es `n` (ana `kan`hdr, hna `kan`hdr`u`)
+- Todo lo que es usted / ustedes es `t` (nta `kat`hdr, nti `kat`hdr`i`, ntuma `kat`hdr`u`) 
+- El y Ellos es `y` (huwa `kay`hdr, huma `kay`hdr`u`)
+- Ella es `t` (hiya `kat`hdr)
 
 ---
 

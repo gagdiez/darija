@@ -90,5 +90,5 @@ En darija no existe el verbo "ser" como en español. Por lo tanto, para pregunta
 
 | Marroquí              | Castellano             |
 |:----------------------|:-----------------------|
-| 3ndkum shu su-al?     | tienen preguntas?      |
+| 3ndkum shi su-al?     | tienen preguntas?      |
 | 3ndi bzzaf d l-as-ila | tengo muchas preguntas |

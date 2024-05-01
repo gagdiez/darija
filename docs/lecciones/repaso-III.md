@@ -47,8 +47,8 @@ Guillermo (G) está en el tren con Julia (J) hablando. A mitad de charla se une 
 
 | Marroquí                                          | Castellano                            |
 |:--------------------------------------------------|:--------------------------------------|
-| G: salam aleykoum.                                | Hola                                  |
-| S: wa aleykoum salam.                             | Hola                                  |
+| G: ssalamu 3alikum.                                | Hola                                  |
+| S: wa 3alikum ssalam.                             | Hola                                  |
 | G: wash katqra l-darija ?                         | acaso estudias darija?                |
 | S: la, hit ana kan3rf nhdr darija, ana magribiyya | no, porque hablo darija, soy marroqui |
 | G: mzyan, ana kanqra darija                       | bien, yo estudio darija               |

@@ -27,7 +27,7 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 | Marroquí           | Pronunciación         | Castellano               |
 |:-------------------|:----------------------|:-------------------------|
 | ana bghit lma      | ana bRit (r francesa) | yo quiero agua           |
-| ana bghit tn3s     | -                     | yo quiero dormir         |
+| ana bghit nn3s     | -                     | yo quiero dormir         |
 | bghit nduwsh       | -                     | quiero ducharme          |
 | bghit nbddl Hwayji | -                     | quiero cambiarme de ropa |
 
@@ -39,8 +39,8 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 |:-----------------------|:------------------------------|
 | bghit nmshi l \<lugar> | quiero ir a \<lugar>          |
 | ddini l \<lugar> 3fak  | lleveme a \<lugar> por favor  |
-| wash l-kuntur hddam    | acaso el contador trabaja? () |
-| hddm l-kuntur 3fak     | ponga el contador por favor   |
+| wash l-kuntur khddam   | acaso el contador trabaja? () |
+| khddam l-kuntur 3fak   | ponga el contador por favor   |
 | wqf/i hna 3fak         | pare aqui por favor           |
 
 ---
@@ -51,4 +51,4 @@ Frases útiles de conocer. Recomendamos acompañar esta lección con el apunto d
 |:-----------------------------------|:--------------------------------|
 | kifash kangulu `pagina` b-darija ? | como decimos `pagina` en darija |
 | (i) kangulu sfHa                   | se pronuncia sfHa               |
-| (ii) kangulu lia sfHa              | se pronuncia sfHa               |
+| (ii) kangulu liha sfHa             | se pronuncia sfHa               |

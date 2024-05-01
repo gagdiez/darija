@@ -38,7 +38,7 @@ Localizar objetos y personas en el espacio.
 | fink?               | dónde estás?             |
 | Samira finha?       | Samira dónde está?       |
 | fin l Hlib?         | dónde está la leche?     |
-| wash arfti fin ana? | acaso sabes dónde estoy? |
+| wash 3rfti fin ana? | acaso sabes dónde estoy? |
 | fin bit l-ma        | donde esta el baño?      |
 | fin ghadi n-n3s     | donde voy a dormir?      |
 

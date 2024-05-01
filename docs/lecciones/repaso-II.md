@@ -21,11 +21,11 @@ Las preguntas que vimos hasta ahora son:
 ---
 
 ## Guillermo se presenta
-Salam aleykoum. Smiti Guillermo, ana mn l-arjontin w daba sakn f Buenos Aires. L-khdmma dialy muhandis l’informatic. 3ndi tleta w tltin 3am, w ana mswwj b-mghribiya.
+ssalamu 3alikum. Smiti Guillermo, ana mn l-arjontin w daba sakn f Buenos Aires. L-khdmma dialy muhandis d l-informatic. 3ndi tleta w tltin 3am, w ana mswwj b-mghribiya.
 
-Ana kanqra darija, w ana kanhdar l-espania, annglisia w l-fransawia. Ana kanerf nqra shwiya darija.
+Ana kanqra darija, w ana kanhdr l-espania, nnglizia w l-fransawia. Ana kan3rf nqra shwiya darija.
 
-Ana 3ndi rb3a ordinadorat wa tmnya d ttilifun.
+Ana 3ndi rb3a d-ordinadorat wa tmnya d ttilifunat.
 
 <details>
 <summary>Traducción</summary>
@@ -40,11 +40,11 @@ Tengo 4 computadoras y 8 teléfonos.
 ---
 
 ## Samira se presenta
-Salam aleykoum. Smiti Samira, ana mn l-mghrib w htta ana sakna f Buenos Aires. Ana hdamma ustad f anglisia. 3ndi ts3ud w ashrin 3am, w ana ma mswwj sh.
+ssalamu 3alikum. Smiti Samira, ana mn l-mghrib w htta ana sakna f Buenos Aires. Ana khdamma ustada d-nnglizia. 3ndi ts3ud w ashrin 3am, w ana ma mswwja sh.
 
-Ana kanhdar darija w l-anglisia, wa ana kanerf Guillermo.
+Ana kanhdr darija w n-nglizia, wa ana kan3rf Guillermo.
 
-Ana 3ndi wahd ordinadorat wa wahd ttilifun.
+Ana 3ndi wahd l-ordinador wa wahd ttilifun.
 
 <details>
 <summary>Traducción</summary>
@@ -63,8 +63,8 @@ Tengo una computadora y un teléfono.
 
 | Marroquí                                          | Castellano                            |
 |:--------------------------------------------------|:--------------------------------------|
-| G: salam aleykoum.                                | Hola                                  |
-| S: wa aleykoum salam.                             | Hola                                  |
+| G: ssalamu 3alikum.                               | Hola                                  |
+| S: wa 3alikum ssalam.                             | Hola                                  |
 | G: wash katqra l-darija ?                         | acaso estudias darija?                |
 | S: la, hit ana kan3rf nhdr darija, ana magribiyya | no, porque hablo darija, soy marroqui |
 | G: mzyan, ana kanqra darija                       | bien, yo estudio darija               |

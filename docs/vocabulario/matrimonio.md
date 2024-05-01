@@ -14,8 +14,14 @@ layout: default
 | El esta casado           | huwa mzzwj      |
 | Ella estas casada        | hiya mzzwj`a`   |
 | Nosotr@s estamos casados | Hna mzzwj`in`   |
-| Ustedes estan casados    | ntuma mzzwj`in` |
+| Vosotros estais casados    | ntuma mzzwj`in` |
 | Ell@s estan casado       | huma mzzwj`in`  |
+
+:::info
+Notar que se usa el verbo "ser" o "estar" en el presente. "Yo estoy casado" se dice simplemente "yo casado"
+:::  
+
+---
 
 # No estoy casado/a
 

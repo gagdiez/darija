@@ -30,8 +30,8 @@ En Darija podemos agregar un sufijo al final de las palabras para expresar poses
 | huwa     | u / h*      |
 | hiya     | ha          |
 | Hna      | na          |
-| ntuma    | hum         |
-| huma     | kum         |
+| ntuma    | kum         |
+| huma     | hum         |
 
 :::tip
 \* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).

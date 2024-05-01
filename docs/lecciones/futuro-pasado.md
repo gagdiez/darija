@@ -23,14 +23,14 @@ El futuro en darija se forma con el auxiliar "ghadi" (ir) (R francesa) seguido d
 
 ## Voy a Ir
 
-| Marroquí                      | Castellano                          |
-|:------------------------------|:------------------------------------|
-| fin ghadi/a?                  | donde yendo? (donde estas yendo)    |
-| fin ghadi/a f lwikand?        | donde vas el fin de semana?         |
-| fin ghadi Belen mn b3d dders? | donde va Belen despues de la clase? |
-| ana ghadi l dari              | voy a mi casa                       |
-| ana ghadi nkhdm               | voy a trabajar                      |
-| ana ghadi ndir fotocopi       | voy a hacer fotocopias              |
+| Marroquí                       | Castellano                          |
+|:-------------------------------|:------------------------------------|
+| fin ghadi/a?                   | donde yendo? (donde estas yendo)    |
+| fin ghadi/a f lwikand?         | donde vas el fin de semana?         |
+| fin ghadia Belen mn b3d dders? | donde va Belen despues de la clase? |
+| ana ghadi l dari               | voy a mi casa                       |
+| ana ghadi nkhdm                | voy a trabajar                      |
+| ana ghadi ndir fotocopi        | voy a hacer fotocopias              |
 
 ---
 
