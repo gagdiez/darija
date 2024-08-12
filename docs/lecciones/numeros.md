@@ -73,17 +73,17 @@ El 19 se pronuncia "satash"
 | Número | Marroquí        |
 |:-------|:----------------|
 | 20     | ashrin          |
-| 21     | waHd wa ashrin  |
-| 22     | tnayn wa ashrin |
-| 23     | tleta wa ashrin |
-| 24     | rb3a wa ashrin  |
-| 25     | Hmsa wa ashrin  |
-| 26     | stta wa ashrin  |
-| 27     | sb3a wa ashrin  |
-| 28     | tmnya wa ashrin |
-| 29     | ts3ud wa ashrin |
+| 21     | waHd w ashrin  |
+| 22     | tnayn w ashrin |
+| 23     | tleta w ashrin |
+| 24     | rb3a w ashrin  |
+| 25     | Hmsa w ashrin  |
+| 26     | stta w ashrin  |
+| 27     | sb3a w ashrin  |
+| 28     | tmnya w ashrin |
+| 29     | ts3ud w ashrin |
 | 30     | tltin           |
-| 32     | tnayn wa tltin  |
+| 32     | tnayn w tltin  |
 | 40     | rb3in           |
 | 50     | Hmsin           |
 | 60     | Sttin           |
@@ -112,5 +112,5 @@ El 19 se pronuncia "satash"
 | Millón | mlyun    |
 
 :::tip
-`999999` sería `ts3 miya wa ts3ud wa ts3in alf wa ts3 miya wa ts3ud wa st3in` 
+`999999` sería `ts3 miya w ts3ud w ts3in alf w ts3 miya w ts3ud w st3in` 
 :::

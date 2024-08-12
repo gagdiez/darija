@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Comer
-Infinitivo: `kul`
+Infinitivo: `akul`
 
 | Castellano | Marroquí         |
 |:-----------|:-----------------|

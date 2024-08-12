@@ -2,7 +2,7 @@
 title: 📖 Preguntas Generales - I
 parent: lecciones
 layout: default
-sidebar_position: 7.1
+sidebar_position: 7.2
 ---
 
 # Preguntas Generales
