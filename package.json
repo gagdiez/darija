@@ -15,13 +15,9 @@
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^1.1.0",
-    "@docusaurus/core": "3.1.0",
-    "@docusaurus/preset-classic": "3.1.0",
+    "@docusaurus/core": "3.5.2",
+    "@docusaurus/preset-classic": "3.5.2",
     "@mdx-js/react": "^3.0.0",
-    "@near-wallet-selector/core": "^8.9.2",
-    "@near-wallet-selector/here-wallet": "^8.9.2",
-    "@near-wallet-selector/modal-ui": "^8.9.2",
-    "@near-wallet-selector/my-near-wallet": "^8.9.2",
     "clsx": "^2.0.0",
     "docusaurus-plugin-sass": "^0.2.5",
     "near-api-js": "^3.0.2",
@@ -30,12 +26,11 @@
     "react": "^18.0.0",
     "react-bootstrap": "^2.10.0",
     "react-bootstrap-typeahead": "^6.3.2",
-    "react-dom": "^18.0.0",
-    "zustand": "^4.4.4"
+    "react-dom": "^18.0.0"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.1.0",
-    "@docusaurus/types": "3.1.0",
+    "@docusaurus/module-type-aliases": "3.5.2",
+    "@docusaurus/types": "3.5.2",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
     "https-browserify": "^1.0.0",

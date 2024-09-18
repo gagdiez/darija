@@ -20,20 +20,19 @@ Guillermo (G) y Samira (S) mantienen una conversación.
 | G: ssalamu 3alikum                                              | la paz sea con ustedes          |
 | S: wa 3alikum ssalam                                            | y con ustedes                   |
 | G: [kif dayra?](../preguntas/como-estas)                        | como estas?                     |
-| S: labas, wa [nta](../vocabulario/pronombres)?                  | ningún problema, y tu?          |
+| S: labas, wa [nta](../vocabulario/pronombres)?                  | ningún problema, y tu (M)?      |
 | G: labas, hamdullah                                             | ningún problema, gracias a dios |
-| S: [shnu](../preguntas/cual-que) [smitk](../vocabulario/nombre) | cual es tu nombre?              |
-| G: [ana](../vocabulario/pronombres) smiti Guillermo, wa nti?    | mi nombre es Guillermo, y tu?   |
-| S: ana smiti Samira                                             | mi nombre es Samira             |
-| G: shnu [knitk](../vocabulario/nombre#apellido)?                | cual es tu apellido?            |
-| S: ana kniti Fernandez                                          | mi apellido es Fernandez        |
+| S: [shnu](../preguntas/cual-que) [smitk](../vocabulario/nombre) | cual tu nombre?                 |
+| G: smiti Guillermo, wa nti?                                     | mi nombre Guillermo, y tu (F)?  |
+| S: smiti Samira                                                 | mi nombre Samira                |
+| G: shnu [knitk](../vocabulario/nombre#apellido)?                | cual tu apellido?               |
+| S: kniti Fernandez                                              | mi apellido es Fernandez        |
 | G: mtsherfin                                                    | encantado                       |
 | S: Htta ana mtsherfa                                            | también yo encantada            |
 
-#### A notar
-1. `ana smiti` y `shnu smitek?` quieren decir "mi nombre es" y "cual es tu nombre?". Denotan [posesión](../vocabulario/pronombres#pronombres-posesivos) de un objeto (en este caso, el `nombre`).
-2. Es mas natural decir `smiti` en lugar de `ana smiti`, pero en esta primera lección queríamos denotar los [pronombres personales](../vocabulario/pronombres#pronombres-personales).
-3. `alik` significa `tú`, mientras que `3alikum` es `vosotros/ustedes`.
+#### Notas
+1. `smiti` y `shnu smitek?` quieren decir "mi nombre es" y "cual es tu nombre?". Denotan [posesión](../vocabulario/pronombres#pronombres-posesivos) de un objeto (en este caso, el `nombre`)
+2. Es mas natural decir `smiti` que `ana smiti`, si bien ambas son correctas
 
 ---
 
@@ -55,20 +54,17 @@ Guillermo (G) y Samira (S) mantienen una conversación.
 
 ## Alternativas
 
-| Marroquí                     |
-|:-----------------------------|
-| - kif dayr/a?                |
-| - labas, wa nta? labas 3lik? |
-| - kulshi mzyan               |
+| Marroquí                         | Castellano                           |
+|:---------------------------------|:-------------------------------------|
+| - kif dayr/a?                    | - como estas?                        |
+| - labas, wa nti/nta? labas 3lik? | - bien, y tu? ningun problema en ti? |
+| - kulshi mzyan                   | - todo bien                          |
 
-| Marroquí                     |
-|:-----------------------------|
-| - labas 3lik?                |
-| - kulshi bihhir              |
+| Marroquí        | Castellano               |
+|:----------------|:-------------------------|
+| - labas 3lik?   | - ningun problema en ti? |
+| - kulshi bihhir | - todo bien              |
 
+#### Notas
 
-:::warning
-Uno no puede utilizar `labas 3lik` como respuesta, dado que significa "rico"
-- kif dayr/a?
-- labas 3lik
-:::
+- `mzyan` es puramente marroquí, mientras que `bihhir` es cercano al árabe clásico

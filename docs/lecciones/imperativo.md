@@ -17,9 +17,10 @@ El imperativo es un modo verbal que se utiliza para dar órdenes, hacer peticion
 | nti (tu F)       | \<verbo\> `i`    |
 | ntuma (vosotr@s) | \<verbo\> `u`    |
 
----
 
-## Ejemplos
+<details>
+
+<summary> Ejemplos </summary>
 
 | Marroquí                    | Castellano                 |
 |:----------------------------|:---------------------------|
@@ -27,7 +28,7 @@ El imperativo es un modo verbal que se utiliza para dar órdenes, hacer peticion
 | Guillermo, kul!             | Guillermo, comé!           |
 | Samira w Guillermo, kul`u`! | Samira y Guillermo, coman! |
 
-
+</details>
 
 ---
 

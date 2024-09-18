@@ -45,16 +45,5 @@ El tiempo presente en Darija expresa tanto acciones habituales (que generalmente
 | huma `ka` `y`[khdamm](../verbos/trabajar)`u` | Ustedes trabajan / están trabajando      |
 
 :::tip
-Notemos que uno puede decir "Ana `khdamm`" o "Ana `ka` `n` `khdamm`". Hay algunos pocos verbos en los cuales el prefijo es opcional, ya los veremos.
+Notemos que uno puede decir "Ana `khdamm`" o "Ana `ka` `n` `khdamm`". Son pocos los verbos en los cuales podemos omitir el prefijo, ya los veremos
 :::
-
-| Marroquí                 | Castellano                             |
-|:-------------------------|:---------------------------------------|
-| ana `ka` `n` `hdr`       | Yo hablo / estoy hablando              |
-| nta `ka` `t` `hdr`       | Tu hablas / estas hablando             |
-| nti `ka` `t` `hdr` `i`   | Tu cortas / estas hablando             |
-| huwa `ka` `y` `hdr`      | El chuta / está hablando               |
-| hiya `ka` `t`  `hdr`     | Ella habla / está hablando             |
-| Hna  `ka` `n` `hdr` `u`  | Nosotr@s estudiamos / estamos hablando |
-| ntuma `ka` `t` `hdr` `u` | Ell@s hablan                           |
-| huma `ka` `y` `hdr` `u`  | Ustedes trabajan / están hablando      |

@@ -28,10 +28,10 @@ Dialogo entre Guillermo y Julia con todo lo aprendido hasta ahora
 |:-----------------------------------------------|:-----------------------------------------------|
 | G: ssalamu 3alikum                             | la paz sea con ustedes                         |
 | J: wa 3alikum ssalam                           | y con ustedes                                  |
-| G: ana Guillermo, shnu smitk?                  | Soy guillermo, Cual es tu numbre?              |
+| G: ana Guillermo, shnu smitk?                  | soy guillermo, cual es tu numbre?              |
 | J: ana smiti Julia                             | yo me llamo Julia                              |
-| G: mtsherfn                                    | Encantado                                      |
-| J: Htta ana mtsherfa                           | Encantada                                      |
+| G: mtsherfn                                    | encantado                                      |
+| J: Htta ana mtsherfa                           | yo tambien encantada                           |
 | G: kif dayra?                                  | como estas?                                    |
 | J: kulshi bikhir, wa nta? labas 3lik?          | todo bien, y tu? ningun problema?              |
 | G: labas hamdulilah                            | ningun problema gracias a dios                 |
@@ -52,4 +52,4 @@ Dialogo entre Guillermo y Julia con todo lo aprendido hasta ahora
 | J: la, ana baqi ma mzwjash, wa nta?            | no, aun no casada, y tu?                       |
 | G: ahh, ana mzwwj b-mghribiya                  | si, yo casado con una marroqui                 |
 | J: mzyan! shnu smitha?                         | bien! como se llama ella?                      |
-| G: hiya smitha Samira                          | ella se llama Samira                           |
+| G: smitha Samira                               | ella se llama Samira                           |
