@@ -30,7 +30,7 @@ Indice de verbos utilizados en este sitio.
 | Saber           | 3rf / y3rf   |
 | Trabajar        | khdm / ykhdm |
 | Traer           | jab / yjib   |
-| Viajar          | sfr / ysfr   |
+| Viajar          | safr / ysafr |
 
 
 ---

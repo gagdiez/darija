@@ -2,7 +2,7 @@
 title: 📖 Posesión
 parent: lecciones
 layout: default
-sidebar_position: 5.1
+sidebar_position: 1.3
 ---
 
 import { Game } from '@site/src/components/near-component';
@@ -19,15 +19,15 @@ En darija tenemos dos formas de denotar posesión:
  1. Podemos agregar un sufijo al final de las palabras.
  2. Podemos user o conjugar la palabra `dyal`.
 
-| Prenombre | Sufijo  | Dyal    |
-|-----------|---------|---------|
-| ana       | i / ya* | dyali   |
-| nti/a     | k       | dyalk   |
-| huwa      | u / h*  | dyalu   |
-| hiya      | ha      | dyalha  |
-| Hna       | na      | dyalna  |
-| ntuma     | kum     | dyalkum |
-| huma      | hum     | dyalhum |
+| Prenombre        | Sufijo  | Dyal    |
+|------------------|---------|---------|
+| ana (yo)         | i / ya* | dyali   |
+| nti/a (tu)       | k       | dyalk   |
+| huwa (el)        | u / h*  | dyalu   |
+| hiya (ella)      | ha      | dyalha  |
+| Hna (nosotr@s)   | na      | dyalna  |
+| ntuma (vosotr@s) | kum     | dyalkum |
+| huma (ell@s)     | hum     | dyalhum |
 
 :::tip
 \* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
@@ -117,10 +117,10 @@ Todas las palabras femeninas que terminan con una `a` tienen una `t` silenciosa,
 <details markdown="1">
 <summary> Respuestas </summary>
 
-| Marroquí         | Castellano     |
-|:-----------------|:---------------|
-| lla, mashi dyalu | no, no es suyo |
-| yeh, dyalha      | si, es suya (de ella)      |
+| Marroquí         | Castellano            |
+|:-----------------|:----------------------|
+| lla, mashi dyalu | no, no es suyo        |
+| yeh, dyalha      | si, es suya (de ella) |
 
 </details>
 
