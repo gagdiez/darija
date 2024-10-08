@@ -5,7 +5,23 @@ layout: default
 ---
 
 # Comer
-Infinitivo: `akul`
+Infinitivo: `kla`
+
+## Pasado
+| Castellano | Marroquí         |
+|:-----------|:-----------------|
+| Yo         | ana   `kli`t    |
+| Tu (m)     | nta   `kli`t    | 
+| Tu (f)     | nti   `kli`ti   | 
+| El         | huwa  `kla`   | 
+| Ella       | hiya  `kla`t   | 
+| Nosotr@s   | Hna   `kli`na   | 
+| Ustedes    | ntuma `kli`tu | 
+| Ell@s      | huma  `kla`u  | 
+
+
+## Presente
+`Comer` es uno de los dos verbos que cambia su estructura interna en el presente continuo (el otro es `Agarrar`)
 
 | Castellano | Marroquí         |
 |:-----------|:-----------------|

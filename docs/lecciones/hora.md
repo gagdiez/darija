@@ -20,7 +20,3 @@ sidebar_position: 20
 |:---------|:-----------|
 | sa3a     | hora       |
 | dqiqa    | minuto     |
-| SSbaH    | la mañana  |
-| L3shiya  | la tarde   |
-| Lil      | la noche   |
-
