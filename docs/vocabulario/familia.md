@@ -99,12 +99,13 @@ La formula general es: `hij@ + ti@ (p/maternal) mio`.
 
 ## Familia política
 
-| Pariente       | Marroquí |
-|:---------------|:---------|
-| Cuñado/a       | nsib/t   |
-| Suegro (jefe)  | shij     |
-| Suegra (vieja) | 3guzt    |
-| Nuera          | 3rusa    |
+| Pariente                        | Marroquí |
+|:--------------------------------|:---------|
+| Cuñado/a                        | nsib/t   |
+| Cuñado/a (solo lo usa la mujer) | lusi/sa  |
+| Suegro (jefe)                   | shij     |
+| Suegra (vieja)                  | 3guzt    |
+| Nuera                           | 3rusa    |
 
 :::tip
 En vez de decirle `jefe` al suegro, o `vieja` a la suegra, uno puede simplemente referirse a ellos diciendo `3mmi` o `khalti`.

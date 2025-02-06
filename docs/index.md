@@ -15,9 +15,8 @@ A su vez, la pagina cuenta con un buscador en la parte superior que permite enco
 
 ### Bibliografía
 
-Recomendamos complementar las lecciones con el libro [Moroccan Arabic Textbook.pdf](https://raw.githubusercontent.com/gagdiez/darija/main/bibliografia/MoroccanArabicTextbook.pdf).
-
+Recomendamos complementar las lecciones con el libro [Moroccan Arabic Textbook.pdf](https://raw.githubusercontent.com/gagdiez/darija/main/docs/bibliografia/MoroccanArabicTextbook.pdf).
 
 :::warning
-No existe una forma oficial de escribir `darija`. El libro `Moroccan Arabic Textbook` (vinculo debajo) utiliza la forma basada en el ingles, pero aquí preferimos usar la francesa que es mas común en nuestro entorno.
+No existe una forma oficial de escribir `darija`. El libro `Moroccan Arabic Textbook` escribe palabras utilizando la fonética inglesa, pero en estos apuntes preferimos utilizar la francesa ya que es mas común en nuestro entorno
 :::
