@@ -56,14 +56,18 @@ Indice de verbos utilizados en este sitio.
 | Llevar                    | dda / yddi                     |
 | Llevar (en la mano)       | hzz / yhzz                     |
 | Llover                    | TaHt shta / kaTiH shta         |
+| Mirar                     | shaf / yshuf                   |
+| Morir                     | mut / ymut                     |
 | Olvidar                   | nsa / ynsa                     |
 | Parecer*                  | ban / yban                     |
 | Pasear                    | tsara / ytsara                 |
 | Pensar                    | dnn / ydnn                     |
 | Preguntar                 | nswl / ynswl                   |
+| Preparar                  | twshd                          |
 | Quedar*                   | bqa / ybqa                     |
 | Quedarse / Sentarse       | gls / ygls                     |
 | Recordar                  | tfkkr / ytfkkr                 |
+| Repetir                   | 3awd                           |
 | Saber                     | 3rf / y3rf                     |
 | Salir                     | khrj / ykhrj                   |
 | Terminar                  | sala / ysali                   |

@@ -2,7 +2,7 @@
 title: 📖 Posesión
 parent: lecciones
 layout: default
-sidebar_position: 1.3
+sidebar_position: 1.1
 ---
 
 import { Game } from '@site/src/components/near-component';
@@ -19,23 +19,25 @@ En darija tenemos dos formas de denotar posesión:
  1. Podemos agregar un sufijo al final de las palabras.
  2. Podemos user o conjugar la palabra `dyal`.
 
-| Prenombre        | Sufijo  | Dyal    |
-|------------------|---------|---------|
-| ana (yo)         | i / ya* | dyali   |
-| nti/a (tu)       | k       | dyalk   |
-| huwa (el)        | u / h*  | dyalu   |
-| hiya (ella)      | ha      | dyalha  |
-| Hna (nosotr@s)   | na      | dyalna  |
-| ntuma (vosotr@s) | kum     | dyalkum |
-| huma (ell@s)     | hum     | dyalhum |
+| Prenombre        | Sufijo  | Dyal      |
+|------------------|---------|-----------|
+| ana (yo)         | i / ya* | dyal`i`   |
+| nti/a (tu)       | k       | dyal`k`   |
+| huwa (el)        | u / h*  | dyal`u`   |
+| hiya (ella)      | ha      | dyal`ha`  |
+| Hna (nosotr@s)   | na      | dyal`na`  |
+| ntuma (vosotr@s) | kum     | dyal`kum` |
+| huma (ell@s)     | hum     | dyal`hum` |
 
 :::tip
-\* Cambia la terminación para palabras que terminan en vocales. Por ejemplo, smit`i` (mi nombre), pero xu`ya` (mi hermano).
+- Cambia la terminación para palabras que terminan en vocales. Por ejemplo, `smiya` (nombre) se transforma en smit`i` (mi nombre), pero `khu` (hermano) se transforma en khu`ya` (mi hermano).
+- Las palabras femeninas que terminan en `a` tienen una `t` silenciosa, que aparece al agregar el pronombre posesivo. Por ejemplo, medin`t` `i` (mi ciudad), pero ktab`i` (mi libro).
+
 :::
 
-<details>
+---
 
-<summary> Ejemplos </summary>
+## Ejemplos
 
 #### Libro (ktab)
 
@@ -68,20 +70,33 @@ Todas las palabras femeninas que terminan con una `a` tienen una `t` silenciosa,
 
 #### Hermano (khu)
 
-| Castellano        | Con Pronombre | Con dyal          |
-|-------------------|---------------|-------------------|
-| hermano mio       | khu`ya`       | l-khu dyal`i`     |
-| hermano tuyo      | khu`k`        | l-khu dyal`k`     |
-| hermano de él     | khu`h`        | l-khu dyal`u`     |
-| hermano de ella   | khu`ha`       | l-khu dyal`ha`    |
-| hermano nuestra   | khu`na`       | l-khu dyal`na`    |
-| hermano vuestra   | khu`kum`      | l-khu dyal`kum`   |
-| hermano de ell@s  | khu`hum`      | l-khu dyal`hum`   |
-| hermano de Samira | -             | l-khu dyal Samira |
+| Castellano                 | Con Pronombre       | Con dyal                   |
+|----------------------------|---------------------|----------------------------|
+| hermano mio                | khu`ya`             | l-khu dyal`i`              |
+| hermano tuyo               | khu`k`              | l-khu dyal`k`              |
+| hermano de él              | khu`h`              | l-khu dyal`u`              |
+| hermano de ella            | khu`ha`             | l-khu dyal`ha`             |
+| hermano nuestra            | khu`na`             | l-khu dyal`na`             |
+| hermano vuestra            | khu`kum`            | l-khu dyal`kum`            |
+| hermano de ell@s           | khu`hum`            | l-khu dyal`hum`            |
+| hermano de Samira          | -                   | l-khu dyal Samira          |
+| en que trabaja tu hermano? | fash khddam khu`k`? | fash khddam l-khu dyal`k`? |
 
-</details>
+### Nombre (smiya)
 
----
+| Castellano                       | Con Pronombre | Con dyal               |
+|----------------------------------|---------------|------------------------|
+| nombre mio                       | smit`i`       | s-smiya dyal`i`        |
+| nombre tuyo                      | smit`k`       | s-smiya dyal`k`        |
+| nombre de él                     | smit`u`       | s-smiya dyal`u`        |
+| nombre de ella                   | smit`ha`      | s-smiya dyal`ha`       |
+| nombre nuestro                   | smit`na`      | s-smiya dyal`na`       |
+| nombre vuestro                   | smit`kum`     | s-smiya dyal`kum`      |
+| nombre de ell@s                  | smit`hum`     | s-smiya dyal`hum`      |
+| nombre de Guillermo              | -             | s-smiya dyal Guillermo |
+| cual es tu nombre / nombre tuyo? | shnu smit`k`? | shnu s-smiya dial`k`?  |
+
+<!-- ---
 
 ## De quien es esto / eso?
 
@@ -122,9 +137,10 @@ Todas las palabras femeninas que terminan con una `a` tienen una `t` silenciosa,
 | lla, mashi dyalu | no, no es suyo        |
 | yeh, dyalha      | si, es suya (de ella) |
 
-</details>
+</details> -->
 
 ---
+
 ## Jugar
 
 <Game uuid={109228585} evaluator={"gagdiez.near/widget/Darija.Lessons.Select"} />

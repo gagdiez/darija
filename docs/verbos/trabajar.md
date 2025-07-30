@@ -6,26 +6,26 @@ layout: default
 
 # Trabajar
 
-infinitivo: `khdamm/a`
+infinitivo: `khddam/a`
 
 | Castellano | Marroquí           | Marroquí         |
 |:-----------|:-------------------|:-----------------|
-| Yo         | ana kan`khdamm`    | ana khdamm/`a`   |
-| Tu (m)     | nta kat`khdamm`    | nta khdamm       |
-| Tu (f)     | nti kat`khdamm`i   | nti khdamm`a`    |
-| El         | huwa kay`khdamm`   | huwa khdamm      |
-| Ella       | hiya kat`khdamm`   | hiya khdamm`a`   |
-| Nosotr@s   | Hna kan`khdamm`u   | Hna khdamm`in`   |
-| Ustedes    | ntuma kat`khdamm`u | ntuma khdamm`in` |
-| Ell@s      | huma kay`khdamm`u  | huma khdamm`in`  |
+| Yo         | ana kan`khddam`    | ana khddam/`a`   |
+| Tu (m)     | nta kat`khddam`    | nta khddam       |
+| Tu (f)     | nti kat`khddam`i   | nti khddam`a`    |
+| El         | huwa kay`khddam`   | huwa khddam      |
+| Ella       | hiya kat`khddam`   | hiya khddam`a`   |
+| Nosotr@s   | Hna kan`khddam`u   | Hna khddam`in`   |
+| Ustedes    | ntuma kat`khddam`u | ntuma khddam`in` |
+| Ell@s      | huma kay`khddam`u  | huma khddam`in`  |
 
 #### Nota
-`khdamm` también se puede utilizar en su forma simple, sin el `ka` de la costumbre:
-- Ana khdamm
-- Nta khdamm
-- Nti khdamma
-- Huwa khdamm
-- Hiya khdamma 
-- Hna khdammu
-- Ntuma khdammu
-- Huma khdammu
+`khddam` también se puede utilizar en su forma simple, sin el `ka` de la costumbre:
+- Ana khddam
+- Nta khddam
+- Nti khddama
+- Huwa khddam
+- Hiya khddama 
+- Hna khddamu
+- Ntuma khddamu
+- Huma khddamu

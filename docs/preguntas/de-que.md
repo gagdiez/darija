@@ -8,4 +8,4 @@ layout: default
 
 | Marroquí    | Pronunciación | Castellano       |
 |:------------|:--------------|:-----------------|
-| fash khdamm | fash jdam     | De que trabajas? |
+| fash khddam | fash jdam     | De que trabajas? |
